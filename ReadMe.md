@@ -115,7 +115,7 @@ Extensive experience with Microsoft 365, Azure/Entra ID, Intune, Windows Servers
 **CPQ / CRM Consultant** | July 2025 – Present  
 • Designed quoting and vendor workflows with API integrations to streamline bids, approvals, and analytics.  
 • Developed scripting logic to reduce data redundancy and optimize migration into automated CRM workflows.  
-• Architected database infrastructure for a website AI chatbot, improving hallucination control with RAG and governed context sources.  
+• Architected database infrastructure for a website Marketing AI chatbot, improving hallucination control with RAG and governed context sources.  
 
 ---
 
