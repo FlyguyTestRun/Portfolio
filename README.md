@@ -181,15 +181,15 @@ Extensive experience with Microsoft 365, Azure/Entra ID, Intune, Windows Servers
 ## Key Skills  
 
 - **Executive Support & Coordination**: Inbox management, scheduling, travel coordination, stakeholder communication, and project tracking using AI-assisted systems.
-- 
+  
 - **CRM & Productivity Tools**: Pipeline Automations, Creatio, Microsoft 365, Teams, Trello, ServiceNow, Power BI, Zapier, Glide, WordPress.
-- ​
+  ​
 - **Data Management & Reporting**: KPI collection, dashboards, financial data organization, Azure SQL, data modeling, and analytics.
-- ​
+  ​
 - **Automation & Scripting**: PowerShell and Python for process automation, monitoring, and CRM/ERP integrations.
-- ​
+  ​
 - **Communication**: Clear, professional written and verbal communication; drafting responses, documenting procedures, and preparing executive summaries.
-- ​
+  ​
 - **AI Tools**: Salesforce Einstein, Microsoft Copilot, HubSpot AI Builder, Glide, Cursor, Obsidian, Google Colab, Opus, Claude, Ollama, LM Studio, VS Code.​
 
 ---
