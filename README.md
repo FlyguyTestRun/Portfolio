@@ -21,23 +21,33 @@ Extensive experience with Microsoft 365, Azure/Entra ID, Intune, Windows Servers
 
 **Microsoft & Enterprise Infrastructure**  
 
+
 • Microsoft 365 (Exchange Online, SharePoint Online, Teams, OneDrive)
+
 ​
 • Azure / Entra ID, Conditional Access, identity governance
+
 ​
 • Intune & Autopilot for endpoint management and compliance
+
 ​
 • Windows Server 2012–2023 (on-premises and hybrid)
+
 ​
-• Active Directory Domain Services (AD DS), Group Policy, domain design and migrations​
+• Active Directory Domain Services (AD DS), Group Policy, domain design and migrations
+​
 
 **Virtualization, Backup & Recovery**
 
+
 • VMware, Microsoft Hyper-V, Cloudshare (lab and training environment)
+
 ​
 • Hyper-converged infrastructure (HCI - planning and deployment)
+
 ​
 • Backup, disaster recovery, and business continuity planning​
+
 
 **Automation & Scripting**  
 
