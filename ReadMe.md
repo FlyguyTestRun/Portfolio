@@ -23,7 +23,7 @@ Proven track record translating complex infrastructure, identity, and operationa
 
 ### Enterprise Platforms & Identity
 - Microsoft 365 (Exchange Online, SharePoint Online, Teams, OneDrive)
-- Azure & AWS; Entra ID, Conditional Access, identity governance
+- AWS, Entra ID, Conditional Access, identity governance
 - Intune & Autopilot (endpoint compliance, lifecycle automation)
 - Windows Server 2012–2023 (on-premises, hybrid, cloud-integrated)
 - Active Directory Domain Services (AD DS), Group Policy, domain migrations
