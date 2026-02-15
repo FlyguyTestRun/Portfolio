@@ -2,8 +2,8 @@ import ollama
 from docx import Document
 from fpdf import FPDF
 
-# Claude generates content (simulate with Ollama for local)
-prompt = "Generate resume section for agentic AI skills."
+# Generates content with Open LLMs from Ollama (special use test of quantisized models for local phone AI promts connected to cloud proprietary models)
+prompt = Generated test runs for Spiritual Healing App agentic AI "training".
 content = ollama.generate(model='phi3:mini', prompt=prompt)['response']
 
 # Save to ReadMe.md
