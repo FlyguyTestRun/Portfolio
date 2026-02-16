@@ -30,7 +30,7 @@ Senior AI Architect-Engineer with 22+ years of enterprise technology experience 
 ### [ISD Systems Showcase](https://github.com/FlyguyTestRun/Keller-ISD-Showcase)
 **K-12 Identity Management, Network Segmentation, and Infrastructure Automation**
 
-This is a targeted portfolio demonstrating enterprise Microsoft infrastructure expertise for K-12 educational environments. I used a similar "fake" dataset created for CoreSKills4ai training modules pulling from TCP/IP, HTTP, HIPPA, FERPA etc. 
+This is a targeted portfolio demonstrating enterprise Microsoft infrastructure expertise for K-12 educational environments. I used a similar "fake" dataset created for CoreSKills4ai training modules pulling from TCP/IP, HTTP, HIPPA, FERPA protocols. 
 
 **Key Components:**
 - KISD Identity Management - PowerShell automation for student/staff provisioning
