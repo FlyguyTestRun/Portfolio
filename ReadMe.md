@@ -27,10 +27,10 @@ Senior AI Architect-Engineer with 22+ years of enterprise technology experience 
 
 ## Featured Projects
 
-### [Keller ISD Systems Engineering Showcase](https://github.com/FlyguyTestRun/Keller-ISD-Showcase)
+### [ISD Systems Showcase](https://github.com/FlyguyTestRun/Keller-ISD-Showcase)
 **K-12 Identity Management, Network Segmentation, and Infrastructure Automation**
 
-Targeted portfolio demonstrating enterprise Microsoft infrastructure expertise for K-12 educational environments.
+This is a targeted portfolio demonstrating enterprise Microsoft infrastructure expertise for K-12 educational environments. I used a similar "fake" dataset created for CoreSKills4ai training modules pulling from TCP/IP, HTTP, HIPPA, FERPA etc. 
 
 **Key Components:**
 - KISD Identity Management - PowerShell automation for student/staff provisioning
@@ -45,12 +45,24 @@ Targeted portfolio demonstrating enterprise Microsoft infrastructure expertise f
 ### [CoreSkills4AI Training Platform](https://github.com/FlyguyTestRun/CoreSkills4AI)
 **Professional Training Modules for AI, DevOps, and Enterprise Infrastructure**
 
-Comprehensive training platform with 5 production-ready modules:
+Comprehensive training platform with 25 production-ready modules:
+Examples like:
 1. Docker Microservices - 6-container architecture with observability
 2. PowerShell Automation - Enterprise identity management
 3. Docker Labs - Advanced debugging and optimization
-4. Agentic AI Engineering - PIV workflow with Claude AI
-5. Docker Examples - Beginner tutorials
+4. Entra ID, ADDS (RBAC), Intune MDM, MAM managment 
+5. Symantic Embedding of Vector Databases
+6. Data migration and managment
+7. Data security and managment
+8. Distict AI platforms best use cases
+9. SalesForce (AgentForce) training and integrations
+10. How to build "safe" gaurdrails
+11. Systems design and Engineering practices
+13. Agentic AI Engineering - PIV workflow with Claude AI
+14. Docker Examples - Beginner, and advanced tutorials
+15. Build containers for the various classroom virtual enviorments
+
+My scope at CoreSkills was to build advanced coding modules in Python, Rest, Powershell and Java. Help design and build the application and frontend UI/UX. 
 
 **Technologies:** Docker, Python, FastAPI, PowerShell, PostgreSQL, Redis, Grafana
 
@@ -76,7 +88,7 @@ Comprehensive training platform with 5 production-ready modules:
 
 - **AZ-104** - Azure Administrator Associate
 - **MD-102** - Endpoint Administrator
-- **AZ-800/801** - Windows Server Hybrid Administrator *(in progress)*
+- **AZ-800/801** - Windows Server Hybrid Administrator
 
 ---
 
