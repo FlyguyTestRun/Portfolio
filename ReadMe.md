@@ -113,7 +113,11 @@ I blend deep hands-on systems engineering experience with architectural strategy
 
 
 
-Senior AI Architect-Engineer with 22+ years of enterprise technology experience designing, implementing, and modernizing secure Microsoft infrastructures. Expertise in enterprise GenAI platforms, RAG systems, agentic workflows, and Microsoft 365/Azure administration.
+Current focus
+
+Next GenAI integrating with enterprise technology to design agnostic to platform solutions, allowing for stakeholders, choice of platform, combining CRM, CMMS app design into full stack solutions, modernizing secure infrastructures to fit stakeholders evolving needs. 
+
+Offering solutions enterprise GenAI platforms, RAG systems, agentic workflows, and Microsoft 365/Azure administration.
 
 **Core Competencies:**
 - Enterprise GenAI & RAG Systems
