@@ -1,6 +1,6 @@
 # Bryan Shaw - Professional Portfolio
 
-**Senior AI Architect-Engineer | 22+ Years Enterprise Experience | Microsoft Infrastructure Specialist**
+** Systems Engineer | 22+ Years Enterprise Experience | Microsoft Infrastructure Specialist**
 
 **Location:** Dallas-Fort Worth, TX  
 **Contact:** [BryanJShaw@gmail.com](mailto:BryanJShaw@gmail.com) | 817-653-5656  
