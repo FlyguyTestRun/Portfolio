@@ -8,9 +8,7 @@
 
 ---
 
-## Resume
-
-📄 **[View Full Resume](./resume/Bryan-Shaw-Resume.md)
+## Resume 📄 **[View Full Resume](./resume/Bryan-Shaw-Resume.md)
 
 ⸻
 
