@@ -14,7 +14,7 @@
 
 **Professional Summary:**  Bryan Shaw — Professional Portfolio
 
-Senior Systems Engineer | Systems Architect | Microsoft Infrastructure Specialist
+Systems Engineering/Architecture | Microsoft Infrastructure Specialist
 Location: Dallas-Fort Worth, TX
 Contact: BryanJShaw@gmail.com | 817-653-5656
 LinkedIn: linkedin.com/in/bryan-shaw-45a23124
