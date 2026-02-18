@@ -113,18 +113,16 @@ I blend deep hands-on systems engineering experience with architectural strategy
 
 
 
-Current focus
+## Current focus
 
-Next GenAI integrating with enterprise technology to design agnostic to platform solutions, allowing for stakeholders, choice of platform, combining CRM, CMMS app design into full stack solutions, modernizing secure infrastructures to fit stakeholders evolving needs. 
+Next GenAI integrating with enterprise technology to design agnostic to platform MAO solutions, allowing for stakeholders, choice of platform, combining CRM, CMMS app design into full stack solutions, modernizing secure infrastructures to fit stakeholders evolving needs. 
 
-Offering solutions enterprise GenAI platforms, RAG systems, agentic workflows, and Microsoft 365/Azure administration.
+Offering solutions enterprise GenAI platforms, RAG systems, agentic workflows, and Microsoft 365/Azure administration. 
 
 **Core Competencies:**
 - Enterprise GenAI & RAG Systems
-- Microsoft 365 / Azure / Entra ID Administration
 - Docker Containerization & Microservices
 - PowerShell & Python Automation
-- K-12 Educational Technology
 - FastAPI & Async Backend Development
 
 ---
@@ -134,13 +132,13 @@ Offering solutions enterprise GenAI platforms, RAG systems, agentic workflows, a
 ### [ISD Systems Showcase](https://github.com/FlyguyTestRun/Keller-ISD-Showcase)
 **K-12 Identity Management, Network Segmentation, and Infrastructure Automation**
 
-This is a targeted portfolio demonstrating enterprise Microsoft infrastructure expertise for K-12 educational environments. I used a similar "fake" dataset created for CoreSKills4ai training modules pulling from TCP/IP, HTTP, HIPPA, FERPA protocols. 
+This is a targeted portfolio demonstrating enterprise Microsoft infrastructure expertise for K-12 educational environments. I use similar "fake" dataset created for CoreSKills4ai training modules pulling from healthcare, finacial legal datasets in virtual environments to teach TCP/IP, HTTP, HIPPA, FERPA protocols. 
 
-**Key Components:**
-- KISD Identity Management - PowerShell automation for student/staff provisioning
+**Key Components for ISD Module:**
+- ISD Identity Management - PowerShell automation for student/staff provisioning
 - Veeam Backup & DR - Educational data protection strategies
-- Dell iDRAC Management - Enterprise server health monitoring
-- K-12 Network Architecture - VLAN segmentation with CIPA/FERPA compliance
+- iDRAC Management - Enterprise server health monitoring
+- Network Architecture - VLAN segmentation with CIPA/FERPA compliance
 
 **Technologies:** PowerShell, Azure AD, Active Directory, Veeam, Dell iDRAC
 
