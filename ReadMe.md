@@ -1,6 +1,6 @@
 # Bryan Shaw - Professional Portfolio
 
-** Systems Engineer | 22+ Years Enterprise Experience | Microsoft Infrastructure Specialist**
+** Systems Engineer/Architect | 22+ Years Enterprise Experience | Microsoft Infrastructure Specialist**
 
 **Location:** Dallas-Fort Worth, TX  
 **Contact:** [BryanJShaw@gmail.com](mailto:BryanJShaw@gmail.com) | 817-653-5656  
@@ -10,15 +10,7 @@
 
 ## Resume
 
-📄 **[View Full Resume](./resume/Bryan-Shaw-Resume.md)**
-
-**Professional Summary:**  Bryan Shaw — Professional Portfolio
-
-Systems Engineering/Architecture | Microsoft Infrastructure Specialist
-Location: Dallas-Fort Worth, TX
-Contact: BryanJShaw@gmail.com | 817-653-5656
-LinkedIn: linkedin.com/in/bryan-shaw-45a23124
-GitHub: github.com/FlyguyTestRun
+📄 **[View Full Resume](./resume/Bryan-Shaw-Resume.md)
 
 ⸻
 
