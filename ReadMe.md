@@ -22,7 +22,7 @@ Core Competencies
 	•	Enterprise Microsoft Infrastructure Architecture
 	•	Systems Design & Operational Engineering
 	•	Machine Learning Systems Integration
-	•	Hybrid Cloud Solutions (Azure,AWS & On-Prem)
+	•	Hybrid Cloud Solutions (Azure,AWS & On-Prem) Offering Full Stack Solutions 
 	•	Windows Server & Active Directory Services
 	•	Identity Management (Entra ID / AD DS / Intune)
 	•	Automation (PowerShell, Python)
