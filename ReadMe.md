@@ -77,7 +77,7 @@ That's what the MAO platform delivers.
 
 **Integration architecture — platform-agnostic by design:**
 
-MAO doesn't require replacing what companies already have. It connects to existing systems via REST API, webhooks, and structured data pipelines — then adds the intelligence layer that those platforms are missing: governed RAG retrieval, multi-agent reasoning, compliance validation, and explainable audit trails.
+Our MAO Platform doesn't require replacing what companies already have. It connects to existing systems via REST API, webhooks, and structured data pipelines — then adds the intelligence layer that those platforms are missing: governed RAG retrieval, multi-agent reasoning, compliance validation, and explainable audit trails.
 
 Current integration targets in active development:
 - **Microsoft 365 + Sharepoint** — Document intelligence, email summarization, meeting recording analysis
@@ -85,7 +85,7 @@ Current integration targets in active development:
 - **ERP / Financial Systems** — P&L analysis, variance reporting, pricing intelligence agents
 - **CMMS / Field Operations** — Maintenance history querying, work order intelligence, predictive maintenance briefings
 - **OT / Industrial Telemetry** — Sensor data ingestion, anomaly narration, incident summary agents
-- **Communication Platforms** — Teams, Slack, email — meeting recording transcription, action item extraction
+- **Communication Platforms** — Teams, Slack, email — meeting recording transcription, action item extraction on any platform
 - **POS / Transactional Systems** — Sales pattern analysis, demand forecasting, customer behavior intelligence
 - **Custom Internal Systems** — Any system with an API or data export can be onboarded as a MAO knowledge source
 
@@ -93,9 +93,9 @@ Current integration targets in active development:
 
 The C-suite question is no longer *"Should we do AI?"* — it's *"How do we govern it, trust it, and make it work with everything we've already built?"*
 
-MAO was architected specifically to answer that question. Every response is traceable to a source. Every agent action is logged in an ADR. Every compliance flag is deterministic — not probabilistic. And every deployment is configurable to the client's risk tolerance, whether that means cloud-connected, hybrid, or fully air-gapped.
+MAO was architected specifically to answer that question. Every response is traceable to a source. Every agent action is logged. Every compliance flag is deterministic — not probabilistic. And every deployment is configurable to the client's risk tolerance, whether that means cloud-connected, hybrid, or air-gapped.
 
-Organizations that have ten different AI subscriptions and zero AI strategy are the exact clients we serve best.
+Organizations that have different independant AI subscriptions without AI strategy are the exact clients we serve best.
 
 ---
 
@@ -104,10 +104,10 @@ Organizations that have ten different AI subscriptions and zero AI strategy are 
 ### [ISD Systems Showcase](https://github.com/FlyguyTestRun/Keller-ISD-Showcase)
 **K-12 Identity Management, Network Segmentation, and Infrastructure Automation**
 
-A targeted portfolio project demonstrating robust infrastructure design for a large educational district environment. Uses representative datasets across healthcare, financial, and legal domains in virtual environments to teach TCP/IP, HTTP, HIPAA, and FERPA protocols.
+A targeted portfolio project demonstrating robust infrastructure design for a large educational district environment. Uses representative datasets across healthcare, financial, and legal domains in virtual environments TCP/IP, HTTP, HIPAA, and FERPA protocols. School boards ready to go beyond the classroom with AI learning tools. 
 
 **Highlights / Responsibilities:**
-- Designed and implemented identity management workflows leveraging Azure AD, Entra ID, and AD DS
+- Designed and implemented identity management workflows leveraging Azure AD, Entra ID, and AD DS (the dominant stack already in most ISDs)
 - Automated provisioning processes using PowerShell for large-scale organizational identity and device enrollment
 - Architected secure, segmented network topologies aligned to compliance frameworks (CIPA/FERPA)
 - Integrated enterprise backup and disaster recovery procedures with Veeam
@@ -149,7 +149,7 @@ Comprehensive platform with 25+ production-ready modules spanning enterprise sys
 **AI Platform Architecture:**
 - Multi-agent orchestration (DAG-based pipelines, autonomous and supervised workflows)
 - RAG systems: ingestion, chunking, embedding, hybrid retrieval, semantic caching
-- LLM orchestration: Anthropic Claude, OpenAI, local models via Ollama for air-gapped deployments
+- LLM orchestration: Anthropic Claude, OpenAI, local models via Ollama for air-gapped deployments, letting client incorporate their existing stack into a robust governed enviorment.
 - Vector databases: Pinecone, Qdrant, local keyword and semantic fallback stores
 - Compliance automation, governance frameworks, audit logging
 
