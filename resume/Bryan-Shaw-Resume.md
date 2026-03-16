@@ -1,6 +1,6 @@
 # Bryan Shaw
-**AI Architect–Engineer | Enterprise GenAI & Automation Platforms | Microsoft Infrastructure**  \
-*Focus Areas: Enterprise GenAI Reference Architectures · RAG & Retrieval Systems · Agentic Workflows · Secure AI Automation*
+**CTO & AI Platform Architect | Multi-Agent Orchestration | Enterprise GenAI | Microsoft Infrastructure**  \
+*Focus Areas: Multi-Agent AI Platform Architecture · RAG & Retrieval Systems · Agentic Workflows · Secure AI Automation · Offline/Air-Gapped AI Deployment*
 
 **Location:** Dallas–Fort Worth, TX  \
 **Email:** [BryanJShaw@gmail.com](mailto:BryanJShaw@gmail.com)  \
@@ -11,11 +11,11 @@
 
 ## Professional Summary
 
-Senior AI Architect–Engineer with 20+ years of enterprise technology experience designing, operating, and modernizing secure Microsoft infrastructures and building production-grade Generative AI platforms, RAG systems, and agentic workflows for real-world enterprise use.
+AI Platform Architect and CTO with 22+ years of enterprise technology experience — currently leading architecture, engineering, and go-to-market strategy for a production-grade multi-agent AI orchestration platform deployed on Azure.
 
-Bridges enterprise architecture leadership with hands-on engineering execution, delivering end-to-end AI systems including LLM orchestration, retrieval pipelines, agent frameworks, observability, and governance. Designs reusable reference architectures that balance scalability, security, cost control, and responsible AI guardrails in regulated environments.
+Bridges enterprise architecture leadership with hands-on engineering execution: designing and shipping multi-agent pipelines, governed RAG systems, compliance automation engines, and secure LLM orchestration layers for commercial and regulated enterprise environments. Equally fluent in cloud-native and offline/air-gapped deployment architectures for industries requiring strict data sovereignty.
 
-Proven track record translating complex infrastructure, identity, and operational data into governed knowledge systems and AI-assisted automation that accelerate decision-making, reduce operational friction, and improve system reliability. Recognized for architectural clarity, disciplined execution, and mentoring technical teams while delivering production-ready systems.
+Proven at translating complex operational data, industrial telemetry, and institutional knowledge into governed AI knowledge platforms that accelerate decision-making, reduce operational friction, and deliver measurable ROI. Recognized for architectural clarity, disciplined execution, and the ability to move from concept to production-deployed system with a small, high-trust team.
 
 ---
 
@@ -29,14 +29,17 @@ Proven track record translating complex infrastructure, identity, and operationa
 - Active Directory Domain Services (AD DS), Group Policy, domain migrations
 
 ### Generative AI Architecture & Engineering
+- Multi-agent orchestration platform design (DAG pipelines, autonomous and supervised workflows)
 - Enterprise GenAI reference architectures
-- LLM orchestration (cloud-hosted and local models)
+- LLM orchestration (cloud-hosted, local/Ollama, and air-gapped deployments)
 - Retrieval-Augmented Generation (RAG) pipelines
-- Semantic chunking, metadata extraction, hybrid retrieval
-- Vector databases and embedding strategies
+- Semantic chunking, metadata extraction, hybrid retrieval, semantic caching
+- Vector databases: Pinecone, Qdrant, local keyword and semantic fallback stores
 - Prompt engineering, versioning, evaluation, and testing harnesses
 - Agentic workflows (manual and autonomous orchestration)
+- Compliance automation — zero-token deterministic detection across regulatory frameworks
 - Secure AI tool execution and MCP-based architectures
+- Offline/air-gapped AI deployment for regulated environments
 
 ### Automation, DevOps & Platform Engineering
 - Python and PowerShell for orchestration and systems automation
@@ -63,43 +66,56 @@ Proven track record translating complex infrastructure, identity, and operationa
 ---
 
 ## Enterprise AI & Platform Engineering Projects
-**CoreSkills4AI — https://coreskills4ai.com/**
 
-### Enterprise Microsoft & AI Lab Platforms
+### Multi-Agent AI Orchestration Platform (Production)
+- Architected and shipped a production multi-tenant AI orchestration platform on Azure Container Apps — serving enterprise clients in commercial and government-adjacent markets.
+- Platform spans 10 architectural layers: Foundation → Agent Architecture → LLMs → Tool Use → Frameworks → Orchestration (DAG) → Memory → Knowledge/RAG → Deployment → Monitoring/Governance.
+- Delivered full CI/CD pipeline (GitHub Actions → ACR → Azure Container Apps), Application Insights observability, budget guardrails, and semantic caching.
+- Designed and implemented enterprise-grade RBAC with 8 roles, Entra ID SSO, ADR-based change control, and archive/rollback for all agent configurations.
+
+### Enterprise Food Service AI Platform (Commercial Deployment)
+- Scoping and delivering an AI-powered operations platform for a multi-location enterprise food service chain.
+- Capabilities: AI ordering interface, demand forecasting, POS integration, recommendation engine, customer retention analytics, and admin self-service portal.
+- Architected as a phased SaaS deployment — pilot proving ROI, scaling to full chain on recurring platform license model.
+
+### OT Industrial Cybersecurity — AI Orchestration Partnership
+- Partnership architecture for integrating AI orchestration and governance capabilities behind an industrial OT security platform.
+- Design pattern: Containerized orchestration layer communicates with threat intelligence engine via REST API contract — neither party exposes source code; hardware license-locked deployments protect both IP estates.
+- Scoped for commercial OT/industrial clients; air-gapped deployment architecture designed for regulated and government environments.
+
+### CoreSkills4AI — https://coreskills4ai.com/
 - Designed and maintained production-representative enterprise lab environments (Azure, Ubuntu, Linux) simulating real-world production infrastructures.
-- Built AI-enabled validation environments integrating Entra ID, Intune, Windows Server, Microsoft 365, and automation tooling.
-- Delivered hands-on technical instruction in isolated environments for architecture validation, AI system testing, and operational readiness.
-
-### Generative AI & Knowledge Platforms
 - Architected and implemented RAG-based knowledge systems using vector databases, semantic retrieval, and governed metadata pipelines.
-- Designed ingestion workflows that transform operational documentation, system telemetry, and runbooks into searchable, trustworthy AI knowledge.
-- Developed prompt catalogs, evaluators, and retrieval services to ensure consistent AI behavior across use cases.
-
-### Agentic & Workflow Automation
-- Developed agent-style workflows supporting:
-  - Infrastructure analysis
-  - Troubleshooting and diagnostics
-  - Configuration reviews
-  - Procedural guidance and documentation generation
-
-### DevOps & AI Tooling
+- Developed agent-style workflows for infrastructure analysis, troubleshooting, configuration review, and procedural documentation generation.
 - Containerized AI services and internal tools using Docker for local development and controlled deployment.
-- Implemented structured workflows for AI prompts, scripts, documentation, and architecture patterns.
-- Established reusable delivery patterns to reduce time-to-production and improve consistency across AI-enabled solutions.
 
 ---
 
 ## Professional Experience
 
+### AI Platform Startup — Dallas–Fort Worth, TX
+**CTO & Founding Partner** | 2025 – Present
+
+Co-founder and technical lead for a multi-tenant AI orchestration platform (AIXaaS) serving enterprise and government-adjacent clients. Own all platform architecture, engineering roadmap, cloud infrastructure, and client technical delivery.
+
+- Architected and shipped a 10-layer multi-agent orchestration platform on Azure Container Apps — spanning ingestion, retrieval, compliance detection, agent execution, observability, and governance.
+- Designed and implemented a zero-token compliance engine performing deterministic pattern-matching across 23 regulatory frameworks (HIPAA, GDPR, SOX, CMMC, etc.) with no LLM inference overhead.
+- Built a 3-tier hybrid vector storage architecture (keyword fallback + local semantic + cloud Pinecone) with automatic tier failover, disk persistence, and cold-start recovery.
+- Engineered universal file ingestion pipeline supporting 20+ formats (PDF, DOCX, audio, video, structured data, web) with async job queuing for enterprise-scale knowledge ingestion.
+- Deployed Entra ID SSO + 8-role RBAC across all platform surfaces; implemented ADR-based change control for all agent configuration changes.
+- Scoped and delivered AI platform deployments for a multi-location enterprise food service chain — AI ordering intelligence, demand forecasting, POS integration, and customer retention analytics.
+- Architecting partnership deployment with an OT industrial cybersecurity firm — integrating MAO orchestration and governance layer behind their adversarial threat reasoning engine for enterprise and government environments.
+- Designed air-gapped/offline deployment architecture (local LLMs via Ollama, local vector stores, no external API dependencies) for regulated and government deployment scenarios.
+- Evaluated government contracting pathways (DOD food service logistics, industrial cybersecurity AI bids) in partnership with government contracting specialists.
+
 ### CoreSkills4AI – Dallas–Fort Worth, TX
-**Senior AI Architect–Engineer & Platform Lead** | June 2025 – Present
-- Own and evolve enterprise-grade Generative AI reference architectures, including RAG pipelines, agentic workflows, orchestration layers, and secure execution models.
-- Design and build end-to-end AI systems spanning ingestion, retrieval, inference, evaluation, observability, and governance.
-- Develop reusable architectural patterns and platform components that accelerate delivery while enforcing guardrails for security, cost control, and responsible AI use.
-- Implement AI-enabled automation integrated with Microsoft infrastructure, identity platforms, documentation repositories, and operational tooling.
-- Produce architecture documentation, design rationales, and best-practice guidance for business stakeholders, engineers, and technical teams.
-- Lead hands-on labs and platform walkthroughs that transition users from GUI-based tools to scripted, API-driven, and production-aligned AI workflows.
-- Consult with practitioners on applied AI engineering, enterprise integration patterns, and disciplined delivery practices.
+**Senior AI Architect–Engineer & Platform Lead** | June 2024 – 2025
+- Owned and evolved enterprise-grade Generative AI reference architectures, including RAG pipelines, agentic workflows, orchestration layers, and secure execution models.
+- Designed and built end-to-end AI systems spanning ingestion, retrieval, inference, evaluation, observability, and governance.
+- Developed reusable architectural patterns and platform components that accelerate delivery while enforcing guardrails for security, cost control, and responsible AI use.
+- Implemented AI-enabled automation integrated with Microsoft infrastructure, identity platforms, documentation repositories, and operational tooling.
+- Produced architecture documentation, design rationales, and best-practice guidance for business stakeholders, engineers, and technical teams.
+- Led hands-on labs and platform walkthroughs transitioning practitioners from GUI-based tools to scripted, API-driven, and production-aligned AI workflows.
 
 ### Trial IT Services, LLC – Dallas, TX
 **IT Consultant & Systems Engineer** | June 2013 – 2024
