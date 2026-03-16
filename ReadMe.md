@@ -14,7 +14,7 @@
 ---
 
 **Professional Summary:**
-AI Architect and Platform Engineer with 22+ years of enterprise technology experience. Currently serving as CTO & Founding Partner of an AI platform company — designing and shipping production-grade multi-agent orchestration systems, governed RAG pipelines, compliance automation engines, and secure AI deployment architectures. Deep background in Microsoft Azure, enterprise identity, containerized AI services, and translating complex operational data into governed knowledge platforms.
+AI Architect and Platform Engineer with 22+ years of enterprise technology experience. Currently serving as CTO & Founding Partner of an AI platform company designing and shipping production-grade multi-agent orchestration systems, governed RAG pipelines, compliance automation engines, and secure AI deployment architectures. Deep background in Microsoft Azure, enterprise identity, containerized AI services, and translating complex operational data into governed knowledge platforms.
 
 **Core Competencies:**
 - Multi-Agent Orchestration & Agentic AI Platforms
@@ -35,12 +35,12 @@ AI Architect and Platform Engineer with 22+ years of enterprise technology exper
 ### AI Platform Company — CTO & Founding Partner
 **Multi-Agent AI Orchestration Platform (AIXaaS)** | 2025 – Present
 
-Leading architecture and engineering for a production-grade, multi-tenant AI orchestration platform deployed on Azure. The platform delivers governed retrieval-augmented generation, zero-token compliance detection across 23 regulatory frameworks, multi-agent workflow orchestration, and enterprise identity integration.
+Leading architecture and engineering for a production-grade, multi-tenant AI orchestration platform deployed on Azure, AWS, Google. The platform delivers governed retrieval-augmented generation, zero-token compliance detection across 23 regulatory frameworks, multi-agent workflow orchestration, and enterprise identity integrations agnostic to platform.
 
 **Platform highlights:**
 - 10-layer multi-agent architecture with full audit trail and ADR change control
 - 3-tier hybrid vector storage (keyword + semantic + cloud) with automatic failover
-- Zero-token compliance engine — pattern-matching across 23 regulatory frameworks with no LLM calls required
+- Zero-token compliance engine with pattern-matching across 23 regulatory frameworks with no LLM calls required
 - Azure Container Apps deployment with Entra ID SSO, RBAC, and semantic caching
 - Universal file ingestion pipeline (20+ formats: PDF, DOCX, audio, video, web, structured data)
 - Async job queue for large-scale knowledge ingestion
@@ -50,7 +50,7 @@ Leading architecture and engineering for a production-grade, multi-tenant AI orc
 **Active engagements:**
 - Deploying the platform for a multi-location enterprise food service chain — AI ordering intelligence, demand forecasting, POS integration, and customer retention analytics
 - Partnership scoping with an OT cybersecurity firm for AI-augmented industrial threat intelligence — delivering orchestration and governance on top of their adversarial reasoning engine
-- Government contracting alignment for potential DOD food service and cybersecurity AI bids
+- Government contracting alignment for potential DOD cybersecurity AI bids
 
 ---
 
@@ -104,7 +104,7 @@ Comprehensive platform with 25+ production-ready modules spanning enterprise sys
 **AI Platform Architecture:**
 - Multi-agent orchestration (DAG-based pipelines, autonomous and supervised workflows)
 - RAG systems: ingestion, chunking, embedding, hybrid retrieval, semantic caching
-- LLM orchestration: Anthropic Claude, OpenAI, local models via Ollama, air-gapped deployments
+- LLM orchestration: Anthropic Claude, OpenAI, local models via Ollama for air-gapped deployments
 - Vector databases: Pinecone, Qdrant, local keyword and semantic fallback stores
 - Compliance automation, governance frameworks, audit logging
 
