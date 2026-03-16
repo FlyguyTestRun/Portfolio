@@ -11,7 +11,7 @@
 
 ## Professional Summary
 
-AI Platform Architect and CTO with 22+ years of enterprise technology experience — currently leading architecture, engineering, and go-to-market strategy for a production-grade multi-agent AI orchestration platform deployed on Azure.
+AI Platform Architect and CTO with 22+ years of enterprise technology experience currently leading architecture, engineering, and go-to-market strategy for a production-grade multi-agent AI orchestration platform deployed on Azure.
 
 Bridges enterprise architecture leadership with hands-on engineering execution: designing and shipping multi-agent pipelines, governed RAG systems, compliance automation engines, and secure LLM orchestration layers for commercial and regulated enterprise environments. Equally fluent in cloud-native and offline/air-gapped deployment architectures for industries requiring strict data sovereignty.
 
@@ -68,7 +68,7 @@ Proven at translating complex operational data, industrial telemetry, and instit
 ## Enterprise AI & Platform Engineering Projects
 
 ### Multi-Agent AI Orchestration Platform (Production)
-- Architected and shipped a production multi-tenant AI orchestration platform on Azure Container Apps — serving enterprise clients in commercial and government-adjacent markets.
+- Architected and shipped a production multi-tenant AI orchestration platform on Azure Container Apps serving enterprise clients in commercial and government-adjacent markets.
 - Platform spans 10 architectural layers: Foundation → Agent Architecture → LLMs → Tool Use → Frameworks → Orchestration (DAG) → Memory → Knowledge/RAG → Deployment → Monitoring/Governance.
 - Delivered full CI/CD pipeline (GitHub Actions → ACR → Azure Container Apps), Application Insights observability, budget guardrails, and semantic caching.
 - Designed and implemented enterprise-grade RBAC with 8 roles, Entra ID SSO, ADR-based change control, and archive/rollback for all agent configurations.
@@ -76,7 +76,7 @@ Proven at translating complex operational data, industrial telemetry, and instit
 ### Enterprise Food Service AI Platform (Commercial Deployment)
 - Scoping and delivering an AI-powered operations platform for a multi-location enterprise food service chain.
 - Capabilities: AI ordering interface, demand forecasting, POS integration, recommendation engine, customer retention analytics, and admin self-service portal.
-- Architected as a phased SaaS deployment — pilot proving ROI, scaling to full chain on recurring platform license model.
+- Architected as a phased SaaS deployment pilot proving ROI, scaling to full chain on recurring platform license model.
 
 ### OT Industrial Cybersecurity — AI Orchestration Partnership
 - Partnership architecture for integrating AI orchestration and governance capabilities behind an industrial OT security platform.
@@ -99,14 +99,14 @@ Proven at translating complex operational data, industrial telemetry, and instit
 Co-founder and technical lead for a multi-tenant AI orchestration platform (AIXaaS) serving enterprise and government-adjacent clients. Own all platform architecture, engineering roadmap, cloud infrastructure, and client technical delivery.
 
 - Architected and shipped a 10-layer multi-agent orchestration platform on Azure Container Apps — spanning ingestion, retrieval, compliance detection, agent execution, observability, and governance.
-- Designed and implemented a zero-token compliance engine performing deterministic pattern-matching across 23 regulatory frameworks (HIPAA, GDPR, SOX, CMMC, etc.) with no LLM inference overhead.
+- Designed and implemented a zero-token compliance engine performing deterministic pattern-matching across 23 regulatory frameworks (HIPAA, GDPR, SOX, CMMC, etc.) with little to no LLM inference overhead.
 - Built a 3-tier hybrid vector storage architecture (keyword fallback + local semantic + cloud Pinecone) with automatic tier failover, disk persistence, and cold-start recovery.
 - Engineered universal file ingestion pipeline supporting 20+ formats (PDF, DOCX, audio, video, structured data, web) with async job queuing for enterprise-scale knowledge ingestion.
 - Deployed Entra ID SSO + 8-role RBAC across all platform surfaces; implemented ADR-based change control for all agent configuration changes.
 - Scoped and delivered AI platform deployments for a multi-location enterprise food service chain — AI ordering intelligence, demand forecasting, POS integration, and customer retention analytics.
 - Architecting partnership deployment with an OT industrial cybersecurity firm — integrating MAO orchestration and governance layer behind their adversarial threat reasoning engine for enterprise and government environments.
 - Designed air-gapped/offline deployment architecture (local LLMs via Ollama, local vector stores, no external API dependencies) for regulated and government deployment scenarios.
-- Evaluated government contracting pathways (DOD food service logistics, industrial cybersecurity AI bids) in partnership with government contracting specialists.
+- Evaluated government contracting pathways (DOD logistics, industrial cybersecurity AI bids) in partnership with government contracting specialists.
 
 ### CoreSkills4AI – Dallas–Fort Worth, TX
 **Senior AI Architect–Engineer & Platform Lead** | June 2024 – 2025
