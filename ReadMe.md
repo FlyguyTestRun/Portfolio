@@ -9,9 +9,9 @@
 
 ---
 
-## Resume
+## Resume 📄 **[View Full Resume](./resume/Bryan-Shaw-Resume.md)**
 
-📄 **[View Full Resume](./resume/Bryan-Shaw-Resume.md)**
+---
 
 **Professional Summary:**
 AI Architect and Platform Engineer with 22+ years of enterprise technology experience. Currently serving as CTO & Founding Partner of an AI platform company — designing and shipping production-grade multi-agent orchestration systems, governed RAG pipelines, compliance automation engines, and secure AI deployment architectures. Deep background in Microsoft Azure, enterprise identity, containerized AI services, and translating complex operational data into governed knowledge platforms.
@@ -56,32 +56,46 @@ Leading architecture and engineering for a production-grade, multi-tenant AI orc
 
 ## Featured Projects
 
-### [Keller ISD Systems Engineering Showcase](https://github.com/FlyguyTestRun/Keller-ISD-Showcase)
+### [ISD Systems Showcase](https://github.com/FlyguyTestRun/Keller-ISD-Showcase)
 **K-12 Identity Management, Network Segmentation, and Infrastructure Automation**
 
-Targeted portfolio demonstrating enterprise Microsoft infrastructure expertise for K-12 educational environments.
+A targeted portfolio project demonstrating robust infrastructure design for a large educational district environment. Uses representative datasets across healthcare, financial, and legal domains in virtual environments to teach TCP/IP, HTTP, HIPAA, and FERPA protocols.
 
-**Key Components:**
-- KISD Identity Management — PowerShell automation for student/staff provisioning
-- Veeam Backup & DR — Educational data protection strategies
-- Dell iDRAC Management — Enterprise server health monitoring
-- K-12 Network Architecture — VLAN segmentation with CIPA/FERPA compliance
+**Highlights / Responsibilities:**
+- Designed and implemented identity management workflows leveraging Azure AD, Entra ID, and AD DS
+- Automated provisioning processes using PowerShell for large-scale organizational identity and device enrollment
+- Architected secure, segmented network topologies aligned to compliance frameworks (CIPA/FERPA)
+- Integrated enterprise backup and disaster recovery procedures with Veeam
+- Developed infrastructure health monitoring, reporting, and alerting dashboards
 
-**Technologies:** PowerShell, Azure AD, Active Directory, Veeam, Dell iDRAC
+**Technologies:** PowerShell, Azure AD, Active Directory, Entra ID, Intune MDM, DHCP, DNS, VLAN segmentation, Veeam, Dell iDRAC
 
 ---
 
 ### [CoreSkills4AI Training Platform](https://github.com/FlyguyTestRun/CoreSkills4AI)
 **Professional Training Modules for AI, DevOps, and Enterprise Infrastructure**
 
-Comprehensive training platform with 5 production-ready modules:
+Comprehensive platform with 25+ production-ready modules spanning enterprise systems design, automation, and operational workflow development.
+
+**Module examples include:**
 1. Docker Microservices — 6-container architecture with observability
 2. PowerShell Automation — Enterprise identity management
 3. Docker Labs — Advanced debugging and optimization
-4. Agentic AI Engineering — PIV workflow with Claude AI
-5. Docker Examples — Beginner tutorials
+4. Entra ID, ADDS (RBAC), Intune MDM/MAM management
+5. Semantic Embedding & Vector Databases
+6. Data migration and management
+7. Data security and governance
+8. Distinct AI platform best use cases
+9. Salesforce (AgentForce) training and integrations
+10. Building safe AI guardrails
+11. Systems design and engineering practices
+12. Agentic AI Engineering — PIV workflow with Claude AI
+13. Docker Examples — Beginner to advanced tutorials
+14. Building containers for virtual classroom environments
 
-**Technologies:** Docker, Python, FastAPI, PowerShell, PostgreSQL, Redis, Grafana
+**My scope at CoreSkills:** Built advanced coding modules in Python, REST, PowerShell, and Java. Helped design and build the application and frontend UI/UX.
+
+**Technologies:** Docker, Python (FastAPI), PowerShell, PostgreSQL, Redis, Grafana
 
 ---
 
@@ -91,17 +105,19 @@ Comprehensive training platform with 5 production-ready modules:
 - Multi-agent orchestration (DAG-based pipelines, autonomous and supervised workflows)
 - RAG systems: ingestion, chunking, embedding, hybrid retrieval, semantic caching
 - LLM orchestration: Anthropic Claude, OpenAI, local models via Ollama, air-gapped deployments
-- Vector databases: Pinecone, Qdrant, local keyword fallback stores
+- Vector databases: Pinecone, Qdrant, local keyword and semantic fallback stores
 - Compliance automation, governance frameworks, audit logging
 
 **Cloud & Infrastructure:**
 - Microsoft Azure (Container Apps, Entra ID, Key Vault, App Insights, ACR, Azure Files)
 - Docker, containerization, CI/CD with GitHub Actions
 - Microsoft 365, Active Directory, Intune, Autopilot, VMware, Hyper-V
+- Windows Server 2012–2023, hybrid environments, network segmentation
 
 **Development & Automation:**
 - Python (FastAPI, async), PowerShell, REST API design
 - Infrastructure-as-Code, observability, operational telemetry
+- Disaster recovery, backup strategy, and business continuity
 
 ---
 
