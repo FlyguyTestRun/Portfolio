@@ -1,93 +1,115 @@
 # Bryan Shaw
-**CTO & AI Platform Architect | Multi-Agent Orchestration | Enterprise GenAI | Microsoft Infrastructure**  \
-*Focus Areas: Multi-Agent AI Platform Architecture · RAG & Retrieval Systems · Agentic Workflows · Secure AI Automation · Offline/Air-Gapped AI Deployment*
+**AI Architect & CTO | Multi-Agent Orchestration | Governed RAG | Amazon Bedrock & Claude | Enterprise GenAI**
 
-**Location:** Dallas–Fort Worth, TX  \
-**Email:** [BryanJShaw@gmail.com](mailto:BryanJShaw@gmail.com)  \
-**LinkedIn:** https://www.linkedin.com/in/bryan-shaw-45a23124/  \
+*Focus Areas: Agentic AI Platform Architecture · RAG & Retrieval Systems · Multi-Agent Orchestration · AWS Bedrock · Human-in-the-Loop Workflows · Secure & Governed AI · Offline/Air-Gapped Deployment*
+
+**Location:** Dallas–Fort Worth, TX
+**Email:** [BryanJShaw@gmail.com](mailto:BryanJShaw@gmail.com)
+**LinkedIn:** https://www.linkedin.com/in/bryan-shaw-45a23124/
 **GitHub:** https://github.com/FlyguyTestRun/
 
 ---
 
 ## Professional Summary
 
-AI Platform Architect and CTO with 22+ years of enterprise technology experience — currently leading architecture, engineering, and go-to-market strategy for a production-grade multi-agent AI orchestration platform deployed on Azure.
+AI Architect and CTO with 22+ years of enterprise technology experience — currently leading architecture, engineering, and delivery for a production-grade multi-agent AI orchestration platform serving enterprise and regulated-industry clients.
 
-Bridges enterprise architecture leadership with hands-on engineering execution: designing and shipping multi-agent pipelines, governed RAG systems, compliance automation engines, and secure LLM orchestration layers for commercial and regulated enterprise environments. Equally fluent in cloud-native and offline/air-gapped deployment architectures for industries requiring strict data sovereignty.
+Designs and ships production agentic AI systems end-to-end: multi-agent pipelines, governed RAG architectures, human-in-the-loop workflows, compliance automation engines, and secure LLM orchestration layers. Hands-on experience with Claude family models (native on Amazon Bedrock), Bedrock-pattern agent design, and multi-cloud deployments across AWS and Azure. Equally capable in cloud-native and offline/air-gapped architectures for environments requiring strict data sovereignty.
 
-Proven at translating complex operational data, industrial telemetry, and institutional knowledge into governed AI knowledge platforms that accelerate decision-making, reduce operational friction, and deliver measurable ROI. Recognized for architectural clarity, disciplined execution, and the ability to move from concept to production-deployed system with a small, high-trust team.
+Translates operational complexity into governed AI knowledge platforms that reduce friction, enforce compliance, and deliver measurable ROI. Active across six simultaneous client engagements spanning federal, cybersecurity, food service, education, automotive safety, and enterprise SaaS — while leading all platform architecture and engineering as a founding CTO.
 
 ---
 
 ## Technical Expertise
 
-### Enterprise Platforms & Identity
-- Microsoft 365 (Exchange Online, SharePoint Online, Teams, OneDrive)
-- Azure & AWS; Entra ID, Conditional Access, identity governance
-- Intune & Autopilot (endpoint compliance, lifecycle automation)
-- Windows Server 2012–2023 (on-premises, hybrid, cloud-integrated)
-- Active Directory Domain Services (AD DS), Group Policy, domain migrations
-
-### Generative AI Architecture & Engineering
+### Agentic AI Architecture & Engineering
 - Multi-agent orchestration platform design (DAG pipelines, autonomous and supervised workflows)
-- Enterprise GenAI reference architectures
-- LLM orchestration (cloud-hosted, local/Ollama, and air-gapped deployments)
-- Retrieval-Augmented Generation (RAG) pipelines
-- Semantic chunking, metadata extraction, hybrid retrieval, semantic caching
-- Vector databases: Pinecone, Qdrant, local keyword and semantic fallback stores
-- Prompt engineering, versioning, evaluation, and testing harnesses
-- Agentic workflows (manual and autonomous orchestration)
-- Compliance automation — zero-token deterministic detection across regulatory frameworks
-- Secure AI tool execution and MCP-based architectures
-- Offline/air-gapped AI deployment for regulated environments
+- Amazon Bedrock (Agents, Knowledge Bases, Guardrails, Flows) — architecture patterns and deployment
+- Claude family model integration — prompt schema design, adapter patterns, fine-tuning strategy, model optimization
+- Human-in-the-loop workflow patterns — approval gates, durable execution, pause/resume (Step Functions-equivalent)
+- Tool/function calling, MCP-based architectures, dynamic agent routing and memory management
+- Multi-step agent planning, reflection loops, and stopWhen execution control
+- LangChain/LangGraph-equivalent orchestration — built custom frameworks from first principles
+- AI guardrails design — deterministic compliance, zero-token PII detection, equivalent to Bedrock Guardrails
 
-### Automation, DevOps & Platform Engineering
-- Python and PowerShell for orchestration and systems automation
-- REST API design and systems integration
-- Azure SQL, Azure App Services, and SaaS-to-PaaS integration
-- Containerization with Docker for AI services and tooling
-- Version control, documentation, and CI-style workflows
-- Infrastructure-as-code concepts and configuration enforcement
-- Observability, logging, and operational telemetry
+### RAG Pipeline Design & Retrieval Systems
+- End-to-end RAG pipeline architecture: ingestion, chunking strategy, metadata extraction, embedding, indexing
+- Hybrid/vector retrieval — OpenSearch, pgvector, Pinecone, Qdrant, local semantic and keyword fallback
+- Advanced reranking, grounding, citation attribution, and source verification
+- Semantic caching, metadata-driven retrieval, enterprise knowledge modeling, trust-scored knowledge bases
+- Universal ingestion pipeline supporting 20+ formats (PDF, DOCX, audio, video, structured data, web)
 
-### Knowledge Systems & Data Platforms
-- Enterprise knowledge modeling and taxonomy design
-- Governed data ingestion pipelines
-- Verified-source and trust-scored knowledge bases
-- Knowledge graphs and metadata-driven retrieval
-- Structured data integration (Azure SQL)
+### Cloud Architecture — AWS & Azure
+- **AWS:** Bedrock (Agents, Knowledge Bases, Guardrails), Lambda, Step Functions, EventBridge, S3, Aurora, OpenSearch, DynamoDB, ECS/EKS — architecture-level proficiency; Claude models deployed natively on Bedrock
+- **Azure:** Container Apps (production), Entra ID, Key Vault, App Insights, ACR, Azure Files, Azure SQL
+- Multi-cloud platform design; air-gapped deployment architecture for regulated environments
+- CI/CD with GitHub Actions, container orchestration with Docker and ECS/EKS patterns
 
-### Virtualization, Resilience & Operations
-- VMware and Hyper-V (including HCI planning and deployment)
-- Cloudshare lab environments for enterprise simulation
-- Backup, disaster recovery, and business continuity planning
-- Cross-system troubleshooting and performance analysis
+### Governance, Security & Observability
+- IAM/ABAC-pattern access control; KMS encryption patterns; private networking and zero-trust architecture
+- Compliance automation across 23 regulatory frameworks: HIPAA, GDPR, SOX, CMMC, FERPA, and others
+- AI observability and evaluation pipelines — tracing, cost metrics, fallback strategies, A/B testing
+- Budget guardrails, loop-cap enforcement, audit trail, and ADR-based change control
+- Data governance, PII protection, and privacy-preserving retrieval architecture
+
+### Enterprise Platforms & Identity
+- Microsoft 365 (Exchange Online, SharePoint, Teams), Entra ID, Conditional Access, identity governance
+- Intune & Autopilot (endpoint compliance, lifecycle automation)
+- Windows Server 2012–2023 (on-premises, hybrid, cloud-integrated), AD DS, Group Policy
+- Active Directory, RBAC design, domain migrations
+
+### Development & Automation
+- **Python** (FastAPI, async patterns) — primary language for AI systems and backend services
+- PowerShell — enterprise automation and infrastructure-as-code
+- REST API design, webhook integration, structured data pipelines
+- Observability, operational telemetry, performance analysis
 
 ---
 
-## Enterprise AI & Platform Engineering Projects
+## Client Engagements (Active)
 
-### Multi-Agent AI Orchestration Platform (Production)
-- Architected and shipped a production multi-tenant AI orchestration platform on Azure Container Apps — serving enterprise clients in commercial and government-adjacent markets.
-- Platform spans 10 architectural layers: Foundation → Agent Architecture → LLMs → Tool Use → Frameworks → Orchestration (DAG) → Memory → Knowledge/RAG → Deployment → Monitoring/Governance.
-- Delivered full CI/CD pipeline (GitHub Actions → ACR → Azure Container Apps), Application Insights observability, budget guardrails, and semantic caching.
-- Designed and implemented enterprise-grade RBAC with 8 roles, Entra ID SSO, ADR-based change control, and archive/rollback for all agent configurations.
+Six simultaneous active architecture engagements — client names withheld per confidentiality.
 
-### Enterprise Food Service AI Platform (Commercial Deployment)
-- Scoping and delivering an AI-powered operations platform for a multi-location enterprise food service chain.
-- Capabilities: AI ordering interface, demand forecasting, POS integration, recommendation engine, customer retention analytics, and admin self-service portal.
-- Architected as a phased SaaS deployment — pilot proving ROI, scaling to full chain on recurring platform license model.
+### Automotive Safety Intelligence Platform
+*Industry: Industrial / Automotive Safety | Role: Lead AI Architect*
+- Designed AI-driven threat detection and real-time monitoring architecture for safety-critical OT systems
+- Built multi-agent pipeline with deterministic compliance enforcement layer (zero-token guardrail pattern)
+- Architected air-gapped/offline deployment for regulated automotive environment with hardware license-lock IP protection
+- Containerized orchestration layer integrated via REST API contract; neither party exposes source code
 
-### OT Industrial Cybersecurity — AI Orchestration Partnership
-- Partnership architecture for integrating AI orchestration and governance capabilities behind an industrial OT security platform.
-- Design pattern: Containerized orchestration layer communicates with threat intelligence engine via REST API contract — neither party exposes source code; hardware license-locked deployments protect both IP estates.
-- Scoped for commercial OT/industrial clients; air-gapped deployment architecture designed for regulated and government environments.
+### Zero-Trust Security Intelligence Platform
+*Industry: Enterprise Cybersecurity | Role: Platform Architect*
+- Designed enterprise cybersecurity AI with autonomous threat classification and policy enforcement
+- Built governed RAG pipeline over proprietary threat intelligence corpus — hybrid vector + keyword retrieval with reranking and citation grounding
+- Implemented IAM/ABAC-pattern access controls, PII protection, and full audit trail on every retrieval
+- Scoped for both commercial enterprise and government/DOD deployment scenarios
 
-### CoreSkills4AI — https://coreskills4ai.com/
-- Designed and maintained production-representative enterprise lab environments (Azure, Ubuntu, Linux) simulating real-world production infrastructures.
-- Architected and implemented RAG-based knowledge systems using vector databases, semantic retrieval, and governed metadata pipelines.
-- Developed agent-style workflows for infrastructure analysis, troubleshooting, configuration review, and procedural documentation generation.
-- Containerized AI services and internal tools using Docker for local development and controlled deployment.
+### Government Contractor Workflow Intelligence Platform
+*Industry: Federal / GovTech | Role: Lead AI Architect*
+- Architected integrated calling system with AI-assisted call intelligence, transcript analysis, and summary agents
+- Built RAG-powered contract and procurement document retrieval with citation grounding
+- Implemented human-in-the-loop approval gates for regulated workflow steps using durable execution model
+- Designed for federal compliance alignment: FAR/DFARS, audit logging, data governance
+
+### Restaurant Chain AI Operations Platform
+*Industry: Food Service / Restaurant Technology | Role: Full-Stack AI Architect*
+- Architected real-time inventory management, active price monitoring, and demand forecasting platform
+- Built native POS system integration — real-time transaction data ingestion and aggregation across multiple locations
+- Designed active pricing intelligence agent with competitive monitoring and margin guardrails
+- Demand forecasting pipeline using historical transaction patterns and external signals
+
+### K-12 District AI Architecture Program
+*Industry: Education / EdTech | Role: AI Strategy Architect*
+- Developed multi-district AI architecture roadmap covering infrastructure, governance, and adoption sequencing for a state-level ISD initiative
+- Designed student data governance framework with FERPA/CIPA compliance controls
+- Produced ISD-level deployment patterns for knowledge management, administrative automation, and instructional support
+- Delivered stakeholder briefings and architecture documentation for district leadership
+
+### Enterprise AI Knowledge Platform — 72-Hour MVP
+*Industry: Enterprise SaaS | Role: CTO / Lead Architect*
+- Architected and delivered investor-grade AI knowledge platform MVP in 72 hours — concept to live demonstration
+- Multi-agent knowledge retrieval, RAG-powered Q&A, and structured output pipelines
+- Designed for rapid iteration toward Series A readiness; demonstrated full architectural scalability to investor panel
 
 ---
 
@@ -96,57 +118,68 @@ Proven at translating complex operational data, industrial telemetry, and instit
 ### AI Platform Startup — Dallas–Fort Worth, TX
 **CTO & Founding Partner** | 2025 – Present
 
-Co-founder and technical lead for a multi-tenant AI orchestration platform (AIXaaS) serving enterprise and government-adjacent clients. Own all platform architecture, engineering roadmap, cloud infrastructure, and client technical delivery.
+Co-founder and technical lead for a multi-tenant AI orchestration platform (AIXaaS) serving enterprise and regulated-industry clients. Own all platform architecture, engineering roadmap, cloud infrastructure, and client technical delivery across six simultaneous engagements.
 
-- Architected and shipped a 10-layer multi-agent orchestration platform on Azure Container Apps — spanning ingestion, retrieval, compliance detection, agent execution, observability, and governance.
-- Designed and implemented a zero-token compliance engine performing deterministic pattern-matching across 23 regulatory frameworks (HIPAA, GDPR, SOX, CMMC, etc.) with no LLM inference overhead.
-- Built a 3-tier hybrid vector storage architecture (keyword fallback + local semantic + cloud Pinecone) with automatic tier failover, disk persistence, and cold-start recovery.
-- Engineered universal file ingestion pipeline supporting 20+ formats (PDF, DOCX, audio, video, structured data, web) with async job queuing for enterprise-scale knowledge ingestion.
-- Deployed Entra ID SSO + 8-role RBAC across all platform surfaces; implemented ADR-based change control for all agent configuration changes.
-- Scoped and delivered AI platform deployments for a multi-location enterprise food service chain — AI ordering intelligence, demand forecasting, POS integration, and customer retention analytics.
-- Architecting partnership deployment with an OT industrial cybersecurity firm — integrating MAO orchestration and governance layer behind their adversarial threat reasoning engine for enterprise and government environments.
-- Designed air-gapped/offline deployment architecture (local LLMs via Ollama, local vector stores, no external API dependencies) for regulated and government deployment scenarios.
-- Evaluated government contracting pathways (DOD food service logistics, industrial cybersecurity AI bids) in partnership with government contracting specialists.
+- Architected and shipped a 10-layer multi-agent orchestration platform across Azure Container Apps — spanning ingestion, retrieval, compliance detection, agent execution, observability, and governance
+- Designed and implemented a zero-token compliance engine performing deterministic pattern-matching across 23 regulatory frameworks (HIPAA, GDPR, SOX, CMMC, FERPA, etc.) — equivalent to Bedrock Guardrails enforcement model
+- Built 3-tier hybrid vector storage architecture (keyword fallback + local semantic + cloud Pinecone) with automatic tier failover — compatible with OpenSearch and pgvector design patterns
+- Implemented human-in-the-loop approval workflows using durable execution patterns equivalent to AWS Step Functions Flows; supports pause/resume across multi-step agentic processes
+- Deployed Entra ID SSO + 8-role RBAC across all platform surfaces; IAM/ABAC-pattern governance and data isolation per tenant
+- Engineered universal file ingestion pipeline supporting 20+ formats with async job queuing for enterprise-scale knowledge ingestion
+- Designed multi-cloud architecture: Azure production deployment + AWS Bedrock-compatible patterns for Claude model integration and agent orchestration
+- Applied ADR-based change control, budget guardrails, loop-cap enforcement, and evaluation pipelines across all production deployments
+- Designed air-gapped/offline deployment architecture (local LLMs via Ollama, local vector stores, no external API dependencies) for government and regulated scenarios
+- Delivered 72-hour MVP for investor demonstration — multi-agent knowledge platform from concept to live demo under acute time pressure
+- Managed six simultaneous client architecture engagements across federal, cybersecurity, food service, education, automotive safety, and enterprise SaaS
 
 ### CoreSkills4AI – Dallas–Fort Worth, TX
 **Senior AI Architect–Engineer & Platform Lead** | June 2024 – 2025
-- Owned and evolved enterprise-grade Generative AI reference architectures, including RAG pipelines, agentic workflows, orchestration layers, and secure execution models.
-- Designed and built end-to-end AI systems spanning ingestion, retrieval, inference, evaluation, observability, and governance.
-- Developed reusable architectural patterns and platform components that accelerate delivery while enforcing guardrails for security, cost control, and responsible AI use.
-- Implemented AI-enabled automation integrated with Microsoft infrastructure, identity platforms, documentation repositories, and operational tooling.
-- Produced architecture documentation, design rationales, and best-practice guidance for business stakeholders, engineers, and technical teams.
-- Led hands-on labs and platform walkthroughs transitioning practitioners from GUI-based tools to scripted, API-driven, and production-aligned AI workflows.
+
+- Owned and evolved enterprise-grade Generative AI reference architectures — RAG pipelines, agentic workflows, orchestration layers, and secure execution models
+- Designed and built end-to-end AI systems spanning ingestion, retrieval, inference, evaluation, observability, and governance
+- Developed reusable architectural patterns and platform components enforcing guardrails for security, cost control, and responsible AI use
+- Implemented AI-enabled automation integrated with Microsoft infrastructure, identity platforms, documentation repositories, and operational tooling
+- Published architecture documentation, design rationales, and best-practice guidance for engineers and business stakeholders
+- Led hands-on platform walkthroughs transitioning practitioners from GUI-based tools to scripted, API-driven, production-aligned AI workflows
 
 ### Trial IT Services, LLC – Dallas, TX
 **IT Consultant & Systems Engineer** | June 2013 – 2024
-- Architected and operated secure Microsoft-based enterprise environments for legal, construction, and professional services clients.
-- Designed Windows Server and hybrid cloud architectures integrating AD DS, DNS, SQL, email systems, and backup strategies.
-- Implemented PowerShell and Python automation to enforce standards, reduce administrative overhead, and improve deployment consistency.
-- Designed and deployed VPNs, firewalls, and security controls aligned with regulated data protection requirements.
-- Led system modernization initiatives, migrations, and operational stabilization efforts.
+
+- Architected and operated secure Microsoft-based enterprise environments for legal, construction, and professional services clients
+- Designed Windows Server and hybrid cloud architectures integrating AD DS, DNS, SQL, email systems, and backup strategies
+- Implemented PowerShell and Python automation to enforce standards, reduce administrative overhead, and improve deployment consistency
+- Designed and deployed VPNs, firewalls, and security controls aligned with regulated data protection requirements
+- Led system modernization initiatives, migrations, and operational stabilization efforts for 11+ years
 
 ### E&F Legal Production – Dallas–Fort Worth Metroplex
 **IT Trial Technician** | 2008 – 2013
-- Designed and deployed secure, rapidly provisioned Microsoft server environments for high-stakes legal proceedings.
-- Implemented backup, recovery, and data integrity controls under strict timelines.
-- Streamlined data synchronization, monitoring, and system readiness processes.
-- Produced detailed technical documentation and trained teams on deployment, security, and recovery procedures.
+
+- Designed and deployed secure, rapidly provisioned Microsoft server environments for high-stakes legal proceedings
+- Implemented backup, recovery, and data integrity controls under strict timelines
+- Streamlined data synchronization, monitoring, and system readiness processes
 
 ---
 
 ## Additional Skills & Tooling
-- **AI & Automation Tools:** OpenAI-style platforms, Copilot-style systems, LangChain-style orchestration concepts, Claude, Ollama, LM Studio, Cursor, VS Code, Obsidian
-- **Data & Observability:** Grafana, Prometheus, KPI dashboards, structured reporting, analytics
+- **AI & Orchestration:** Claude (Anthropic), Amazon Bedrock patterns, Ollama, LM Studio, OpenAI-style APIs, Cursor, VS Code
+- **RAG & Vector:** Pinecone, Qdrant, OpenSearch-compatible retrieval, pgvector patterns, semantic caching
+- **Data & Observability:** Grafana, Prometheus, Application Insights, KPI dashboards, evaluation pipelines
 - **Productivity & Platforms:** Microsoft 365, ServiceNow, Power BI, Trello, Zapier, Glide, WordPress
 - **CRM & Business Tools:** Pipeline Automations, Creatio, HubSpot AI Builder
-- **Creative & Documentation:** Adobe Creative Suite, Google Colab
-- **Communication:** Architecture documentation, executive summaries, stakeholder-facing technical communication
+- **Communication:** Architecture documentation, investor-grade technical briefs, executive summaries, stakeholder-facing communication
 
 ---
 
 ## Education
-**Bachelor of Arts – Engineering & Business**  \
+**Bachelor of Arts – Engineering & Business**
 University of Texas at Arlington | Graduated December 2010
 
 **Relevant Coursework:** Computer Science, Data Management, Project Management, Structural Analysis, Engineering Principles
 
+---
+
+## Certifications
+- **AZ-104** — Azure Administrator Associate
+- **MD-102** — Endpoint Administrator
+- **AZ-800/801** — Windows Server Hybrid Administrator *(in progress)*
+- **AWS Solutions Architect** — studying; architecture-level proficiency demonstrated through production multi-cloud deployments
