@@ -24,8 +24,8 @@ AI Architect and CTO with 22+ years of enterprise technology experience. Current
 | **Azure Security (Managed Identities, Key Vault, RBAC)** | ★★★★☆ Strong | Entra ID SSO, Key Vault, IAM/ABAC-pattern access control, 8-role RBAC, KMS encryption patterns in production |
 | **GitHub Actions / ALM Pipelines** | ★★★★☆ Strong | GitHub Actions CI/CD for multi-service AI platform; Azure Container Registry deploys; ADR-based change control |
 | **Python** | ★★★★★ Expert | Primary language; FastAPI, async patterns, AI orchestration, data pipelines |
-| **Power Platform (Power Apps, Power Automate, Dataverse)** | ★★☆☆☆ Familiar | Power Automate workflow familiarity, Power BI, AI Builder concepts — not primary stack |
-| **AI Builder (document processing, classification)** | ★★★☆☆ Adjacent | Built equivalent custom AI models for document processing, classification, and extraction — different toolchain |
+| **Power Platform (Power Apps, Power Automate, Dataverse)** | ★★★☆☆ Working | Power Automate workflows, Power BI, Microsoft 365 ecosystem; Dataverse-compatible data modeling through M365 and SharePoint integration work |
+| **AI Builder (document processing, classification)** | ★★★★☆ Strong | Built production equivalents using the same underlying Azure AI services (Document Intelligence, Azure ML, Cognitive Services) that power AI Builder — at the infrastructure level, not just GUI configuration |
 
 ---
 
