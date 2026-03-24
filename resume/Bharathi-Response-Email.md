@@ -30,8 +30,10 @@ AI Architect & CTO | Inflexis.ai
 📧 BryanJShaw@gmail.com
 📞 817-653-5656
 🔗 [LinkedIn](https://www.linkedin.com/in/bryan-shaw-45a23124/)
-💻 [Portfolio & Resume](https://github.com/FlyguyTestRun/Portfolio-GitHub)
-🏢 [Inflexis.ai Platform](https://inflexis.ai)
+📄 [1-Page Resume — Azure AI / JD-Aligned](https://github.com/FlyguyTestRun/Portfolio/blob/main/resume/Bryan-Shaw-1Page-AzureAI.md)
+📋 [Full Resume](https://github.com/FlyguyTestRun/Portfolio/blob/main/resume/Bryan-Shaw-Resume.md)
+💻 [Portfolio](https://github.com/FlyguyTestRun/Portfolio)
+🏢 [Inflexis.ai](https://inflexis.ai)
 🐙 [Inflexis GitHub Org](https://github.com/Inflexis-ai)
 
 ---

@@ -2,7 +2,7 @@
 **AI Architect & CTO | Azure AI | Agentic Orchestration | Enterprise GenAI**
 
 📧 BryanJShaw@gmail.com | 📞 817-653-5656 | Dallas–Fort Worth, TX (Remote)
-🔗 [LinkedIn](https://www.linkedin.com/in/bryan-shaw-45a23124/) | 💻 [Portfolio](https://github.com/FlyguyTestRun/Portfolio-GitHub) | 🏢 [Inflexis.ai](https://inflexis.ai) | 🐙 [Inflexis GitHub](https://github.com/Inflexis-ai)
+🔗 [LinkedIn](https://www.linkedin.com/in/bryan-shaw-45a23124/) | 📄 [1-Page Resume](https://github.com/FlyguyTestRun/Portfolio/blob/main/resume/Bryan-Shaw-1Page-AzureAI.md) | 📋 [Full Resume](https://github.com/FlyguyTestRun/Portfolio/blob/main/resume/Bryan-Shaw-Resume.md) | 💻 [Portfolio](https://github.com/FlyguyTestRun/Portfolio) | 🏢 [Inflexis.ai](https://inflexis.ai) | 🐙 [Inflexis GitHub](https://github.com/Inflexis-ai)
 
 ---
 
@@ -86,5 +86,5 @@ AI Architect and CTO with 22+ years of enterprise technology experience. Current
 
 ---
 
-*Full resume and project details: [github.com/FlyguyTestRun/Portfolio-GitHub](https://github.com/FlyguyTestRun/Portfolio-GitHub)*
+*Full resume and project details: [github.com/FlyguyTestRun/Portfolio-GitHub](https://github.com/FlyguyTestRun/Portfolio)*
 *Platform live: [inflexis.ai](https://inflexis.ai) | Org: [github.com/Inflexis-ai](https://github.com/Inflexis-ai)*
