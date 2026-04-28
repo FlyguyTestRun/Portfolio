@@ -14,8 +14,19 @@
 ---
 
 **Professional Summary:**
-AI Architect and Platform Engineer with 22+ years of enterprise technology experience. Currently serving as CTO & Founding Partner of an AI platform company — designing, building, and shipping production-grade multi-agent orchestration systems, governed RAG pipelines, compliance automation engines, and agentic AI workflows across cloud-native and air-gapped environments. Hands-on with Amazon Bedrock (Agents, Knowledge Bases, Guardrails), Claude family models, and multi-cloud architecture. Active across six simultaneous client engagements spanning federal, cybersecurity, food service, education, automotive safety, and enterprise SaaS. Recognized for architectural clarity, disciplined execution, and the ability to move from concept to production-deployed system under pressure — including investor-grade MVP delivery in 72 hours.
+AI Architect and Platform Engineer with 23+ years of enterprise technology experience. Currently serving as Chief Technology Officer and Founding Partner of Inflexis Technologies an AI platform company designing, building, and shipping our AIXaaS (AI-as-a-service) iSaaS platform that standardizes and automates complex enterprise execution, defining how the catergory is governed and deployed at scale via our inflexis.ai infrastructure. This includes tech stack analysis, production-grade multi-agent orchestration systems, governed RAG pipelines, compliance automation engines, and agentic AI workflows across cloud-native and air-gapped environments agnostic to tools and database systems. With a track recored of delevering repeatable, high-impact solutions across multiple industries and hands-on with Microsoft (Azure, AI Foundary), AWS (Amazon Bedrock Agents, Knowledge Bases, Guardrails), Claude family models, and multi-cloud architecture. Active across six industries our AI OS multi-tenant platform reduces traditional implementations of 6-12 months into accelerated deployment cycles, enabling 35–50% operational efficiency gains and 60–70% faster time-to-value across industries including legal, financial services, healthcare, and manufacturing.
+---
+I began my professional career at a tech start-up, E&F Legal Productions in Dallas. Building a jury selection intelligence platform that reduced preparation
+time by 90% and enabled real-time analysis of discovery materials, creating a scalable competitive
+advantage for trial teams. He later founded Trial IT Services, scaling these systems into a profitable
+consulting practice serving multiple law firms. His work focuses on transforming complex workflows into
+automated, governed systems that reduce cost, improve execution speed, and enable better decision-
+making. He builds platforms designed to scale efficiently while delivering measurable ROI in enterprise
+environments.
 
+
+client engagements spanning federal, cybersecurity, food service, education, automotive safety, and enterprise SaaS. Recognized for architectural clarity, disciplined execution, and the ability to move from concept to production-deployed system under pressure — including investor-grade MVP delivery in 72 hours.
+---
 **Core Competencies:**
 - Multi-Agent Orchestration, Agentic AI & Human-in-the-Loop Workflows
 - Amazon Bedrock (Agents, Knowledge Bases, Guardrails, Flows) & Claude Model Architecture
