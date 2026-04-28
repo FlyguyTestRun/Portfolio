@@ -14,7 +14,7 @@
 ---
 
 **Professional Summary:**
-AI Architect and Platform Engineer with 22+ years of enterprise technology experience. Currently serving as CTO & Founding Partner of an AI platform company — designing, building, and shipping production-grade multi-agent orchestration systems, governed RAG pipelines, compliance automation engines, and agentic AI workflows across cloud-native and air-gapped environments. Hands-on with Amazon Bedrock (Agents, Knowledge Bases, Guardrails), Claude family models, and multi-cloud architecture. Active across six simultaneous client engagements spanning federal, cybersecurity, food service, education, automotive safety, and enterprise SaaS. Recognized for architectural clarity, disciplined execution, and the ability to move from concept to production-deployed system under pressure — including investor-grade MVP delivery in 72 hours.
+AI Architect and Platform Engineer with 22+ years of enterprise technology experience spanning network systems engineering, infrastructure architecture, API integrations, application development, and AI platform delivery. Over the past six years, work has been increasingly focused on AI workflow design, pipeline management, and production AI operations in regulated and enterprise environments. Currently serving as CTO & Founding Partner of Inflexis — designing, building, and shipping production-grade multi-agent orchestration systems, governed RAG pipelines, and compliance automation engines across cloud-native and air-gapped environments. Hands-on with Amazon Bedrock (Agents, Knowledge Bases, Guardrails), Claude family models, and multi-cloud architecture. Active across six simultaneous client engagements spanning federal, cybersecurity, food service, education, automotive safety, and enterprise SaaS. Recognized for architectural clarity, disciplined execution, and the ability to move from concept to production-deployed system under pressure — including investor-grade MVP delivery in 72 hours.
 
 **Core Competencies:**
 - Multi-Agent Orchestration, Agentic AI & Human-in-the-Loop Workflows
@@ -190,7 +190,7 @@ Battle-tested Claude Code configuration system built over 10+ months of intensiv
 ### [AI Practitioner Guild](https://github.com/FlyguyTestRun/AI-practitioner-guild)
 **Collaborative AI Engineering Community Hub**
 
-Open collaboration workspace for AIXaaS and CoreSkills4AI practitioners — shared resources, architectural patterns, and hands-on AI engineering workflows.
+Open collaboration workspace for Inflexis practitioners and enterprise builders — shared resources, architectural patterns, and hands-on AI engineering workflows.
 
 - Collaborative environment for AI practitioners building with production-grade patterns
 - Architecture guides, workflow templates, and best-practice references
@@ -212,25 +212,19 @@ Enterprise infrastructure design for large educational district environments. Co
 
 ---
 
-### [CoreSkills4AI Training Platform](https://github.com/FlyguyTestRun/CoreSkills4AI)
-**25+ Production-Ready AI & Infrastructure Training Modules**
+### [Inflexis Engineering Labs](https://github.com/Inflexis-ai)
+**Enterprise AI, Integration, and Platform Delivery Artifacts**
 
-Comprehensive training platform spanning enterprise AI architecture, DevOps, and infrastructure. Modules are built from real production patterns — not toy examples.
+Current engineering focus is centered on Inflexis and client delivery: production architecture patterns, API integration examples, orchestration workflows, and deployment-ready implementation guidance.
 
-1. Docker Microservices — 6-container architecture with observability
-2. RAG Systems & Vector Databases — production-grade semantic retrieval
-3. Agentic AI Engineering — PIV workflow with Claude
-4. Building Safe AI Guardrails — deterministic compliance patterns
-5. PowerShell Enterprise Automation
-6. Entra ID, ADDS, Intune MDM/MAM management
-7. Salesforce AgentForce training and integrations
-8. Docker Labs — advanced debugging and optimization
-9. Semantic Embedding & Vector Databases
-10. Systems design and engineering practices
+- Multi-agent orchestration implementation patterns and governed RAG architectures
+- API integration examples for enterprise platforms (CMMS, CRM, ERP, internal line-of-business systems)
+- Cloud and infrastructure delivery patterns across Azure/AWS with repeatable controls
+- Practical operational playbooks for monitoring, reliability, and security
 
-**My scope:** Built advanced coding modules in Python, REST, PowerShell, and Java. Designed and built the application frontend UI/UX.
+**My scope:** Architecture, engineering leadership, platform design, API strategy, and production deployment guidance.
 
-**Technologies:** Docker, Python (FastAPI), PowerShell, PostgreSQL, Redis, Grafana
+**Technologies:** Python (FastAPI), REST APIs, PowerShell, Docker, observability tooling, cloud-native orchestration
 
 ---
 

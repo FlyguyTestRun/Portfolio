@@ -11,7 +11,7 @@
 
 ## Professional Summary
 
-Senior AI Architect–Engineer with 20+ years of enterprise technology experience designing, operating, and modernizing secure Microsoft infrastructures. Focused on building production-grade Generative AI platforms, RAG systems, and agentic workflows for real-world enterprise use.
+Senior AI Architect–Engineer with 20+ years of enterprise technology experience designing, operating, and modernizing secure infrastructures. Career foundation includes network systems, architecture, API integrations, and application development; the past six years have focused heavily on production AI workflows and pipeline management for enterprise use.
 
 Bridges enterprise architecture leadership with hands-on engineering execution, delivering end-to-end AI systems including LLM orchestration, retrieval pipelines, agent frameworks, observability, and governance. Designs reusable reference architectures that balance scalability, security, cost control, and responsible AI guardrails in regulated environments.
 
@@ -63,7 +63,7 @@ Proven track record translating complex infrastructure, identity, and operationa
 ---
 
 ## Enterprise AI & Platform Engineering Projects
-**CoreSkills4AI — https://coreskills4ai.com/**
+**Inflexis Technology Organization — https://github.com/Inflexis-ai/**
 
 ### Enterprise Microsoft & AI Lab Platforms
 - Designed and maintained production-representative enterprise lab environments (Azure, Ubuntu, Linux) simulating real-world production infrastructures.
@@ -91,7 +91,7 @@ Proven track record translating complex infrastructure, identity, and operationa
 
 ## Professional Experience
 
-### CoreSkills4AI – Dallas–Fort Worth, TX
+### Inflexis Technology Organization – Dallas–Fort Worth, TX
 **Senior AI Architect–Engineer & Platform Lead** | June 2025 – Present
 - Own and evolve enterprise-grade Generative AI reference architectures, including RAG pipelines, agentic workflows, orchestration layers, and secure execution models.
 - Design and build end-to-end AI systems spanning ingestion, retrieval, inference, evaluation, observability, and governance.

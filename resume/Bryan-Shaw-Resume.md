@@ -12,7 +12,7 @@
 
 ## Professional Summary
 
-AI Architect and CTO with 22+ years of enterprise technology experience — currently leading architecture, engineering, and delivery for a production-grade multi-agent AI orchestration platform serving enterprise and regulated-industry clients.
+AI Architect and CTO with 22+ years of enterprise technology experience spanning network systems, enterprise architecture, security, API integrations, and application development — currently leading architecture, engineering, and delivery for a production-grade multi-agent AI orchestration platform serving enterprise and regulated-industry clients.
 
 Designs and ships production agentic AI systems end-to-end: multi-agent pipelines, governed RAG architectures, human-in-the-loop workflows, compliance automation engines, and secure LLM orchestration layers. Hands-on experience with Claude family models (native on Amazon Bedrock), Bedrock-pattern agent design, and multi-cloud deployments across AWS and Azure. Equally capable in cloud-native and offline/air-gapped architectures for environments requiring strict data sovereignty.
 
@@ -132,15 +132,14 @@ Co-founder and technical lead for a multi-tenant AI orchestration platform (AIXa
 - Delivered 72-hour MVP for investor demonstration — multi-agent knowledge platform from concept to live demo under acute time pressure
 - Managed six simultaneous client architecture engagements across federal, cybersecurity, food service, education, automotive safety, and enterprise SaaS
 
-### CoreSkills4AI – Dallas–Fort Worth, TX
+### Inflexis (Pre-Launch and Foundational Build Phase) – Dallas–Fort Worth, TX
 **Senior AI Architect–Engineer & Platform Lead** | June 2024 – 2025
 
-- Owned and evolved enterprise-grade Generative AI reference architectures — RAG pipelines, agentic workflows, orchestration layers, and secure execution models
-- Designed and built end-to-end AI systems spanning ingestion, retrieval, inference, evaluation, observability, and governance
-- Developed reusable architectural patterns and platform components enforcing guardrails for security, cost control, and responsible AI use
-- Implemented AI-enabled automation integrated with Microsoft infrastructure, identity platforms, documentation repositories, and operational tooling
-- Published architecture documentation, design rationales, and best-practice guidance for engineers and business stakeholders
-- Led hands-on platform walkthroughs transitioning practitioners from GUI-based tools to scripted, API-driven, production-aligned AI workflows
+- Led foundational enterprise architecture patterns that became the basis for current Inflexis platform delivery
+- Designed end-to-end AI systems spanning ingestion, retrieval, inference, evaluation, observability, and governance
+- Built reusable platform components integrating AI workflows with Microsoft infrastructure, identity, and operational systems
+- Expanded API-first delivery standards, design documentation, and engineering playbooks for production teams
+- Advanced transition from traditional infrastructure programs into production AI workflow and pipeline operations
 
 ### Trial IT Services, LLC – Dallas, TX
 **IT Consultant & Systems Engineer** | June 2013 – 2024
