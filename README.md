@@ -1,11 +1,12 @@
 # Bryan Shaw — AI Architect & CTO
 
-**Multi-Agent AI Orchestration | Governed RAG Pipelines | Amazon Bedrock & Claude | Enterprise GenAI Architecture**
+**Multi-Agent AI Orchestration | Governed RAG Pipelines | Microsoft (Azure AI) & Amazon (Bedrock) Infrastrucure AO OS | Enterprise GenAI Architecture**
 
 **Location:** Dallas–Fort Worth, TX
 **Contact:** [BryanJShaw@gmail.com](mailto:BryanJShaw@gmail.com) | 817-653-5656
 **LinkedIn:** [linkedin.com/in/bryan-shaw-45a23124](https://www.linkedin.com/in/bryan-shaw-45a23124/)
 **GitHub:** [github.com/FlyguyTestRun](https://github.com/FlyguyTestRun/)
+**OrganizationGitHub** [github.com/Inflexis-ai](https://github.com/Inflexis-ai/)
 
 ---
 
@@ -15,27 +16,22 @@
 
 **Professional Summary:**
 AI Architect and Platform Engineer with 23+ years of enterprise technology experience. Currently serving as Chief Technology Officer and Founding Partner of Inflexis Technologies an AI platform company designing, building, and shipping our AIXaaS (AI-as-a-service) iSaaS platform that standardizes and automates complex enterprise execution, defining how the catergory is governed and deployed at scale via our inflexis.ai infrastructure. This includes tech stack analysis, production-grade multi-agent orchestration systems, governed RAG pipelines, compliance automation engines, and agentic AI workflows across cloud-native and air-gapped environments agnostic to tools and database systems. With a track recored of delevering repeatable, high-impact solutions across multiple industries and hands-on with Microsoft (Azure, AI Foundary), AWS (Amazon Bedrock Agents, Knowledge Bases, Guardrails), Claude family models, and multi-cloud architecture. Active across six industries our AI OS multi-tenant platform reduces traditional implementations of 6-12 months into accelerated deployment cycles, enabling 35–50% operational efficiency gains and 60–70% faster time-to-value across industries including legal, financial services, healthcare, and manufacturing.
----
-I began my professional career at a tech start-up, E&F Legal Productions in Dallas. Building a jury selection intelligence platform that reduced preparation
-time by 90% and enabled real-time analysis of discovery materials, creating a scalable competitive
-advantage for trial teams. He later founded Trial IT Services, scaling these systems into a profitable
-consulting practice serving multiple law firms. His work focuses on transforming complex workflows into
-automated, governed systems that reduce cost, improve execution speed, and enable better decision-
-making. He builds platforms designed to scale efficiently while delivering measurable ROI in enterprise
-environments.
 
+I began my professional career at a tech start-up, E&F Legal Productions in Dallas. Building out our tech stack on microsoft's now legacy enterprise infrastructure. Starting with networking securities, servers and VPNs to architectual database design for our internal company and expanding into our clients. Engineering the networking LAN, VLAN for our clients and thier trial teams became second nature. Building both simple programs and a complex psychological assement to analyze our jury pool for the jury selection specialist. This intelligence platform reduced preparation time by 90% and enabled real-time analysis of discovery materials, turning our search method into a API driven response and scraping tool into an automation pipeline creating a  competitive advantage for trial teams around the country. Founding Trial IT Services, turned this into a scalable product. Expanding into closeout trial migration for archiving depositions, exhibits, both for protected trial sensitive DBs for internal teams and governance layers for shared documentation turning these systems into a profitable and repeatable frameworks. 
 
-client engagements spanning federal, cybersecurity, food service, education, automotive safety, and enterprise SaaS. Recognized for architectural clarity, disciplined execution, and the ability to move from concept to production-deployed system under pressure — including investor-grade MVP delivery in 72 hours.
+At Trial IT consulting both in tech stack solution and data migration patterns. Growing the company and mentoring jr engineers and developers while sserving multiple law firms around the country. Keeping good working relationships with several areas of high stakes litigation from medical malpractice, lung exposure (SGPB, Lanier) Law Firms and Henjum Goucher Reporting my work focuses on transforming complex workflows into automated, governed systems that reduce cost, improve execution speed, and enable better decision making. Building across AWS, Google and Microsoft platforms designed to scale efficiently while delivering measurable ROI in enterprise environments. The core concept of Inflexis-ai is repeatable AI-OS agnostic to platform and tool selection that allows for clean data migration and governance to protect senitive data. The AIXaaS platform our iSaaS product allows for data to be cleaned and migrated behind and zero-trust layer so the end user can not only mask sensitive data but the system flags any potential concerns before embedding. 
+
+My current client engagements include spanning federal, cybersecurity, food service, education, automotive safety, and enterprise SaaS. Recognized for architectural clarity, disciplined execution, and the ability to move from concept to production-deployed system under pressure including MVP deliveriables in 72 hours.
 ---
 **Core Competencies:**
 - Multi-Agent Orchestration, Agentic AI & Human-in-the-Loop Workflows
-- Amazon Bedrock (Agents, Knowledge Bases, Guardrails, Flows) & Claude Model Architecture
+- Azure Foundary, Amazon Bedrock (Agents, Knowledge Bases, Guardrails, Flows) & Model Specific Architecture
 - RAG Systems — Hybrid/Vector Retrieval, Chunking, Reranking, Grounding & Citation
-- AWS (Lambda, Step Functions, EventBridge, S3, OpenSearch, DynamoDB, ECS/EKS, Aurora)
+- Open-Source Modeling for Air-gapped enviorments (Lambda, Step Functions, EventBridge, S3, OpenSearch, DynamoDB, ECS/EKS, Aurora)
 - Azure (Container Apps, Entra ID, Key Vault, App Insights, ACR)
 - Enterprise GenAI Reference Architectures & Reusable Framework Design
 - Compliance Automation, AI Governance & Guardrails (IAM/ABAC, KMS, PII Protection)
-- LLM Orchestration — Cloud-native, Hybrid, and Offline/Air-Gapped Deployments
+- LLM Orchestration — Cloud-native, Hybrid, and Offline/Air-Gapped Deployments with FinOps build into design
 - Python (FastAPI, async), PowerShell & Infrastructure-as-Code
 - Observability, Evaluation Pipelines, Cost Metrics & Reliability Frameworks
 
