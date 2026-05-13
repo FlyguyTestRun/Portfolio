@@ -16,6 +16,8 @@ Brings a rare combination of executive strategy, product ownership, and deep han
 
 **Core focus:** Multi-agent orchestration · Governed RAG pipelines · Compliance automation (25+ frameworks) · Zero-trust AI infrastructure · Human-in-the-loop workflows · Air-gapped enterprise deployments
 
+> **Architecture philosophy:** Governance is not a layer you bolt on after the system works — it is the structural load that makes the system trustworthy. Speed in AI delivery is a byproduct of governance built correctly from the beginning: reusable compliance patterns, modular agent architecture, pre-validated retrieval pipelines, and deterministic enforcement already running in production before a new client engagement begins. A platform that can be safely demonstrated in 72 hours isn't fast because shortcuts were taken — it's fast because the foundation was built to carry weight.
+
 ---
 
 ## Executive Impact
@@ -27,7 +29,7 @@ Brings a rare combination of executive strategy, product ownership, and deep han
 | Time-to-value acceleration | **60–70%** faster |
 | Regulatory frameworks automated | **25+** (HIPAA, GDPR, SOX, CMMC, FERPA, FedRAMP, DORA...) |
 | Token efficiency improvement | **31%** over baseline (900 vs. 1,311 tokens) |
-| MVP delivery record | Investor-grade platform: **72 hours** concept → live demo |
+| Reusable architecture payoff | Governed platform already in production → new client demonstrations assembled, not rebuilt |
 | Simultaneous live engagements | **6 industries** in active production |
 | Team leadership scale | Up to **30 engineers & architects** |
 
@@ -73,7 +75,7 @@ Inflexis Technologies is an AI platform company. I am the CTO and Founding Partn
 | [mao-platform](https://github.com/Inflexis-ai/mao-platform) | Private | Core MAO engine — proprietary Python platform | May 2026 |
 | [AIXaaS](https://github.com/Inflexis-ai/AIXaaS) | Private | Platform portal, pipeline, and architecture | May 2026 |
 | [Messaging-Meeting-Intelligence](https://github.com/Inflexis-ai/Messaging-Meeting-Intelligence) | Private | Call + meeting intelligence, transcript analysis, SPICED scoring | May 2026 |
-| [team-workspace](https://github.com/Inflexis-ai/team-workspace) | Private | Team collaboration — marketing, revenue, design, business development | May 2026 |
+| [team-workspace](https://github.com/Inflexis-ai/team-workspace) | Private | Team collaboration — marketing, revenue, design, business dev; includes AI Intel collector (weekly briefings, benchmarks, RAG research) | May 2026 |
 | [aixaas-docs](https://github.com/Inflexis-ai/aixaas-docs) | **Public** | AIXaaS™ platform documentation | Apr 2026 |
 | [mao-examples](https://github.com/Inflexis-ai/mao-examples) | **Public** | Python + Jupyter REST API integration examples | May 2026 |
 
@@ -138,10 +140,53 @@ State-wide ISD AI architecture roadmap spanning multiple districts. Student data
 
 ---
 
-### Enterprise AI Knowledge Platform — 72-Hour MVP
+### Enterprise AI Knowledge Platform — Governed Architecture Enables Rapid Demonstration
 **Industry:** Enterprise SaaS &nbsp;|&nbsp; **Role:** CTO / Lead Architect
 
-Investor-grade multi-agent knowledge platform built and demonstrated in 72 hours for VC evaluation — concept to live demo under acute time pressure. Multi-agent RAG, structured output pipelines, and demonstrated architectural scalability to investor panel.
+Delivered a full investor-grade multi-agent knowledge platform demonstration in 72 hours — not because anything was rushed or skipped, but because the governance architecture was already in place. The compliance engine, retrieval pipeline, multi-agent orchestration layer, and audit infrastructure were already running in production across other regulated client deployments before this engagement began.
+
+The takeaway is not that an AI app can be built in a day. The takeaway is that **when governance is built correctly from the ground up — modular, reusable, and already load-tested — a new deployment is assembly, not invention.** The 72-hour window was a demonstration of architectural maturity, not a shortcut. Unvetted speed without governance produces systems that cannot be trusted, audited, or scaled; this platform demonstrated the opposite.
+
+---
+
+## Thought Leadership & Published Work
+
+Writing and research published through Inflexis Technologies — articles, case studies, and weekly AI intelligence gathered as part of ongoing CTO practice. See the [Inflexis team workspace](https://github.com/Inflexis-ai/team-workspace) for the full content library and AI Intel collector.
+
+### Editorial Articles
+
+| Article | Theme |
+|---------|-------|
+| **The Harness Is Load-Bearing** | Governance infrastructure is structural — not optional overhead. The compliance layer, audit trail, and enforcement model are what allow AI systems to move fast safely. |
+| **The Placement Problem** | Enterprise AI isn't failing because companies lack access to models — it's failing because they haven't solved *where* AI belongs in their workflow architecture and *how* it connects to what they already own. |
+| **What Is AIXaaS?** | Platform overview: how the AIXaaS™ orchestration OS works, why it's different from point solutions, and what governed multi-agent AI actually looks like in production. |
+| **The Human Dividend: What AI Deployment Actually Returns** | Making the case that properly deployed, governed AI returns measurable human value — not just cost reduction, but expanded capability, reduced cognitive load, and better decisions at every level. |
+| **AI Governance Software Cost in 2026** | Real cost analysis of what enterprise AI governance actually runs — infrastructure, compliance tooling, observability, and operational overhead — versus the cost of not governing. |
+| **HIPAA Compliance and AI Data Governance in 2026** | Practical guidance on building AI systems that handle protected health information under current regulatory requirements, with deterministic enforcement patterns. |
+
+### Published Case Studies
+
+Anonymized client deployments written up as case studies for the Inflexis website — spanning the full range of industries where AIXaaS™ is active:
+
+| Case Study | Sector |
+|-----------|--------|
+| EdMandate — K-12 AI Architecture | Education / EdTech |
+| FedShark — GovCon AI Platform | Federal / Government Contracting |
+| Frenos — Restaurant Chain AI Operations | Food Service |
+| Solo Trades — Small Business AI | SMB / Field Operations |
+| Therapeutic AI Companion | Healthcare / Mental Health |
+| Gelato & Catering Startup | Food Service / Startup |
+| Athlete Legacy & AI Persona | Sports / Personal Brand |
+
+### AI Intel Collector — Weekly Industry Intelligence
+
+Active in the [Inflexis team workspace](https://github.com/Inflexis-ai/team-workspace/tree/main/ai-intel), the AI Intel system tracks the enterprise AI landscape on a rolling weekly cadence:
+
+- **Weekly briefings** (Apr–May 2026): market signals, model releases, competitive shifts, governance developments
+- **Platform benchmarks**: head-to-head performance comparisons across AI platforms and deployment patterns  
+- **RAG evaluation best practices**: ongoing research into retrieval quality, reranking, and grounding patterns
+- **Tech stack analysis**: architecture evaluation for emerging tools, frameworks, and integration targets
+- **Sources**: structured feed of vetted AI industry sources tracked in [`ai-intel/sources.json`](https://github.com/Inflexis-ai/team-workspace/blob/main/ai-intel/sources.json)
 
 ---
 
