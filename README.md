@@ -1,299 +1,307 @@
-# Bryan Shaw — AI Architect & CTO
+# Bryan Shaw
+## CTO & Founding Partner — Inflexis Technologies | AI Platform & Agentic Engineering Leader
 
-**Multi-Agent AI Orchestration | Governed RAG Pipelines | Microsoft (Azure AI) & Amazon (Bedrock) Infrastrucure AO OS | Enterprise GenAI Architecture**
+**Dallas–Fort Worth, TX** &nbsp;|&nbsp; [BryanJShaw@gmail.com](mailto:BryanJShaw@gmail.com) &nbsp;|&nbsp; 817-653-5656  
+[LinkedIn](https://www.linkedin.com/in/bryan-shaw-45a23124/) &nbsp;|&nbsp; [GitHub: FlyguyTestRun](https://github.com/FlyguyTestRun) &nbsp;|&nbsp; [GitHub: Inflexis-ai Org](https://github.com/Inflexis-ai) &nbsp;|&nbsp; [Platform: app.inflexis.ai](https://app.inflexis.ai)
 
-**Location:** Dallas–Fort Worth, TX
-**Contact:** [BryanJShaw@gmail.com](mailto:BryanJShaw@gmail.com) | 817-653-5656
-**LinkedIn:** [linkedin.com/in/bryan-shaw-45a23124](https://www.linkedin.com/in/bryan-shaw-45a23124/)
-**GitHub:** [github.com/FlyguyTestRun](https://github.com/FlyguyTestRun/)
-**OrganizationGitHub** [github.com/Inflexis-ai](https://github.com/Inflexis-ai/)
+**[Full Detailed Resume →](./resume/Bryan-Shaw-Resume.md)**
 
 ---
 
-## Resume 📄 **[View Full Resume](./resume/Bryan-Shaw-Resume.md)**
+## Summary
+
+Enterprise AI leader and hands-on platform architect with **23+ years** of experience shipping production systems across infrastructure, cloud, and advanced AI. Currently serving as **CTO and Founding Partner of Inflexis Technologies**, leading all architecture, engineering, and client delivery for **AIXaaS™** — a multi-tenant AI orchestration operating system built for regulated enterprise. Active across **13 distinct builds spanning 6 industry verticals** — federal, cybersecurity, industrial, education, food service, healthcare, and enterprise facilities management — with six simultaneous live client engagements and seven published case study deployments.
+
+Brings a rare combination of executive strategy, product ownership, and deep hands-on engineering: having led cross-functional teams of up to 30, partnered directly with C-suite and legal stakeholders, and collapsed 6–12 month AI implementations into weeks through reusable, governed architecture patterns.
+
+**Core focus:** Multi-agent orchestration · Governed RAG pipelines · Compliance automation (25+ frameworks) · Zero-trust AI infrastructure · Human-in-the-loop workflows · Air-gapped enterprise deployments
+
+> **Architecture philosophy:** Governance is not a layer you bolt on after the system works — it is the structural load that makes the system trustworthy. Speed in AI delivery is a byproduct of governance built correctly from the beginning: reusable compliance patterns, modular agent architecture, pre-validated retrieval pipelines, and deterministic enforcement already running in production before a new client engagement begins. A platform that can be safely demonstrated in 72 hours isn't fast because shortcuts were taken — it's fast because the foundation was built to carry weight.
 
 ---
 
-**Professional Summary:**
-AI Architect and Platform Engineer with 23+ years of enterprise technology experience. Currently serving as Chief Technology Officer and Founding Partner of Inflexis Technologies an AI platform company designing, building, and shipping our AIXaaS (AI-as-a-service) iSaaS platform that standardizes and automates complex enterprise execution, defining how the catergory is governed and deployed at scale via our inflexis.ai infrastructure. This includes tech stack analysis, production-grade multi-agent orchestration systems, governed RAG pipelines, compliance automation engines, and agentic AI workflows across cloud-native and air-gapped environments agnostic to tools and database systems. With a track recored of delevering repeatable, high-impact solutions across multiple industries and hands-on with Microsoft (Azure, AI Foundary), AWS (Amazon Bedrock Agents, Knowledge Bases, Guardrails), Claude family models, and multi-cloud architecture. Active across six industries our AI OS multi-tenant platform reduces traditional implementations of 6-12 months into accelerated deployment cycles, enabling 35–50% operational efficiency gains and 60–70% faster time-to-value across industries including legal, financial services, healthcare, and manufacturing.
+## Executive Impact
 
-I began my professional career at a tech start-up, E&F Legal Productions in Dallas. Building out our tech stack on microsoft's now legacy enterprise infrastructure. Starting with networking securities, servers and VPNs to architectual database design for our internal company and expanding into our clients. Engineering the networking LAN, VLAN for our clients and thier trial teams became second nature. Building both simple programs and a complex psychological assement to analyze our jury pool along side our jury selection specialists. This intelligence platform reduced preparation time by 90% and enabled real-time analysis of discovery materials, turning our search method into a API driven response and scraping tool into an automation pipeline of pattern reconition and personality profiling, this created a competitive advantage for trial teams around the country. Saving both processing time and using data analytics building assesments into functional score card metrics. Founding Trial IT Services, turned this into a scalable product. Expanding into closeout trial migration for archiving depositions, exhibits, both for protected trial sensitive DBs for internal teams and governance layers for shared documentation turning these systems into a profitable and repeatable frameworks. 
-
-At Trial IT consulting both in tech stack solution and data migration patterns. Growing the company and mentoring jr engineers and developers while sserving multiple law firms around the country. Keeping good working relationships with several areas of high stakes litigation from medical malpractice, lung exposure (SGPB, Lanier) Law Firms and Henjum Goucher Reporting my work focuses on transforming complex workflows into automated, governed systems that reduce cost, improve execution speed, and enable better decision making. Building across AWS, Google and Microsoft platforms designed to scale efficiently while delivering measurable ROI in enterprise environments. The core concept of Inflexis-ai is repeatable AI-OS agnostic to platform and tool selection that allows for clean data migration and governance to protect senitive data. The AIXaaS platform our iSaaS product allows for data to be cleaned and migrated behind and zero-trust layer so the end user can not only mask sensitive data but the system flags any potential concerns before embedding. 
-
-My current client engagements include spanning federal, cybersecurity, food service, education, automotive safety, and enterprise SaaS. Recognized for architectural clarity, disciplined execution, and the ability to move from concept to production-deployed system under pressure including MVP deliveriables in 72 hours.
----
-**Core Competencies:**
-- Multi-Agent Orchestration, Agentic AI & Human-in-the-Loop Workflows
-- Azure Foundary, Amazon Bedrock (Agents, Knowledge Bases, Guardrails, Flows) & Model Specific Architecture
-- RAG Systems — Hybrid/Vector Retrieval, Chunking, Reranking, Grounding & Citation
-- Open-Source Modeling for Air-gapped enviorments (Lambda, Step Functions, EventBridge, S3, OpenSearch, DynamoDB, ECS/EKS, Aurora)
-- Azure (Container Apps, Entra ID, Key Vault, App Insights, ACR)
-- Enterprise GenAI Reference Architectures & Reusable Framework Design
-- Compliance Automation, AI Governance & Guardrails (IAM/ABAC, KMS, PII Protection)
-- LLM Orchestration — Cloud-native, Hybrid, and Offline/Air-Gapped Deployments with FinOps build into design
-- Python (FastAPI, async), PowerShell & Infrastructure-as-Code
-- Observability, Evaluation Pipelines, Cost Metrics & Reliability Frameworks
+| Outcome | Result |
+|---------|--------|
+| Implementation timeline reduction | 6–12 months → **weeks** |
+| Operational efficiency improvement | **35–50%** across engagements |
+| Time-to-value acceleration | **60–70%** faster |
+| Regulatory frameworks automated | **25+** (HIPAA, GDPR, SOX, CMMC, FERPA, FedRAMP, DORA...) |
+| Token efficiency improvement | **31%** over baseline (900 vs. 1,311 tokens) |
+| Reusable architecture payoff | Governed platform already in production → new client demonstrations assembled, not rebuilt |
+| Simultaneous live engagements | **6 industries** in active production |
+| Total distinct builds tracked | **13** across 6 industry verticals |
+| Team leadership scale | Up to **30 engineers & architects** |
 
 ---
 
-## Inflexis — AI Platform Company (CTO & Founding Partner)
+## Inflexis Technologies — CTO & Founding Partner
 
-> **GitHub Org:** [github.com/Inflexis-ai](https://github.com/Inflexis-ai) | **Platform:** [app.inflexis.ai](https://app.inflexis.ai)
-> **Docs:** [Inflexis-ai/aixaas-docs](https://github.com/Inflexis-ai/aixaas-docs) | **API Examples:** [Inflexis-ai/mao-examples](https://github.com/Inflexis-ai/mao-examples)
+**June 2024 – Present** | Dallas–Fort Worth, TX
 
-**Multi-Agent AI Orchestration Platform (AIXaaS™)** | 2025 – Present
+> **GitHub Org:** [github.com/Inflexis-ai](https://github.com/Inflexis-ai) &nbsp;·&nbsp; **Platform:** [app.inflexis.ai](https://app.inflexis.ai) &nbsp;·&nbsp; **Docs:** [aixaas-docs](https://github.com/Inflexis-ai/aixaas-docs) &nbsp;·&nbsp; **API Examples:** [mao-examples](https://github.com/Inflexis-ai/mao-examples)
 
-Leading all architecture and engineering for a production-grade, multi-tenant AI orchestration platform deployed on Azure and AWS. The platform delivers governed retrieval-augmented generation, zero-token compliance detection across 23 regulatory frameworks, multi-agent workflow orchestration, human-in-the-loop approval gates, and enterprise identity integrations — designed to be platform-agnostic and Bedrock-compatible.
+Inflexis Technologies is an AI platform company. I am the CTO and Founding Partner — owning all platform architecture, engineering roadmap, cloud infrastructure, and client technical delivery. We build **AIXaaS™** (AI-as-a-Service), a production-grade, multi-tenant AI orchestration operating system that standardizes and automates complex enterprise AI execution, with deterministic governance built in from the ground up.
 
-**Platform highlights:**
-- 10-layer multi-agent architecture with full audit trail and ADR change control
-- 3-tier hybrid vector storage (keyword + semantic + cloud) — compatible with OpenSearch and pgvector patterns
-- Zero-token compliance engine with deterministic pattern-matching across 23 regulatory frameworks (HIPAA, GDPR, SOX, CMMC, DORA, FedRAMP, and 17 others) — equivalent to Bedrock Guardrails enforcement model
-- Multi-cloud deployment: Azure Container Apps (production) + AWS Bedrock-compatible architecture
-- Entra ID SSO + 8-role RBAC; IAM/ABAC-pattern governance across all tenants
-- Universal file ingestion pipeline (20+ formats: PDF, DOCX, audio, video, web, structured data)
-- Durable workflow orchestration with human-in-the-loop approval gates — Step Functions-equivalent execution model
-- 5 specialized agents: Dispatcher, Data Ingest, Query Executor, Feedback/ADR, Compliance Validator
-- 31% token efficiency improvement over baseline (900 tokens vs 1,311); 100% deterministic rate for analytical queries
-- Cost-aware model routing across 6 LLM providers; semantic caching (30–60% cost reduction)
-- Application Insights observability, budget guardrails, loop-cap enforcement, and evaluation pipelines
-- Offline/air-gapped deployment architecture for regulated and government environments
-- MCP Server integration — 8 tools exposed for Claude Desktop and AI agent connections
+### AIXaaS™ Product Suite
 
----
+| Product | Description | Status |
+|---------|-------------|--------|
+| **MAO Platform** | Core AIXaaS™ engine — Multi-Agent Orchestration; 10-layer agentic architecture, governed RAG, 5 specialized agents, full audit trail | Production |
+| **Axiom** | AIXaaS™ product line — active platform development | In Development |
+| **Atlas** | AIXaaS™ product line — active platform development | In Development |
+| **Sentinel** | AIXaaS™ product line — active platform development | In Development |
+| **Messaging & Meeting Intelligence** | AI-powered call intelligence, transcript analysis, and SPICED-scored meeting summaries | Active Development |
 
-### The Enterprise AI Problem We Solve
+### Platform Architecture Highlights
 
-Most enterprises aren't failing at AI because they lack access to the technology — they're failing because they're accumulating *more* AI tools without a coherent strategy to govern, connect, or extract value from them.
+- **10-layer architecture:** ingestion → compliance scan → retrieval → orchestration → agent execution → observability → governance → approval gates → output → audit trail
+- **Compliance engine:** 25+ regulatory frameworks (HIPAA, GDPR, SOX, CMMC, FERPA, FedRAMP, DORA, PCI-DSS) — deterministic zero-token enforcement, no LLM inference overhead
+- **5 specialized agents:** Dispatcher, Data Ingest, Query Executor, Feedback/ADR, Compliance Validator
+- **3-tier hybrid vector storage:** keyword fallback + semantic + cloud (Pinecone / pgvector / OpenSearch) with automatic tier failover
+- **Universal ingestion pipeline:** 20+ file formats — PDF, DOCX, audio, video, structured data, web
+- **Multi-cloud:** Azure Container Apps (production) + AWS Bedrock-compatible architecture
+- **Identity & access:** Entra ID SSO, 8-role RBAC, IAM/ABAC tenant isolation, zero-trust architecture
+- **Air-gapped deployment:** offline LLM support via Ollama, local vector stores, no external API dependencies for regulated environments
+- **Tech Stack Analyzer:** AI-powered intake tool that maps a client's existing platform to AIXaaS™ integration patterns and consolidation opportunities — integrated into the AI Intel intelligence dashboard; the engine behind published work like *The Placement Problem*
+- **MCP Server integration:** 8 tools exposed for Claude Desktop and AI agent connections
+- **Observability:** Application Insights, budget guardrails, loop-cap enforcement, evaluation pipelines, cost-aware routing across 6 LLM providers
+- **Semantic caching:** 30–60% cost reduction; 100% deterministic rate on analytical queries
 
-The organizations successfully riding the AI wave share one thing: they stopped treating AI as a collection of individual tools and started treating it as a **governed orchestration layer** — an intelligent nervous system that sits on top of what they already own and makes it smarter.
+### Active Development Workspace
 
-**What MAO replaces or consolidates:**
+| Repository | Access | Description | Last Active |
+|------------|--------|-------------|-------------|
+| [InflexisTechnologies](https://github.com/Inflexis-ai/InflexisTechnologies) | Private | Main platform repo — AIXaaS™ OS, Axiom, Atlas, Sentinel | May 2026 |
+| [mao-platform](https://github.com/Inflexis-ai/mao-platform) | Private | Core MAO engine — proprietary Python platform | May 2026 |
+| [AIXaaS](https://github.com/Inflexis-ai/AIXaaS) | Private | Platform portal, pipeline, and architecture | May 2026 |
+| [Messaging-Meeting-Intelligence](https://github.com/Inflexis-ai/Messaging-Meeting-Intelligence) | Private | Call + meeting intelligence, transcript analysis, SPICED scoring | May 2026 |
+| [team-workspace](https://github.com/Inflexis-ai/team-workspace) | Private | Team collaboration — marketing, revenue, design, business dev; includes AI Intel collector (weekly briefings, benchmarks, RAG research) | May 2026 |
+| [aixaas-docs](https://github.com/Inflexis-ai/aixaas-docs) | **Public** | AIXaaS™ platform documentation | Apr 2026 |
+| [mao-examples](https://github.com/Inflexis-ai/mao-examples) | **Public** | Python + Jupyter REST API integration examples | May 2026 |
 
-| Category | Commonly Replaced / Consolidated |
-|---|---|
-| CRM Intelligence | Salesforce Einstein, HubSpot AI, Creatio, AgentForce |
-| Document & Knowledge Mgmt | SharePoint AI, Notion AI, Guru, Confluence |
+### What MAO Replaces or Consolidates
+
+| Category | Tools Replaced / Consolidated |
+|----------|-------------------------------|
+| CRM Intelligence | Salesforce Einstein, HubSpot AI, AgentForce, Creatio |
+| Document & Knowledge Management | SharePoint AI, Notion AI, Guru, Confluence |
 | Workflow Automation | Zapier, Power Automate, Make, AWS Step Functions flows |
 | Business Intelligence | Power BI Copilot, Tableau GPT, Sisense |
 | Customer Support AI | Intercom AI, Zendesk AI, ServiceNow |
-| Compliance & Risk | Manual review workflows, GRC platforms, Bedrock Guardrails |
+| Compliance & Risk | Manual GRC workflows, Bedrock Guardrails |
 | Field & Industrial | OT/SCADA data interpreters, industrial telemetry assistants |
 | Meeting Intelligence | Teams Copilot, Otter.ai — SPICED-scored transcription and delivery |
 
-**Integration architecture — platform-agnostic by design:**
-
-MAO connects to existing systems via REST API, webhooks, and structured data pipelines — then adds the intelligence layer those platforms are missing: governed RAG retrieval, multi-agent reasoning, compliance validation, and explainable audit trails.
-
-Current integration targets in active development:
-- **Microsoft 365 + SharePoint** — Document intelligence, email summarization, meeting recording analysis on any platform
-- **Salesforce / HubSpot / Creatio** — CRM data enrichment, lead intelligence, account briefing agents
-- **ERP / Financial Systems** — P&L analysis, variance reporting, pricing intelligence agents
-- **CMMS / Field Operations** — Maintenance history querying, work order intelligence, predictive maintenance briefings
-- **OT / Industrial Telemetry** — Sensor data ingestion, anomaly narration, incident summary agents
-- **POS / Transactional Systems** — Sales pattern analysis, demand forecasting, customer behavior intelligence
-- **Custom Internal Systems** — Any system with an API or data export can be onboarded as a MAO knowledge source
-
-**The vision for enterprise leadership:**
-
-The C-suite question is no longer *"Should we do AI?"* — it's *"How do we govern it, trust it, and make it work with everything we've already built?"* MAO was architected specifically to answer that question. Every response is traceable to a source. Every agent action is logged in an ADR. Every compliance flag is deterministic — not probabilistic. And every deployment is configurable to the client's risk tolerance.
-
 ---
 
-## Featured Client Engagements
+## Active Builds & Published Case Studies
 
-Six active architecture engagements — anonymized per client confidentiality agreements.
+**13 distinct builds across 6 industry verticals — client names withheld per confidentiality agreements.** Six are active architecture engagements in current production; seven are completed deployments written up as published case studies.
 
----
+### Active Engagements
 
-### Enterprise Workflow Integration Platform — Fortune-class Rail & Commercial Facilities
-**Industry: Enterprise / Logistics | Role: Lead AI Architect**
+### Enterprise Workflow Integration — Fortune-class Rail & Commercial Facilities
+**Industry:** Enterprise / Logistics &nbsp;|&nbsp; **Role:** Lead AI Architect
 
-Multi-agent orchestration and governance layer built on top of an enterprise CMMS workflow platform (Corrigo) for a major rail and facilities client. Structured knowledge retrieval over work order history, asset records, and operational data.
-
-- MAO orchestration layer connected to Corrigo API contract — governed RAG over structured work order and asset data
-- Multi-agent workflow: ingest → compliance scan → semantic query → structured response with source citations
-- ADR-based change control; all agent instruction changes version-controlled and reviewable
+MAO orchestration + governed RAG over a major CMMS platform (Corrigo) for a Fortune-class rail and facilities client. Structured knowledge retrieval over work orders, asset records, and operational data with full ADR-based change control and multi-agent pipeline.
 
 ---
 
 ### Automotive Safety Intelligence Platform
-**Industry: Industrial / Automotive Safety | Role: Lead AI Architect**
+**Industry:** Industrial / Automotive Safety &nbsp;|&nbsp; **Role:** Lead AI Architect
 
-AI-driven threat detection and real-time monitoring architecture for safety-critical operational technology (OT) systems. Multi-agent pipeline with deterministic compliance enforcement and air-gapped deployment design.
-
-- Multi-agent reasoning over industrial telemetry and adversarial threat corpus
-- Deterministic guardrail layer — zero-token compliance without LLM inference overhead
-- Containerized orchestration via REST API contract; hardware license-lock IP protection
-- Offline/air-gapped deployment for regulated automotive environment
+AI-driven threat detection and real-time monitoring for safety-critical OT systems. Multi-agent pipeline with deterministic compliance enforcement (zero-token guardrail layer), air-gapped deployment, and hardware license-lock IP protection. Containerized orchestration via REST API contract.
 
 ---
 
 ### Zero-Trust Security Intelligence Platform
-**Industry: Enterprise Cybersecurity | Role: Platform Architect**
+**Industry:** Enterprise Cybersecurity &nbsp;|&nbsp; **Role:** Platform Architect
 
-Enterprise cybersecurity AI with autonomous threat classification, policy enforcement, and governed RAG over proprietary threat intelligence corpus.
-
-- Hybrid vector + keyword retrieval with reranking and citation grounding
-- IAM/ABAC-pattern access controls, PII protection, and full audit trail per retrieval
-- Scoped for commercial enterprise and government/DOD deployment scenarios
+Autonomous threat classification and policy enforcement over a proprietary threat intelligence corpus. Hybrid vector + keyword RAG with reranking and citation grounding. IAM/ABAC access controls and full audit trail — scoped for commercial enterprise and DOD deployment.
 
 ---
 
 ### Government Contractor Workflow Intelligence Platform
-**Industry: Federal / GovTech | Role: Lead AI Architect**
+**Industry:** Federal / GovTech &nbsp;|&nbsp; **Role:** Lead AI Architect
 
-Integrated communication, contract intelligence, and workflow automation for a federal government contracting operation.
-
-- Integrated calling system with AI-assisted call intelligence and summary agents
-- RAG-powered contract and procurement document retrieval with citation grounding
-- Human-in-the-loop approval gates; durable execution model for regulated workflow steps
-- Federal compliance alignment: FAR/DFARS, audit logging, data governance
+Integrated calling system with AI-assisted call intelligence, transcript analysis, and summary agents. RAG-powered contract and procurement retrieval with citation grounding. Human-in-the-loop approval gates, durable execution model, and FAR/DFARS compliance alignment.
 
 ---
 
 ### Restaurant Chain AI Operations Platform
-**Industry: Food Service / Restaurant Technology | Role: Full-Stack AI Architect**
+**Industry:** Food Service / Restaurant Technology &nbsp;|&nbsp; **Role:** Full-Stack AI Architect
 
-Real-time inventory management, active price monitoring, and demand forecasting for a multi-location restaurant chain with native POS integration.
-
-- Native POS API integration — real-time transaction data ingestion across multiple locations
-- Active pricing intelligence agent with competitive monitoring and margin guardrails
-- Demand forecasting pipeline using historical transaction patterns and external signals
+Real-time inventory management, competitive pricing intelligence, and demand forecasting with native POS integration across multiple locations. Active pricing agent with margin guardrails and external signal processing.
 
 ---
 
 ### K-12 District AI Architecture Program
-**Industry: Education / EdTech | Role: AI Strategy Architect**
+**Industry:** Education / EdTech &nbsp;|&nbsp; **Role:** AI Strategy Architect
 
-State-wide school district AI architecture roadmap spanning multiple ISDs. Student data governance, FERPA/CIPA compliance controls, and phased district adoption framework.
-
----
-
-### Enterprise AI Knowledge Platform — 72-Hour MVP
-**Industry: Enterprise SaaS | Role: CTO / Lead Architect**
-
-Investor-grade AI knowledge platform MVP built and demonstrated in 72 hours for venture capital evaluation. Multi-agent knowledge retrieval, RAG-powered Q&A, and structured output pipelines from zero to live demo.
+State-wide ISD AI architecture roadmap spanning multiple districts. Student data governance framework, FERPA/CIPA compliance controls, and phased multi-district adoption sequencing. Delivered stakeholder briefings and architecture documentation to district leadership.
 
 ---
 
-## Portfolio Projects
+### Published Case Study Builds
 
-### [everything-claude-code](https://github.com/FlyguyTestRun/everything-claude-code)
-**Complete Claude Code Configuration Collection — Anthropic Hackathon Winner**
+Seven additional deployments completed and published as anonymized case studies — spanning healthcare, food service, SMB, and sports/media verticals:
 
-Battle-tested Claude Code configuration system built over 10+ months of intensive daily production use building real AI products. Published as a resource for the broader AI engineering community.
+| Case Study | Industry | Build Focus |
+|-----------|----------|-------------|
+| **EdMandate** | Education / EdTech | Multi-district AI architecture, FERPA/CIPA-governed |
+| **FedShark** | Federal / GovTech | GovCon contract intelligence, FAR/DFARS compliance |
+| **Frenos** | Food Service / Restaurant | POS-integrated AI operations, pricing intelligence |
+| **Solo Trades** | SMB / Field Operations | AI workflows for small-to-mid field service businesses |
+| **Therapeutic AI Companion** | Healthcare / Mental Health | RAG-powered journaling and guided therapeutic support |
+| **Gelato & Catering Startup** | Food Service / Hospitality | AI-driven inventory and demand forecasting at startup scale |
+| **Athlete Legacy & AI Persona** | Sports / Personal Brand | AI persona architecture and legacy content management |
 
-- 30+ slash commands, specialized subagents, hooks, skills, and MCP integrations
-- Achieves 2–10x productivity gains through systematic command organization and hierarchical configuration
-- **Recognized by Anthropic** — configurations published after winning an Anthropic hackathon
-- Used by AI engineers and developers worldwide for Claude Code workflow optimization
+---
 
-**Technologies:** Claude Code, MCP servers, agent orchestration, automation hooks
+## Thought Leadership & Published Work
+
+Writing and research published through Inflexis Technologies at [inflexis.ai](https://inflexis.ai). Articles draw directly from live platform development, client engagement patterns, and weekly AI intelligence gathered in the [Inflexis team workspace](https://github.com/Inflexis-ai/team-workspace) (private). The **Tech Stack Analyzer** — a tool built into the AIXaaS™ AI Intel dashboard — powers much of the analysis behind these articles by mapping enterprise technology landscapes to AIXaaS integration patterns.
+
+### Editorial Articles
+
+| Article | Theme |
+|---------|-------|
+| **The Harness Is Load-Bearing** | Governance infrastructure is structural — not optional overhead. The compliance layer, audit trail, and enforcement model are what allow AI systems to move fast safely. |
+| **The Placement Problem** | Enterprise AI isn't failing because companies lack access to models — it's failing because they haven't solved *where* AI belongs in their workflow architecture and *how* it connects to what they already own. |
+| **What Is AIXaaS?** | Platform overview: how the AIXaaS™ orchestration OS works, why it's different from point solutions, and what governed multi-agent AI actually looks like in production. |
+| **The Human Dividend: What AI Deployment Actually Returns** | Making the case that properly deployed, governed AI returns measurable human value — not just cost reduction, but expanded capability, reduced cognitive load, and better decisions at every level. |
+| **AI Governance Software Cost in 2026** | Real cost analysis of what enterprise AI governance actually runs — infrastructure, compliance tooling, observability, and operational overhead — versus the cost of not governing. |
+| **HIPAA Compliance and AI Data Governance in 2026** | Practical guidance on building AI systems that handle protected health information under current regulatory requirements, with deterministic enforcement patterns. |
+| **Enterprise AI and the Silo Problem** *(co-authored)* | Why enterprise AI systems hallucinate and fail to deliver: departments are siloed, platforms don't talk to each other, and AI gets queried against fragmented data it can't reconcile. The integration layer — not the model — is where enterprise AI succeeds or collapses. Co-authored with industry collaborator, published Mar–Apr 2026. Available at [inflexis.ai](https://inflexis.ai). |
+
+### Published Case Studies
+
+All seven case study write-ups are published at [inflexis.ai](https://inflexis.ai) — covering each deployment listed in the Active Builds section above. Case studies are anonymized and written from the architectural and governance perspective of each engagement.
+
+### AI Intel Collector — Weekly Industry Intelligence
+
+Active in the private [Inflexis team workspace](https://github.com/Inflexis-ai/team-workspace), the AI Intel system tracks the enterprise AI landscape on a rolling weekly cadence:
+
+- **Weekly briefings** (Apr–May 2026): market signals, model releases, competitive shifts, governance developments
+- **Platform benchmarks**: head-to-head performance comparisons across AI platforms and deployment patterns
+- **RAG evaluation best practices**: ongoing research into retrieval quality, reranking, and grounding patterns
+- **Tech stack analysis**: architecture evaluation fed directly into the **Tech Stack Analyzer** tool within the AIXaaS™ AI Intel dashboard
+- **Sources**: structured feed of vetted AI industry sources tracked in the private team workspace (`ai-intel/sources.json`)
+
+---
+
+## Personal Portfolio Projects
+
+### Claude Code Advanced Tooling & Configuration
+
+Production-hardened Claude Code configuration system built over 10+ months of intensive daily use building real AI products. 30+ slash commands, specialized subagents, hooks, skills, and MCP integrations — developed and refined while building Inflexis production systems. Achieves 2–10x workflow efficiency through systematic command organization, hierarchical configuration, and agent-to-agent orchestration patterns.
+
+**Technologies:** Claude Code CLI, MCP servers, agentic orchestration, automation hooks
+
+---
+
+### Enterprise CMMS AI Integration — Private Active Build
+
+Active private repository: multi-agent orchestration layer over a major enterprise CMMS platform for a Fortune-class facilities management client. REST API integration, governed RAG over structured operational data, ADR-based change control, and multi-agent pipeline with deterministic compliance enforcement.
+
+**Technologies:** Python (FastAPI), MAO Platform, Corrigo REST API, RAG, RBAC, GitHub Actions CI/CD
 
 ---
 
 ### [AI Practitioner Guild](https://github.com/FlyguyTestRun/AI-practitioner-guild)
-**Collaborative AI Engineering Community Hub**
 
-Open collaboration workspace for AIXaaS and CoreSkills4AI practitioners — shared resources, architectural patterns, and hands-on AI engineering workflows.
-
-- Collaborative environment for AI practitioners building with production-grade patterns
-- Architecture guides, workflow templates, and best-practice references
-- Bridges training-level knowledge with real-world production deployment
+Open collaboration workspace for AIXaaS and CoreSkills4AI practitioners — architecture guides, workflow templates, and production-grade AI engineering patterns. Bridges training-level knowledge with real-world production deployment.
 
 ---
 
 ### [ISD Systems Showcase](https://github.com/FlyguyTestRun/ISD-Showcase)
-**K-12 Identity Management, Network Segmentation, and Infrastructure Automation**
 
-Enterprise infrastructure design for large educational district environments. Covers identity management, network segmentation, compliance frameworks (CIPA/FERPA), and automation at scale — directly applicable to the K-12 AI Architecture engagements above.
+Enterprise infrastructure design for K-12 district environments — identity management (Azure AD / Entra ID / AD DS), network segmentation (CIPA/FERPA aligned), and PowerShell automation at scale.
 
-- Identity management workflows: Azure AD, Entra ID, AD DS (dominant stack in most ISDs)
-- PowerShell automation for large-scale identity provisioning and device enrollment
-- Secure, segmented network topologies aligned to CIPA/FERPA compliance frameworks
-- Infrastructure health monitoring, reporting, and alerting dashboards
-
-**Technologies:** PowerShell, Azure AD, Active Directory, Entra ID, Intune MDM, DHCP, DNS, VLAN segmentation, Veeam, Dell iDRAC
+**Technologies:** PowerShell, Azure AD, Entra ID, Intune MDM, AD DS, DHCP/DNS, VLAN segmentation, Veeam, Dell iDRAC
 
 ---
 
 ### [CoreSkills4AI Training Platform](https://github.com/FlyguyTestRun/CoreSkills4AI)
-**25+ Production-Ready AI & Infrastructure Training Modules**
 
-Comprehensive training platform spanning enterprise AI architecture, DevOps, and infrastructure. Modules are built from real production patterns — not toy examples.
-
-1. Docker Microservices — 6-container architecture with observability
-2. RAG Systems & Vector Databases — production-grade semantic retrieval
-3. Agentic AI Engineering — PIV workflow with Claude
-4. Building Safe AI Guardrails — deterministic compliance patterns
-5. PowerShell Enterprise Automation
-6. Entra ID, ADDS, Intune MDM/MAM management
-7. Salesforce AgentForce training and integrations
-8. Docker Labs — advanced debugging and optimization
-9. Semantic Embedding & Vector Databases
-10. Systems design and engineering practices
-
-**My scope:** Built advanced coding modules in Python, REST, PowerShell, and Java. Designed and built the application frontend UI/UX.
+25+ production-ready AI and infrastructure training modules covering Docker microservices, RAG systems, agentic AI engineering, safe AI guardrails, and enterprise automation — built from real production patterns, not toy examples. Includes application frontend UI/UX.
 
 **Technologies:** Docker, Python (FastAPI), PowerShell, PostgreSQL, Redis, Grafana
 
 ---
 
-## Technical Expertise
+### [Archived-HealingVault](https://github.com/FlyguyTestRun/Archived-HealingVault) — Therapeutic AI Journaling Platform
 
-**Agentic AI & Orchestration:**
-- Multi-agent orchestration (DAG pipelines, planning, memory, autonomous and supervised workflows)
-- Human-in-the-loop patterns — approval gates, durable execution, pause/resume
-- Amazon Bedrock (Agents, Knowledge Bases, Guardrails, Flows) — architecture and deployment patterns
-- Claude family models — prompt schema design, adapter patterns, model optimization
-- Custom orchestration frameworks built from first principles (LangChain/LangGraph-equivalent)
-- Tool/function calling, MCP-based tool architectures, dynamic agent routing
+RAG-powered therapeutic journaling application with LLM-guided support. AI retrieval over personal journal entries, structured reflection prompts, and guided therapeutic workflows. Built as a full-stack Python application with semantic search over private user data — foundational research behind the published *Therapeutic AI Companion* case study.
 
-**RAG & Knowledge Systems:**
-- End-to-end RAG pipeline design: ingestion, chunking, embedding, indexing, reranking, grounding
-- Hybrid/vector retrieval — OpenSearch, pgvector, Pinecone, Qdrant, local semantic fallback
-- Citation grounding, source attribution, trust-scored knowledge bases
-- Semantic caching, metadata-driven retrieval, enterprise knowledge modeling
-
-**Cloud & Infrastructure:**
-- **AWS:** Bedrock, Lambda, Step Functions, EventBridge, S3, Aurora, OpenSearch, DynamoDB, ECS/EKS
-- **Azure:** Container Apps, Entra ID, Key Vault, App Insights, ACR, Azure Files
-- Docker, containerization, GitHub Actions CI/CD
-- Microsoft 365, Active Directory, Intune, Autopilot, VMware, Hyper-V
-- Offline/air-gapped deployment for regulated environments
-
-**Governance, Security & Observability:**
-- AI guardrails — deterministic compliance, zero-token PII detection, Bedrock Guardrails patterns
-- IAM/ABAC-pattern access control, KMS patterns, private networking, zero-trust architecture
-- Observability and evaluation pipelines — tracing, cost metrics, A/B testing, fallback strategies
-- Compliance automation: HIPAA, GDPR, SOX, CMMC, FERPA, FedRAMP, DORA, and 16 others
-
-**Development:**
-- Python (FastAPI, async patterns) — primary language
-- PowerShell — enterprise automation and infrastructure-as-code
-- REST API design, webhook integration, structured data pipelines
+**Technologies:** Python, RAG pipeline, LLM integration, vector search, structured data ingestion
 
 ---
 
-## Certifications
+## Career Timeline
 
-- **AZ-104** — Azure Administrator Associate
-- **MD-102** — Endpoint Administrator
-- **AZ-800/801** — Windows Server Hybrid Administrator *(in progress)*
-- **AWS Solutions Architect** — studying; architecture-level proficiency validated through production multi-cloud deployments
+| Period | Role | Organization |
+|--------|------|--------------|
+| **June 2024 – Present** | CTO & Founding Partner | Inflexis Technologies, DFW |
+| **June 2013 – June 2024** | Principal Systems Architect & Consultant | Trial IT Services, LLC, Dallas |
+| **2008 – 2013** | IT Systems Lead | E&F Legal Production, DFW |
+
+**Trial IT Services — 11 years:** Owned architecture and delivery of enterprise infrastructure, cloud, and security systems across regulated industries. Designed hybrid cloud environments across Azure, AWS, GCP, and on-prem. Implemented zero-trust security frameworks, IAM policies, DevSecOps-aligned pipelines, and Python/PowerShell automation frameworks. Served as primary technical advisor to executive stakeholders across legal, construction, and professional services clients — including national law firms (SGPB, Lanier Law, Henjum Goucher Reporting).
+
+**E&F Legal Production — 5 years:** Built high-performance trial infrastructure and workflow automation systems. Designed a psychological assessment platform for jury analysis that reduced preparation time by 90% and enabled real-time pattern recognition and personality profiling — turning manual jury selection research into an API-driven automation pipeline for trial teams nationwide.
+
+---
+
+## Core Technical Capabilities
+
+| Domain | Capabilities |
+|--------|-------------|
+| **Agentic AI & Orchestration** | Multi-agent DAG pipelines, human-in-the-loop, durable workflows (pause/resume), Bedrock Agents, tool/function calling, MCP architectures, dynamic agent routing |
+| **RAG & Knowledge Systems** | Hybrid/vector retrieval, reranking, citation grounding, semantic caching, 20+ format ingestion, trust-scored knowledge bases, enterprise knowledge modeling |
+| **Cloud — Azure** | Container Apps, Entra ID, Key Vault, App Insights, ACR, Azure Files, Azure SQL |
+| **Cloud — AWS** | Bedrock (Agents, Knowledge Bases, Guardrails, Flows), Lambda, Step Functions, EventBridge, S3, Aurora, OpenSearch, DynamoDB, ECS/EKS |
+| **Governance & Compliance** | 25+ frameworks, zero-token PII detection, IAM/ABAC, zero-trust, audit trails, ADR change control, air-gapped deployment |
+| **LLM & Model Engineering** | Claude family (Anthropic), Bedrock patterns, prompt schema design, model optimization, evaluation pipelines, cost-aware routing across 6 providers |
+| **Development** | Python (FastAPI, async) · PowerShell · REST APIs · GitHub Actions CI/CD · Docker |
+| **Observability** | Application Insights, Grafana/Prometheus, evaluation pipelines, budget guardrails, A/B testing, semantic caching |
+| **Vector Databases** | Pinecone, Qdrant, pgvector, OpenSearch, local semantic fallback |
+
+---
+
+## Education & Certifications
+
+**Bachelor of Arts — Engineering & Business** | University of Texas at Arlington | December 2010  
+*Relevant coursework: Computer Science, Data Management, Project Management, Structural Analysis, Engineering Principles*
+
+| Certification | Status |
+|--------------|--------|
+| AZ-104 — Azure Administrator Associate | Active |
+| MD-102 — Endpoint Administrator | Active |
+| AZ-800/801 — Windows Server Hybrid Administrator | In Progress |
+| AWS Solutions Architect | Studying — architecture-level proficiency validated through production deployments |
+
+---
+
+## Full Detailed Resume
+
+**[Bryan Shaw — Full Resume with Complete Experience & Engagement Details →](./resume/Bryan-Shaw-Resume.md)**
 
 ---
 
 ## Contact
 
-**Email:** BryanJShaw@gmail.com
-**Phone:** 817-653-5656
-**LinkedIn:** [linkedin.com/in/bryan-shaw-45a23124](https://www.linkedin.com/in/bryan-shaw-45a23124/)
-**GitHub Personal:** [github.com/FlyguyTestRun](https://github.com/FlyguyTestRun/)
-**GitHub Company:** [github.com/Inflexis-ai](https://github.com/Inflexis-ai)
+| | |
+|---|---|
+| **Email** | [BryanJShaw@gmail.com](mailto:BryanJShaw@gmail.com) |
+| **Phone** | 817-653-5656 |
+| **LinkedIn** | [linkedin.com/in/bryan-shaw-45a23124](https://www.linkedin.com/in/bryan-shaw-45a23124/) |
+| **GitHub Personal** | [github.com/FlyguyTestRun](https://github.com/FlyguyTestRun) |
+| **GitHub Org** | [github.com/Inflexis-ai](https://github.com/Inflexis-ai) |
+| **Platform** | [app.inflexis.ai](https://app.inflexis.ai) |
+| **Platform Docs** | [github.com/Inflexis-ai/aixaas-docs](https://github.com/Inflexis-ai/aixaas-docs) |
 
 ---
 
-*Portfolio last updated: March 2026*
+*Updated: May 2026*
