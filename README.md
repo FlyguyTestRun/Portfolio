@@ -164,7 +164,7 @@ Seven additional deployments completed and published as anonymized case studies 
 
 Writing and research published through Inflexis Technologies at [inflexis.ai](https://inflexis.ai). Articles draw directly from live platform development, client engagement patterns, and weekly AI intelligence gathered in the [Inflexis team workspace](https://github.com/Inflexis-ai/team-workspace) (private). The **Tech Stack Analyzer** — a tool built into the AIXaaS™ AI Intel dashboard — powers much of the analysis behind these articles by mapping enterprise technology landscapes to AIXaaS integration patterns.
 
-### Editorial Articles
+### Recent Editorial Articles
 
 | Article | Theme |
 |---------|-------|
@@ -182,7 +182,7 @@ All seven case study write-ups are published at [inflexis.ai](https://inflexis.a
 
 ### AI Intel Collector — Weekly Industry Intelligence
 
-Active in the private [Inflexis team workspace](https://github.com/Inflexis-ai/team-workspace), the AI Intel system tracks the enterprise AI landscape on a rolling weekly cadence:
+Active in the private [Inflexis team workspace](https://github.com/Inflexis-ai/team-workspace), the AI Intel system tracks the enterprise AI landscape on a rolling weekly cadence for team development, LLM replacement alerts and benchmark testing against live metrics in our own sandbox:
 
 - **Weekly briefings** (Apr–May 2026): market signals, model releases, competitive shifts, governance developments
 - **Platform benchmarks**: head-to-head performance comparisons across AI platforms and deployment patterns
@@ -194,9 +194,9 @@ Active in the private [Inflexis team workspace](https://github.com/Inflexis-ai/t
 
 ## Personal Portfolio Projects
 
-### Claude Code Advanced Tooling & Configuration
+### Advanced AI Tooling & Configuration
 
-Production-hardened Claude Code configuration system built over 10+ months of intensive daily use building real AI products. 30+ slash commands, specialized subagents, hooks, skills, and MCP integrations — developed and refined while building Inflexis production systems. Achieves 2–10x workflow efficiency through systematic command organization, hierarchical configuration, and agent-to-agent orchestration patterns.
+Production-hardened AI configuration system built over 10+ months of devops testing, daily use building real products. Specialized routing system, conservative tokenization and controlled orchestration to subagents, hooks, skills, and MCP integrations — developed and refined while building Inflexis production systems. Achieves 2–10x workflow efficiency through systematic command organization, hierarchical configuration, and agent-to-agent orchestration patterns.
 
 **Technologies:** Claude Code CLI, MCP servers, agentic orchestration, automation hooks
 
@@ -206,7 +206,7 @@ Production-hardened Claude Code configuration system built over 10+ months of in
 
 Active private repository: multi-agent orchestration layer over a major enterprise CMMS platform for a Fortune-class facilities management client. REST API integration, governed RAG over structured operational data, ADR-based change control, and multi-agent pipeline with deterministic compliance enforcement.
 
-**Technologies:** Python (FastAPI), MAO Platform, Corrigo REST API, RAG, RBAC, GitHub Actions CI/CD
+**Technologies:** Python (FastAPI), MAO Platform, REST API, RAG, RBAC, GitHub Actions CI/CD
 
 ---
 
@@ -218,7 +218,7 @@ Open collaboration workspace for AIXaaS and CoreSkills4AI practitioners — arch
 
 ### [ISD Systems Showcase](https://github.com/FlyguyTestRun/ISD-Showcase)
 
-Enterprise infrastructure design for K-12 district environments — identity management (Azure AD / Entra ID / AD DS), network segmentation (CIPA/FERPA aligned), and PowerShell automation at scale.
+Enterprise infrastructure design for K-12 district environments — identity management (Azure AD / Entra ID / AD DS), network segmentation (CIPA/FERPA aligned), and PowerShell automation at scale. EdTech Mandate Partnership State wide (Ohio/Texas)
 
 **Technologies:** PowerShell, Azure AD, Entra ID, Intune MDM, AD DS, DHCP/DNS, VLAN segmentation, Veeam, Dell iDRAC
 
@@ -232,19 +232,11 @@ Enterprise infrastructure design for K-12 district environments — identity man
 
 ---
 
-### [Archived-HealingVault](https://github.com/FlyguyTestRun/Archived-HealingVault) — Therapeutic AI Journaling Platform
-
-RAG-powered therapeutic journaling application with LLM-guided support. AI retrieval over personal journal entries, structured reflection prompts, and guided therapeutic workflows. Built as a full-stack Python application with semantic search over private user data — foundational research behind the published *Therapeutic AI Companion* case study.
-
-**Technologies:** Python, RAG pipeline, LLM integration, vector search, structured data ingestion
-
----
-
 ## Career Timeline
 
 | Period | Role | Organization |
 |--------|------|--------------|
-| **June 2024 – Present** | CTO & Founding Partner | Inflexis Technologies, DFW |
+| **June 2024 – Present** | AI/ML OS Architecture  | Inflexis Technologies, DFW |
 | **June 2013 – June 2024** | Principal Systems Architect & Consultant | Trial IT Services, LLC, Dallas |
 | **2008 – 2013** | IT Systems Lead | E&F Legal Production, DFW |
 
@@ -272,15 +264,9 @@ RAG-powered therapeutic journaling application with LLM-guided support. AI retri
 
 ## Education & Certifications
 
-**Bachelor of Arts — Engineering & Business** | University of Texas at Arlington | December 2010  
+**Bachelors Engineering & Business** | University of Texas at Arlington | December 2010  
 *Relevant coursework: Computer Science, Data Management, Project Management, Structural Analysis, Engineering Principles*
 
-| Certification | Status |
-|--------------|--------|
-| AZ-104 — Azure Administrator Associate | Active |
-| MD-102 — Endpoint Administrator | Active |
-| AZ-800/801 — Windows Server Hybrid Administrator | In Progress |
-| AWS Solutions Architect | Studying — architecture-level proficiency validated through production deployments |
 
 ---
 
