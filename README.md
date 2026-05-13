@@ -10,7 +10,7 @@
 
 ## Summary
 
-Enterprise AI leader and hands-on platform architect with **23+ years** of experience shipping production systems across infrastructure, cloud, and advanced AI. Currently serving as **CTO and Founding Partner of Inflexis Technologies**, leading all architecture, engineering, and client delivery for **AIXaaS™** — a multi-tenant AI orchestration operating system built for regulated enterprise. Proven track record delivering governed RAG pipelines, multi-agent orchestration systems, compliance automation engines, and zero-trust AI infrastructure under compressed timelines — with six simultaneous live client engagements spanning federal, cybersecurity, industrial, education, food service, and enterprise SaaS.
+Enterprise AI leader and hands-on platform architect with **23+ years** of experience shipping production systems across infrastructure, cloud, and advanced AI. Currently serving as **CTO and Founding Partner of Inflexis Technologies**, leading all architecture, engineering, and client delivery for **AIXaaS™** — a multi-tenant AI orchestration operating system built for regulated enterprise. Active across **13 distinct builds spanning 6 industry verticals** — federal, cybersecurity, industrial, education, food service, healthcare, and enterprise facilities management — with six simultaneous live client engagements and seven published case study deployments.
 
 Brings a rare combination of executive strategy, product ownership, and deep hands-on engineering: having led cross-functional teams of up to 30, partnered directly with C-suite and legal stakeholders, and collapsed 6–12 month AI implementations into weeks through reusable, governed architecture patterns.
 
@@ -31,6 +31,7 @@ Brings a rare combination of executive strategy, product ownership, and deep han
 | Token efficiency improvement | **31%** over baseline (900 vs. 1,311 tokens) |
 | Reusable architecture payoff | Governed platform already in production → new client demonstrations assembled, not rebuilt |
 | Simultaneous live engagements | **6 industries** in active production |
+| Total distinct builds tracked | **13** across 6 industry verticals |
 | Team leadership scale | Up to **30 engineers & architects** |
 
 ---
@@ -95,9 +96,11 @@ Inflexis Technologies is an AI platform company. I am the CTO and Founding Partn
 
 ---
 
-## Featured Client Engagements
+## Active Builds & Published Case Studies
 
-Six active architecture engagements — client names withheld per confidentiality agreements.
+**13 distinct builds across 6 industry verticals — client names withheld per confidentiality agreements.** Six are active architecture engagements in current production; seven are completed deployments written up as published case studies.
+
+### Active Engagements
 
 ### Enterprise Workflow Integration — Fortune-class Rail & Commercial Facilities
 **Industry:** Enterprise / Logistics &nbsp;|&nbsp; **Role:** Lead AI Architect
@@ -141,12 +144,19 @@ State-wide ISD AI architecture roadmap spanning multiple districts. Student data
 
 ---
 
-### Enterprise AI Knowledge Platform — Governed Architecture Enables Rapid Demonstration
-**Industry:** Enterprise SaaS &nbsp;|&nbsp; **Role:** CTO / Lead Architect
+### Published Case Study Builds
 
-Delivered a full investor-grade multi-agent knowledge platform demonstration in 72 hours — not because anything was rushed or skipped, but because the governance architecture was already in place. The compliance engine, retrieval pipeline, multi-agent orchestration layer, and audit infrastructure were already running in production across other regulated client deployments before this engagement began.
+Seven additional deployments completed and published as anonymized case studies — spanning healthcare, food service, SMB, and sports/media verticals:
 
-The takeaway is not that an AI app can be built in a day. The takeaway is that **when governance is built correctly from the ground up — modular, reusable, and already load-tested — a new deployment is assembly, not invention.** The 72-hour window was a demonstration of architectural maturity, not a shortcut. Unvetted speed without governance produces systems that cannot be trusted, audited, or scaled; this platform demonstrated the opposite.
+| Case Study | Industry | Build Focus |
+|-----------|----------|-------------|
+| **EdMandate** | Education / EdTech | Multi-district AI architecture, FERPA/CIPA-governed |
+| **FedShark** | Federal / GovTech | GovCon contract intelligence, FAR/DFARS compliance |
+| **Frenos** | Food Service / Restaurant | POS-integrated AI operations, pricing intelligence |
+| **Solo Trades** | SMB / Field Operations | AI workflows for small-to-mid field service businesses |
+| **Therapeutic AI Companion** | Healthcare / Mental Health | RAG-powered journaling and guided therapeutic support |
+| **Gelato & Catering Startup** | Food Service / Hospitality | AI-driven inventory and demand forecasting at startup scale |
+| **Athlete Legacy & AI Persona** | Sports / Personal Brand | AI persona architecture and legacy content management |
 
 ---
 
@@ -164,20 +174,11 @@ Writing and research published through Inflexis Technologies at [inflexis.ai](ht
 | **The Human Dividend: What AI Deployment Actually Returns** | Making the case that properly deployed, governed AI returns measurable human value — not just cost reduction, but expanded capability, reduced cognitive load, and better decisions at every level. |
 | **AI Governance Software Cost in 2026** | Real cost analysis of what enterprise AI governance actually runs — infrastructure, compliance tooling, observability, and operational overhead — versus the cost of not governing. |
 | **HIPAA Compliance and AI Data Governance in 2026** | Practical guidance on building AI systems that handle protected health information under current regulatory requirements, with deterministic enforcement patterns. |
+| **Enterprise AI and the Silo Problem** *(co-authored)* | Why enterprise AI systems hallucinate and fail to deliver: departments are siloed, platforms don't talk to each other, and AI gets queried against fragmented data it can't reconcile. The integration layer — not the model — is where enterprise AI succeeds or collapses. Co-authored with industry collaborator, published Mar–Apr 2026. Available at [inflexis.ai](https://inflexis.ai). |
 
 ### Published Case Studies
 
-Anonymized client deployments written up as case studies for the Inflexis website — spanning the full range of industries where AIXaaS™ is active:
-
-| Case Study | Sector |
-|-----------|--------|
-| EdMandate — K-12 AI Architecture | Education / EdTech |
-| FedShark — GovCon AI Platform | Federal / Government Contracting |
-| Frenos — Restaurant Chain AI Operations | Food Service |
-| Solo Trades — Small Business AI | SMB / Field Operations |
-| Therapeutic AI Companion | Healthcare / Mental Health |
-| Gelato & Catering Startup | Food Service / Startup |
-| Athlete Legacy & AI Persona | Sports / Personal Brand |
+All seven case study write-ups are published at [inflexis.ai](https://inflexis.ai) — covering each deployment listed in the Active Builds section above. Case studies are anonymized and written from the architectural and governance perspective of each engagement.
 
 ### AI Intel Collector — Weekly Industry Intelligence
 
@@ -193,11 +194,19 @@ Active in the private [Inflexis team workspace](https://github.com/Inflexis-ai/t
 
 ## Personal Portfolio Projects
 
-### everything-claude-code — Anthropic Hackathon Winner
+### Claude Code Advanced Tooling & Configuration
 
-Complete Claude Code configuration system built over 10+ months of intensive daily production use building real AI products. 30+ slash commands, specialized subagents, hooks, skills, and MCP integrations — achieving 2–10x productivity gains through systematic command organization and hierarchical configuration. Recognized by Anthropic and published as a community resource.
+Production-hardened Claude Code configuration system built over 10+ months of intensive daily use building real AI products. 30+ slash commands, specialized subagents, hooks, skills, and MCP integrations — developed and refined while building Inflexis production systems. Achieves 2–10x workflow efficiency through systematic command organization, hierarchical configuration, and agent-to-agent orchestration patterns.
 
-**Technologies:** Claude Code, MCP servers, agent orchestration, automation hooks
+**Technologies:** Claude Code CLI, MCP servers, agentic orchestration, automation hooks
+
+---
+
+### Enterprise CMMS AI Integration — Private Active Build
+
+Active private repository: multi-agent orchestration layer over a major enterprise CMMS platform for a Fortune-class facilities management client. REST API integration, governed RAG over structured operational data, ADR-based change control, and multi-agent pipeline with deterministic compliance enforcement.
+
+**Technologies:** Python (FastAPI), MAO Platform, Corrigo REST API, RAG, RBAC, GitHub Actions CI/CD
 
 ---
 
@@ -220,6 +229,14 @@ Enterprise infrastructure design for K-12 district environments — identity man
 25+ production-ready AI and infrastructure training modules covering Docker microservices, RAG systems, agentic AI engineering, safe AI guardrails, and enterprise automation — built from real production patterns, not toy examples. Includes application frontend UI/UX.
 
 **Technologies:** Docker, Python (FastAPI), PowerShell, PostgreSQL, Redis, Grafana
+
+---
+
+### [Archived-HealingVault](https://github.com/FlyguyTestRun/Archived-HealingVault) — Therapeutic AI Journaling Platform
+
+RAG-powered therapeutic journaling application with LLM-guided support. AI retrieval over personal journal entries, structured reflection prompts, and guided therapeutic workflows. Built as a full-stack Python application with semantic search over private user data — foundational research behind the published *Therapeutic AI Companion* case study.
+
+**Technologies:** Python, RAG pipeline, LLM integration, vector search, structured data ingestion
 
 ---
 
