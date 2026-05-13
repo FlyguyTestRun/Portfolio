@@ -197,17 +197,6 @@ Writing published through Inflexis Technologies — available at [inflexis.ai](h
 
 ---
 
-## Certifications
-
-| Certification | Status |
-|---|---|
-| AZ-104 — Azure Administrator Associate | Active |
-| MD-102 — Endpoint Administrator | Active |
-| AZ-800/801 — Windows Server Hybrid Administrator | In Progress |
-| AWS Solutions Architect | Studying — architecture-level proficiency validated through production deployments |
-
----
-
 ## Additional Tools & Platforms
 
 **AI & Orchestration:** Claude (Anthropic), Amazon Bedrock, Ollama, Open-Claw, LangChain, LM Studio, Cursor, VS Code  
