@@ -63,6 +63,7 @@ Inflexis Technologies is an AI platform company. I am the CTO and Founding Partn
 - **Multi-cloud:** Azure Container Apps (production) + AWS Bedrock-compatible architecture
 - **Identity & access:** Entra ID SSO, 8-role RBAC, IAM/ABAC tenant isolation, zero-trust architecture
 - **Air-gapped deployment:** offline LLM support via Ollama, local vector stores, no external API dependencies for regulated environments
+- **Tech Stack Analyzer:** AI-powered intake tool that maps a client's existing platform to AIXaaS™ integration patterns and consolidation opportunities — integrated into the AI Intel intelligence dashboard; the engine behind published work like *The Placement Problem*
 - **MCP Server integration:** 8 tools exposed for Claude Desktop and AI agent connections
 - **Observability:** Application Insights, budget guardrails, loop-cap enforcement, evaluation pipelines, cost-aware routing across 6 LLM providers
 - **Semantic caching:** 30–60% cost reduction; 100% deterministic rate on analytical queries
@@ -151,7 +152,7 @@ The takeaway is not that an AI app can be built in a day. The takeaway is that *
 
 ## Thought Leadership & Published Work
 
-Writing and research published through Inflexis Technologies — articles, case studies, and weekly AI intelligence gathered as part of ongoing CTO practice. See the [Inflexis team workspace](https://github.com/Inflexis-ai/team-workspace) for the full content library and AI Intel collector.
+Writing and research published through Inflexis Technologies at [inflexis.ai](https://inflexis.ai). Articles draw directly from live platform development, client engagement patterns, and weekly AI intelligence gathered in the [Inflexis team workspace](https://github.com/Inflexis-ai/team-workspace) (private). The **Tech Stack Analyzer** — a tool built into the AIXaaS™ AI Intel dashboard — powers much of the analysis behind these articles by mapping enterprise technology landscapes to AIXaaS integration patterns.
 
 ### Editorial Articles
 
@@ -180,23 +181,21 @@ Anonymized client deployments written up as case studies for the Inflexis websit
 
 ### AI Intel Collector — Weekly Industry Intelligence
 
-Active in the [Inflexis team workspace](https://github.com/Inflexis-ai/team-workspace/tree/main/ai-intel), the AI Intel system tracks the enterprise AI landscape on a rolling weekly cadence:
+Active in the private [Inflexis team workspace](https://github.com/Inflexis-ai/team-workspace), the AI Intel system tracks the enterprise AI landscape on a rolling weekly cadence:
 
 - **Weekly briefings** (Apr–May 2026): market signals, model releases, competitive shifts, governance developments
-- **Platform benchmarks**: head-to-head performance comparisons across AI platforms and deployment patterns  
+- **Platform benchmarks**: head-to-head performance comparisons across AI platforms and deployment patterns
 - **RAG evaluation best practices**: ongoing research into retrieval quality, reranking, and grounding patterns
-- **Tech stack analysis**: architecture evaluation for emerging tools, frameworks, and integration targets
-- **Sources**: structured feed of vetted AI industry sources tracked in [`ai-intel/sources.json`](https://github.com/Inflexis-ai/team-workspace/blob/main/ai-intel/sources.json)
+- **Tech stack analysis**: architecture evaluation fed directly into the **Tech Stack Analyzer** tool within the AIXaaS™ AI Intel dashboard
+- **Sources**: structured feed of vetted AI industry sources tracked in the private team workspace (`ai-intel/sources.json`)
 
 ---
 
 ## Personal Portfolio Projects
 
-### [everything-claude-code](https://github.com/FlyguyTestRun/everything-claude-code) — Anthropic Hackathon Winner
+### everything-claude-code — Anthropic Hackathon Winner
 
-Complete Claude Code configuration system built over 10+ months of intensive daily production use building real AI products. 30+ slash commands, specialized subagents, hooks, skills, and MCP integrations — achieving 2–10x productivity gains through systematic command organization and hierarchical configuration.
-
-Recognized by Anthropic and published as a community resource for AI engineers and developers worldwide.
+Complete Claude Code configuration system built over 10+ months of intensive daily production use building real AI products. 30+ slash commands, specialized subagents, hooks, skills, and MCP integrations — achieving 2–10x productivity gains through systematic command organization and hierarchical configuration. Recognized by Anthropic and published as a community resource.
 
 **Technologies:** Claude Code, MCP servers, agent orchestration, automation hooks
 
