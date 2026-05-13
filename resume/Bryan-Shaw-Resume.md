@@ -98,12 +98,6 @@ Owned architecture and delivery of enterprise infrastructure, cloud, and securit
 
 Six simultaneous architecture engagements — client names withheld per confidentiality agreements.
 
-### Enterprise Workflow Integration — Fortune-class Rail & Commercial Facilities
-*Industry: Enterprise / Logistics &nbsp;|&nbsp; Role: Lead AI Architect*
-- MAO orchestration + governed RAG over a major enterprise CMMS platform (Corrigo) for a Fortune-class rail and commercial facilities client
-- Structured knowledge retrieval over work orders, asset records, and operational data
-- ADR-based change control; all agent instruction changes version-controlled and reviewable
-
 ### Automotive Safety Intelligence Platform
 *Industry: Industrial / Automotive Safety &nbsp;|&nbsp; Role: Lead AI Architect*
 - AI-driven threat detection and real-time monitoring for safety-critical OT systems
@@ -133,6 +127,12 @@ Six simultaneous architecture engagements — client names withheld per confiden
 - State-wide ISD AI architecture roadmap spanning multiple districts
 - Student data governance framework with FERPA/CIPA compliance controls and phased adoption sequencing
 - Stakeholder briefings and architecture documentation delivered to district leadership
+
+### Enterprise Workflow Integration —  Commercial Facilities
+*Industry: Enterprise / Logistics &nbsp;|&nbsp; Role: Lead AI Architect*
+- MAO orchestration + governed RAG over a major enterprise CMMS platform (Corrigo) for a Fortune-class rail and commercial facilities client
+- Structured knowledge retrieval over work orders, asset records, and operational data
+- ADR-based change control; all agent instruction changes version-controlled and reviewable
 
 ---
 
@@ -192,7 +192,7 @@ Writing published through Inflexis Technologies — available at [inflexis.ai](h
 
 ## Education
 
-**Bachelor of Arts — Engineering & Business** | University of Texas at Arlington | December 2010  
+**Bachelors Engineering & Business** | University of Texas at Arlington | December 2010  
 *Coursework: Computer Science, Data Management, Project Management, Structural Analysis, Engineering Principles*
 
 ---
@@ -210,7 +210,7 @@ Writing published through Inflexis Technologies — available at [inflexis.ai](h
 
 ## Additional Tools & Platforms
 
-**AI & Orchestration:** Claude (Anthropic), Amazon Bedrock, Ollama, LM Studio, Cursor, VS Code  
+**AI & Orchestration:** Claude (Anthropic), Amazon Bedrock, Ollama, Open-Claw, LangChain, LM Studio, Cursor, VS Code  
 **RAG & Vector:** Pinecone, Qdrant, OpenSearch, pgvector, semantic caching  
 **Observability:** Application Insights, Grafana, Prometheus, evaluation pipelines  
 **Enterprise Platforms:** Microsoft 365, Entra ID, Intune, Active Directory, SharePoint, ServiceNow  
