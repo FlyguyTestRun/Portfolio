@@ -1,22 +1,24 @@
 # Bryan Shaw
-**AI Architect & CTO | Multi-Agent Orchestration | Governed RAG | Amazon Bedrock & Claude | Enterprise GenAI**
+**CTO & Founding Partner — Inflexis Technologies | AI Platform & Agentic Engineering Leader**
 
-*Focus Areas: Agentic AI Platform Architecture · RAG & Retrieval Systems · Multi-Agent Orchestration · AWS Bedrock · Human-in-the-Loop Workflows · Secure & Governed AI · Offline/Air-Gapped Deployment*
+*Focus Areas: Agentic AI Platform Architecture · Multi-Agent Orchestration · Governed RAG Pipelines · AWS Bedrock & Azure AI · Human-in-the-Loop Workflows · Compliance Automation · Secure & Air-Gapped AI Deployment*
 
-**Location:** Dallas–Fort Worth, TX
-**Email:** [BryanJShaw@gmail.com](mailto:BryanJShaw@gmail.com)
-**LinkedIn:** https://www.linkedin.com/in/bryan-shaw-45a23124/
-**GitHub:** https://github.com/FlyguyTestRun/
+**Location:** Dallas–Fort Worth, TX  
+**Email:** [BryanJShaw@gmail.com](mailto:BryanJShaw@gmail.com)  
+**LinkedIn:** [linkedin.com/in/bryan-shaw-45a23124](https://www.linkedin.com/in/bryan-shaw-45a23124/)  
+**GitHub Personal:** [github.com/FlyguyTestRun](https://github.com/FlyguyTestRun)  
+**GitHub Org:** [github.com/Inflexis-ai](https://github.com/Inflexis-ai)  
+**Platform:** [app.inflexis.ai](https://app.inflexis.ai)
 
 ---
 
 ## Professional Summary
 
-AI Architect and CTO with 22+ years of enterprise technology experience — currently leading architecture, engineering, and delivery for a production-grade multi-agent AI orchestration platform serving enterprise and regulated-industry clients.
+Enterprise AI leader and hands-on platform architect with **23+ years** of experience shipping production-grade systems across infrastructure, cloud, and advanced AI. Currently serving as **CTO and Founding Partner of Inflexis Technologies**, leading all architecture, engineering, and client delivery for **AIXaaS™** — a multi-tenant AI orchestration operating system purpose-built for regulated enterprise.
 
-Designs and ships production agentic AI systems end-to-end: multi-agent pipelines, governed RAG architectures, human-in-the-loop workflows, compliance automation engines, and secure LLM orchestration layers. Hands-on experience with Claude family models (native on Amazon Bedrock), Bedrock-pattern agent design, and multi-cloud deployments across AWS and Azure. Equally capable in cloud-native and offline/air-gapped architectures for environments requiring strict data sovereignty.
+Designs and ships production agentic AI systems end-to-end: multi-agent orchestration pipelines (MAO Platform, Axiom, Atlas, Sentinel), governed RAG architectures, human-in-the-loop workflows, compliance automation engines, messaging and meeting intelligence systems, and secure LLM orchestration layers. Hands-on with Claude family models, Amazon Bedrock agent patterns, and multi-cloud deployments across AWS and Azure. Equally capable in cloud-native and offline/air-gapped architectures for environments with strict data sovereignty requirements.
 
-Translates operational complexity into governed AI knowledge platforms that reduce friction, enforce compliance, and deliver measurable ROI. Active across six simultaneous client engagements spanning federal, cybersecurity, food service, education, automotive safety, and enterprise SaaS — while leading all platform architecture and engineering as a founding CTO.
+Active across six simultaneous client engagements spanning federal, cybersecurity, food service, education, automotive safety, and enterprise SaaS — while owning all platform architecture, engineering roadmap, and team leadership as a founding CTO. Recognized for collapsing 6–12 month AI implementations into weeks, achieving 35–50% operational efficiency gains, and delivering an investor-grade MVP in 72 hours.
 
 ---
 
@@ -115,22 +117,28 @@ Six simultaneous active architecture engagements — client names withheld per c
 
 ## Professional Experience
 
-### AI Platform Startup — Dallas–Fort Worth, TX
-**CTO & Founding Partner** | 2025 – Present
+### Inflexis Technologies — Dallas–Fort Worth, TX
+**CTO & Founding Partner** | June 2024 – Present
 
-Co-founder and technical lead for a multi-tenant AI orchestration platform (AIXaaS) serving enterprise and regulated-industry clients. Own all platform architecture, engineering roadmap, cloud infrastructure, and client technical delivery across six simultaneous engagements.
+> **GitHub Org:** [github.com/Inflexis-ai](https://github.com/Inflexis-ai) &nbsp;·&nbsp; **Platform:** [app.inflexis.ai](https://app.inflexis.ai) &nbsp;·&nbsp; **Docs:** [aixaas-docs](https://github.com/Inflexis-ai/aixaas-docs) &nbsp;·&nbsp; **API Examples:** [mao-examples](https://github.com/Inflexis-ai/mao-examples)
 
-- Architected and shipped a 10-layer multi-agent orchestration platform across Azure Container Apps — spanning ingestion, retrieval, compliance detection, agent execution, observability, and governance
-- Designed and implemented a zero-token compliance engine performing deterministic pattern-matching across 23 regulatory frameworks (HIPAA, GDPR, SOX, CMMC, FERPA, etc.) — equivalent to Bedrock Guardrails enforcement model
+Co-founder and CTO of Inflexis Technologies — an AI platform company building **AIXaaS™**, a multi-tenant AI orchestration operating system for regulated enterprise. Own all platform architecture, engineering roadmap, cloud infrastructure, team leadership, and client technical delivery across six simultaneous engagements.
+
+**Platform & Product Development (AIXaaS™ — Axiom, Atlas, Sentinel, MAO Platform):**
+- Architected and shipped a 10-layer multi-agent orchestration platform (MAO Platform) across Azure Container Apps — spanning ingestion, retrieval, compliance detection, agent execution, observability, and governance
+- Leading active development of three AIXaaS™ product lines (Axiom, Atlas, Sentinel) within the [InflexisTechnologies](https://github.com/Inflexis-ai/InflexisTechnologies) platform repo
+- Built and shipping **Messaging & Meeting Intelligence** ([repo](https://github.com/Inflexis-ai/Messaging-Meeting-Intelligence)) — AI-powered call intelligence, transcript analysis, and SPICED-scored meeting summaries
+- Designed and implemented a zero-token compliance engine performing deterministic pattern-matching across 25+ regulatory frameworks (HIPAA, GDPR, SOX, CMMC, FERPA, FedRAMP, DORA, PCI-DSS) — equivalent to Bedrock Guardrails enforcement model
 - Built 3-tier hybrid vector storage architecture (keyword fallback + local semantic + cloud Pinecone) with automatic tier failover — compatible with OpenSearch and pgvector design patterns
 - Implemented human-in-the-loop approval workflows using durable execution patterns equivalent to AWS Step Functions Flows; supports pause/resume across multi-step agentic processes
-- Deployed Entra ID SSO + 8-role RBAC across all platform surfaces; IAM/ABAC-pattern governance and data isolation per tenant
+- Deployed Entra ID SSO + 8-role RBAC across all platform surfaces; IAM/ABAC-pattern governance and tenant data isolation
 - Engineered universal file ingestion pipeline supporting 20+ formats with async job queuing for enterprise-scale knowledge ingestion
-- Designed multi-cloud architecture: Azure production deployment + AWS Bedrock-compatible patterns for Claude model integration and agent orchestration
-- Applied ADR-based change control, budget guardrails, loop-cap enforcement, and evaluation pipelines across all production deployments
+- Designed multi-cloud architecture: Azure Container Apps production deployment + AWS Bedrock-compatible patterns for Claude model integration and agent orchestration
+- Implemented MCP Server integration exposing 8 tools for Claude Desktop and AI agent connections
+- Applied ADR-based change control, budget guardrails, loop-cap enforcement, cost-aware routing across 6 LLM providers, and evaluation pipelines across all production deployments
 - Designed air-gapped/offline deployment architecture (local LLMs via Ollama, local vector stores, no external API dependencies) for government and regulated scenarios
 - Delivered 72-hour MVP for investor demonstration — multi-agent knowledge platform from concept to live demo under acute time pressure
-- Managed six simultaneous client architecture engagements across federal, cybersecurity, food service, education, automotive safety, and enterprise SaaS
+- Led cross-functional team across engineering, marketing, revenue, design, and business development ([team-workspace](https://github.com/Inflexis-ai/team-workspace))
 
 ### CoreSkills4AI – Dallas–Fort Worth, TX
 **Senior AI Architect–Engineer & Platform Lead** | June 2024 – 2025
