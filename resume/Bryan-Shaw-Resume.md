@@ -1,5 +1,5 @@
 # Bryan Shaw
-## CTO & Founding Partner — Inflexis Technologies | AI Platform & Agentic Engineering Leader
+## AI Platform & Agentic Engineering Leader
 
 **Dallas–Fort Worth, TX** &nbsp;|&nbsp; [BryanJShaw@gmail.com](mailto:BryanJShaw@gmail.com) &nbsp;|&nbsp; 817-653-5656  
 [LinkedIn](https://www.linkedin.com/in/bryan-shaw-45a23124/) &nbsp;|&nbsp; [GitHub: FlyguyTestRun](https://github.com/FlyguyTestRun) &nbsp;|&nbsp; [GitHub: Inflexis-ai Org](https://github.com/Inflexis-ai) &nbsp;|&nbsp; [Platform: app.inflexis.ai](https://app.inflexis.ai)
@@ -10,11 +10,11 @@
 
 ## Professional Summary
 
-Enterprise AI leader and hands-on platform architect with **23+ years** of experience shipping production-grade systems across infrastructure, cloud, and advanced AI. Currently serving as **CTO and Founding Partner of Inflexis Technologies**, leading all architecture, engineering, and client delivery for **AIXaaS™** — a multi-tenant AI orchestration operating system purpose-built for regulated enterprise.
+Enterprise AI leader and hands-on platform architect with **23+ years** of experience shipping production-grade systems across infrastructure, cloud, and advanced AI. Currently serving as **CTO and Founding Partner of Inflexis Technologies**, leading all architecture, engineering, and client delivery for **AIXaaS™** a multi-tenant AI orchestration operating system purpose-built for regulated enterprise.
 
-Designs and ships agentic AI systems end-to-end: multi-agent orchestration pipelines (MAO Platform, Axiom, Atlas, Sentinel), governed RAG architectures, human-in-the-loop workflows, compliance automation engines, messaging and meeting intelligence, and secure LLM orchestration layers across cloud-native and air-gapped environments. Hands-on with Claude family models, Amazon Bedrock agent patterns, and multi-cloud deployments across Azure and AWS.
+Designs and ships agentic AI systems end-to-end: multi-agent orchestration pipelines with LLM cost optimization (MAO Platform, Axiom, Atlas, Sentinel), governed hybrid RAG architectures, human-in-the-loop workflows, compliance automation engines, messaging and meeting intelligence, and secure LLM orchestration layers across cloud-native and air-gapped environments. Hands-on with Claude family models, Amazon Bedrock agent patterns, and multi-cloud deployments across Azure and AWS.
 
-Recognized for collapsing 6–12 month AI implementations into weeks through reusable, pre-governed architecture — not through shortcuts, but through compliance engines, retrieval pipelines, and agent infrastructure already validated in production before a new client engagement begins. Active across six simultaneous client engagements spanning federal, cybersecurity, industrial, education, food service, and enterprise SaaS.
+Recognized for collapsing 6–12 month AI implementations into weeks through reusable, pre-governed architecture not through shortcuts, but through compliance engines, retrieval pipelines, and agent infrastructure already validated in production before a new client engagement begins. Active in six current engagements spanning federal, cybersecurity, industrial, education, food service, and enterprise SaaS companies.
 
 ---
 
@@ -37,7 +37,7 @@ Recognized for collapsing 6–12 month AI implementations into weeks through reu
 
 > [github.com/Inflexis-ai](https://github.com/Inflexis-ai) &nbsp;·&nbsp; [app.inflexis.ai](https://app.inflexis.ai) &nbsp;·&nbsp; [Platform Docs](https://github.com/Inflexis-ai/aixaas-docs) &nbsp;·&nbsp; [API Examples](https://github.com/Inflexis-ai/mao-examples)
 
-Co-founder and CTO of Inflexis Technologies — an AI platform company building **AIXaaS™**, a multi-tenant AI orchestration operating system for regulated enterprise. Own all platform architecture, engineering roadmap, cloud infrastructure, team leadership, and client technical delivery across six simultaneous engagements.
+CTO of Inflexis Technologies an AI platform company building **AIXaaS™**, a multi-tenant AI orchestration operating system for regulated enterprise. Own all platform architecture, engineering roadmap, cloud infrastructure, team leadership, and client technical delivery across engagements.
 
 **Platform & Product Engineering:**
 - Architected and shipped a 10-layer multi-agent orchestration platform (MAO Platform) across Azure Container Apps — ingestion, retrieval, compliance detection, agent execution, observability, governance, approval gates, output, and audit trail
