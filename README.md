@@ -1,5 +1,5 @@
 # Bryan Shaw
-**Head of AI &nbsp;|&nbsp; AI Platform & Agentic Engineering Leader &nbsp;|&nbsp; Former CTO**
+**Head of AI &nbsp;|&nbsp; AI Platform & Agentic Engineering Leader &nbsp;|&nbsp; CTO**
 
 **Dallas–Fort Worth, TX** &nbsp;|&nbsp; [BryanJShaw@gmail.com](mailto:BryanJShaw@gmail.com) &nbsp;|&nbsp; 817-653-5656  
 [LinkedIn](https://www.linkedin.com/in/bryan-shaw-45a23124/) &nbsp;|&nbsp; [GitHub](https://github.com/FlyguyTestRun) &nbsp;|&nbsp; [Inflexis-ai Org](https://github.com/Inflexis-ai) &nbsp;|&nbsp; [inflexis.ai](https://inflexis.ai)
@@ -10,7 +10,7 @@
 
 ## Summary
 
-Enterprise AI leader with 23+ years of experience architecting and delivering production-grade platforms across infrastructure, cloud, and advanced AI systems. Proven track record of building and scaling multi-agent AI platforms, RAG-based systems, and governed AI solutions in regulated environments — translating enterprise strategy into secure, auditable, and high-performing AI capabilities that drive measurable business outcomes.
+Enterprise AI leader with 23+ years of experience architecting and delivering production-grade platforms across infrastructure, cloud, and advanced AI systems. Proven track record of building and scaling multi-agent AI platforms, RAG-based systems, and governed AI solutions in regulated environments, translating enterprise strategy into secure, auditable, and high-performing AI capabilities that drive measurable business outcomes.
 
 Brings a unique combination of executive leadership, product ownership, and hands-on engineering, having led cross-functional teams of up to 30 and partnered with large enterprises and national firms to design and deploy mission-critical systems under strict security, compliance, and operational constraints. Deep expertise across GenAI, agentic architectures, AI governance, and cloud-native platforms (Azure, AWS, GCP), with a strong focus on scalable architecture, DevSecOps-aligned delivery, and Infrastructure-as-Code patterns.
 
@@ -21,7 +21,7 @@ Recognized for delivering enterprise AI platforms under compressed timelines whi
 ## Executive Impact
 
 - Delivered enterprise AI platforms across federal, cybersecurity, education, retail, and industrial sectors — **13 distinct builds across 6 industry verticals**
-- Reduced implementation timelines from **6–12 months to weeks** via reusable, pre-governed architecture patterns
+- Reduced implementation timelines from **6–12 months to 4-12 weeks** via reusable, pre-governed architecture patterns
 - Drove **30–50% operational efficiency gains** and **60–70% faster time-to-value** across client engagements
 - Trusted advisor to C-suite, legal, and business leaders for AI strategy and execution
 - Led global, cross-functional teams of up to **30 engineers and architects**
@@ -115,18 +115,7 @@ Owned architecture and delivery of enterprise infrastructure, cloud, and securit
 
 ## Education
 
-**Bachelor of Arts — Engineering & Business** &nbsp;|&nbsp; University of Texas at Arlington &nbsp;|&nbsp; December 2010
-
----
-
-## Certifications
-
-| Certification | Status |
-|---|---|
-| AZ-104 — Azure Administrator Associate | Active |
-| MD-102 — Endpoint Administrator | Active |
-| AZ-800/801 — Windows Server Hybrid Administrator | In Progress |
-| AWS Solutions Architect | Studying — architecture-level proficiency validated through production deployments |
+**Bachelors — Engineering & Business** &nbsp;|&nbsp; University of Texas at Arlington &nbsp;|&nbsp; December 2010
 
 ---
 
