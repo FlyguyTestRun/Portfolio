@@ -180,7 +180,7 @@ Owned architecture and delivery of enterprise infrastructure, cloud, and securit
 
 ## EDUCATION
 
-**Bachelor of Arts — Engineering & Business**
+**Engineering & Business**
 University of Texas at Arlington | December 2010
 *Relevant coursework: Computer Science, Data Management, Project Management, Structural Analysis*
 
