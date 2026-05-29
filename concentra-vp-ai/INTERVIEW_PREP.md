@@ -22,27 +22,29 @@
 | **Company** | Nation's largest occupational health company, 40+ years, dedicated to improving health of America's workforce |
 | **Mission** | Exceptional service to employers, exceptional care to their employees |
 | **Location** | HQ: Addison, TX (your backyard — DFW local advantage) |
-| **Services** | Occupational medicine, urgent care, physical therapy, employer services, drug testing, wellness programs |
-| **Scale** | Hundreds of centers nationally, thousands of clinical and administrative staff |
-| **Data environment** | EHR systems, employer reporting systems, billing/revenue cycle, scheduling, workforce management |
-| **AI opportunity** | Clinical decision support, revenue cycle optimization, workforce scheduling, predictive injury patterns, patient experience, employer analytics |
-| **Regulatory landscape** | HIPAA (primary), state workers' comp laws, drug testing regulations, employer privacy obligations, FDA AI/ML guidance for clinical tools |
+| **Scale** | 520+ medical centers, 44 states, thousands of clinical and administrative staff |
+| **Services** | Occupational medicine, urgent care, physical therapy, drug & alcohol testing, employer services, workers' comp injury management |
+| **EHR System** | Veradigm TouchWorks (formerly Allscripts) — deployed across all centers; AWS cloud infrastructure |
+| **AI Leadership** | Jason Cooper appointed Chief Data, Analytics, and Artificial Intelligence Officer — November 2025. His mandate: data strategy, governance, and insight generation aligned to enterprise growth. VP AI is the execution partner under that mandate. |
+| **Data environment** | Veradigm TouchWorks EHR, employer reporting systems, three-party billing (employer/workers' comp/insurance), drug testing and DOT compliance systems, scheduling and workforce management |
+| **AI opportunity** | Clinical decision support, revenue cycle optimization, workforce scheduling, injury pattern prediction, employer analytics, DOT compliance automation |
+| **Regulatory landscape** | HIPAA (with occupational health employer carve-outs), OSHA 29 CFR 1904, DOT 49 CFR Part 40 & 391, 50 state workers' comp systems, FMCSA Clearinghouse, FDA SaMD guidance |
 
 **Research to do before the interview:**
-- Review Concentra's most recent press releases and news (acquisitions, partnerships, technology investments)
-- Search for any published AI or digital transformation initiatives from Concentra leadership
-- Understand the occupational health regulatory environment (OSHA recordkeeping, employer reporting requirements, workers' comp data flows)
-- Review FDA's 2021 AI/ML-Based Software as a Medical Device Action Plan and any 2024-2026 updates
-- Study Concentra's current executive leadership team (who will be in the room)
+- Review Concentra's most recent press releases and news
+- Research Jason Cooper on LinkedIn — understand his background, prior roles, stated priorities
+- Understand the occupational health regulatory environment (OSHA recordkeeping, DOT requirements, workers' comp data flows)
+- Review FDA's AI/ML-Based Software as a Medical Device guidance and 2025–2026 updates
+- Study Concentra's full executive leadership team (who will be in the room)
 
 ---
 
 ## Interview Rounds — Expected Structure
 
 | Round | Likely Participants | Focus |
-|-------|--------------------|---------|
+|-------|--------------------|-------|
 | Round 1 | HR / Talent Acquisition | Role fit, compensation, timeline, culture |
-| Round 2 | CIO or CTO | Technical AI strategy, governance, platform decisions |
+| Round 2 | CIO, CTO, or Chief Data & AI Officer (Jason Cooper) | Technical AI strategy, governance, how VP AI execution integrates with Cooper's data mandate |
 | Round 3 | CMO or Chief Medical Officer | Clinical AI safety, patient outcomes, responsible AI |
 | Round 4 | CEO / COO | Strategic vision, ROI, organizational leadership |
 | Final | Executive panel + possibly board members | AI strategy presentation |
@@ -63,7 +65,7 @@
 
 **Q: How do you prioritize an AI portfolio when there are more opportunities than resources?**
 
-> Four-axis evaluation matrix: impact (clinical outcomes, operational efficiency, revenue), data readiness (is the data clean, governed, and accessible?), regulatory risk (HIPAA implications, FDA guidance applicability, liability), and implementation speed (time-to-value). I would plot every proposed AI initiative on this matrix and sequence the portfolio to lead with high-impact, data-ready, low-risk pilots that produce measurable wins quickly — building organizational confidence and board-level support while the longer-horizon, higher-complexity initiatives get the data and governance infrastructure they need. In occupational health specifically, I'd prioritize use cases where AI augments employer reporting accuracy, reduces injury claim cycle time, and improves scheduling efficiency — those are areas with measurable ROI and relatively low clinical risk, which makes them ideal first-wave pilots.
+> Four-axis evaluation matrix: impact (clinical outcomes, operational efficiency, revenue), data readiness (is the data clean, governed, and accessible?), regulatory risk (HIPAA implications, FDA guidance applicability, liability), and implementation speed (time-to-value). I would plot every proposed AI initiative on this matrix and sequence the portfolio to lead with high-impact, data-ready, low-risk pilots that produce measurable wins quickly — building organizational confidence and board-level support while the longer-horizon, higher-complexity initiatives get the data and governance infrastructure they need. In occupational health specifically, I'd prioritize use cases where AI augments employer reporting accuracy, reduces injury claim cycle time, and improves scheduling efficiency — areas with measurable ROI and relatively low clinical risk, which makes them ideal first-wave pilots.
 
 ---
 
@@ -75,7 +77,7 @@
 
 **Q: What's your understanding of FDA guidance on AI/ML-based software in clinical settings?**
 
-> The FDA's 2021 AI/ML-Based Software as a Medical Device Action Plan established the regulatory framework for AI that supports clinical decision-making. The key distinction for occupational health AI is whether a system constitutes a Software as a Medical Device (SaMD) — which triggers the full FDA regulatory pathway — or whether it's administrative AI that augments workflows without making diagnostic or treatment recommendations. Most occupational health AI use cases I'd prioritize — scheduling optimization, employer reporting, injury pattern analytics, revenue cycle — fall clearly outside the SaMD threshold. The areas to be careful about are any AI that influences clinical decisions: injury severity classification, return-to-work recommendations, or diagnostic support. Those would require close partnership with clinical leadership and legal to determine the appropriate regulatory posture. I've actively tracked FDA guidance updates and would make monitoring the evolving AI/ML regulatory landscape a standing responsibility of this role.
+> The FDA's AI/ML-Based Software as a Medical Device framework established the regulatory pathway for AI that supports clinical decision-making. The key distinction for occupational health AI is whether a system constitutes a Software as a Medical Device — which triggers the full FDA regulatory pathway — or whether it's administrative AI that augments workflows without making diagnostic or treatment recommendations. Most occupational health AI use cases I'd prioritize — scheduling optimization, employer reporting, injury pattern analytics, revenue cycle — fall clearly outside the SaMD threshold. The areas to be careful about are any AI that influences clinical decisions: injury severity classification, return-to-work recommendations, or diagnostic support. Those require close partnership with clinical leadership and legal to determine the appropriate regulatory posture. I've actively applied FDA guidance in an active clinical decision support deployment and would make monitoring the evolving AI/ML regulatory landscape a standing responsibility of this role.
 
 **Q: How do you handle AI bias in a clinical context?**
 
@@ -83,7 +85,7 @@
 
 **Q: How do you stay current on the healthcare AI regulatory landscape?**
 
-> I run a weekly AI intelligence collection process that tracks regulatory developments, model releases, platform benchmarks, and competitive shifts. I'd extend that specifically into healthcare AI regulatory monitoring as VP — tracking FDA guidance updates, state AI legislation (several states now have healthcare AI bills in progress), HIPAA enforcement actions involving AI vendors, and CMS reimbursement developments related to AI-assisted care. I'd establish a formal regulatory monitoring function within the AI team, with quarterly briefings to the compliance and legal teams, and an escalation path to the Chief Compliance Officer for anything that requires immediate organizational response.
+> I run a weekly AI intelligence collection process that tracks regulatory developments, model releases, platform benchmarks, and competitive shifts. I'd extend that specifically into healthcare AI regulatory monitoring as VP — tracking FDA guidance updates, state AI legislation, HIPAA enforcement actions involving AI vendors, and CMS reimbursement developments related to AI-assisted care. I'd establish a formal regulatory monitoring function within the AI team, with quarterly briefings to the compliance and legal teams, and an escalation path to the Chief Compliance Officer for anything that requires immediate organizational response.
 
 ---
 
@@ -91,7 +93,7 @@
 
 **Q: Describe how you've built an AI governance framework from scratch.**
 
-> The AIXaaS™ governance framework started with a foundational question: what would have to be true for this system to be deployed safely in the most regulated environment we can imagine? That led to a 10-layer architecture where governance isn't a layer — it IS the structure. The key components I built: a deterministic compliance engine (25+ regulatory frameworks, zero reliance on LLM inference for enforcement decisions — the system doesn't ask an AI if something is HIPAA-compliant, it enforces it mechanically), human-in-the-loop approval gates for high-risk decisions, ADR (Architecture Decision Record) change control so every modification to model configuration, prompts, or retrieval pipelines is audited and approved before production, full audit trails that produce evidence acceptable for regulatory review, and an AI risk classification system that determines the review and approval process required based on clinical risk level. For Concentra, I'd adapt that framework specifically to occupational health — mapping the HIPAA requirements, FDA guidance thresholds, and employer data obligations into a governance policy that every AI initiative passes through before deployment.
+> The AIXaaS™ governance framework started with a foundational question: what would have to be true for this system to be deployed safely in the most regulated environment we can imagine? That led to a 10-layer architecture where governance isn't a layer — it IS the structure. The key components I built: a deterministic compliance engine (25+ regulatory frameworks, zero reliance on LLM inference for enforcement decisions — the system doesn't ask an AI if something is HIPAA-compliant, it enforces it mechanically), human-in-the-loop approval gates for high-risk decisions, ADR change control so every modification to model configuration, prompts, or retrieval pipelines is audited and approved before production, full audit trails that produce evidence acceptable for regulatory review, and an AI risk classification system that determines the review and approval process required based on clinical risk level. For Concentra, I'd adapt that framework specifically to occupational health — mapping the HIPAA requirements, FDA guidance thresholds, and employer data obligations into a governance policy that every AI initiative passes through before deployment.
 
 **Q: Tell me about a time you said no to an AI initiative because of risk.**
 
@@ -139,7 +141,7 @@
 
 **Q: What do you know about occupational health that's relevant to AI?**
 
-> Occupational health operates at a unique intersection: employer obligations, employee rights, clinical care, regulatory compliance, and insurance/compensation systems all overlap in every patient encounter. That complexity creates both the challenge and the opportunity for AI. The data in occupational health is rich — injury patterns by industry, employer, geography, job type — and predictive analytics on that data has enormous value: injury prevention recommendations to employers, return-to-work optimization, drug screening compliance, physical capability matching. The revenue cycle is also distinctive: billing in occupational health involves employer billing, workers' comp billing, and sometimes traditional insurance, with different coding requirements and compliance obligations. AI that helps revenue cycle teams navigate that complexity correctly has direct financial impact. I'd spend my first 30 days with clinical leadership and operations teams learning the workflows in detail — but the governance framework and AI strategy methodology transfer directly from my regulated-industry experience.
+> Occupational health is unique because it serves two principals simultaneously — the employee who receives care and the employer who in many cases is paying for it. That dual-service relationship creates governance complexity most healthcare AI gets wrong: knowing exactly which patient data can flow to the employer, when, and under what HIPAA carve-out, requires precise governance architecture. Each of Concentra's service lines — DOT physicals, drug testing, workers' comp, PT, onsite employer services — carries its own regulatory overlay: OSHA 29 CFR 1904, DOT CFR Part 40, 50 different state workers' comp systems, FMCSA Clearinghouse. AI that serves Concentra has to be jurisdiction-aware, service-line-aware, and employer-contract-aware simultaneously. That is exactly the multi-framework governance complexity I have built infrastructure for.
 
 **Q: What does success look like at 12 months for you in this role?**
 
@@ -147,11 +149,56 @@
 
 ---
 
+### Section 7: Healthcare Data Standards
+
+**Q: How familiar are you with HL7 and FHIR?**
+
+> I've mapped Concentra's specific data standard landscape in depth. HL7 v2.x is the operational backbone in TouchWorks — ADT messages trigger AI workflow initiation when a patient arrives, ORU messages deliver lab results that trigger clinical decision support, and MDM messages fire when a clinical note is created, which is the trigger for coding AI. FHIR R4 is the modern REST API layer — resources like Encounter, Observation, Condition, and DocumentReference give AI systems clean, structured clinical context. SMART on FHIR is the authorization framework that governs how AI applications get access to that data — the OAuth2 layer that sits between the AI and the EHR. In terms of implementation: the governance architecture I've built is data-standard-agnostic. Extending it for FHIR resources is a configuration exercise, not an architectural rebuild.
+
+**Q: How would AI interact with our billing and claims infrastructure?**
+
+> The billing wire protocol in healthcare is X12 EDI — every claim submission, remittance, and eligibility check runs over X12 transactions. For Concentra specifically, the 837P is the professional claim submission transaction where coding AI catches errors before the claim goes out. The 835 remittance transaction is where underpayment detection AI lives — automatically reconciling what was paid against what should have been paid per state fee schedule. The 270/271 eligibility check is where pre-service authorization AI plugs in. And the 278 prior authorization transaction is the integration point for automating workers' comp authorization requests to carriers. The prior authorization automation work through the Da Vinci FHIR implementation guides — CRD, DTR, and PAS — maps directly to Concentra's workers' comp auth problem.
+
+**Q: What healthcare data standards are specific to occupational health that you'd need to work with?**
+
+> There are several that most healthcare AI architects never encounter. OSHA 300 and 301 recordkeeping forms — at point of care, AI can determine OSHA recordability and auto-populate log entries, which is high value for employer clients. The workers' comp First Report of Injury — FROI — is state-specific with 50 different formats; some states use the IAIABC EDI standard, and AI can auto-generate the FROI from clinical documentation. DOT chain of custody forms are the billing trigger for drug testing — digital COC automation eliminates manual compliance errors. The FMCSA Drug and Alcohol Clearinghouse is a federal database every CDL employer must query; AI automates those queries and alerts employers to violations. And the Medical Examiner Certificate for CDL driver physicals — AI can predict expiration windows across an employer's entire CDL fleet and drive proactive scheduling. Knowing these standards before day one means I'm immediately useful in service-line conversations, not learning the vocabulary in the room.
+
+---
+
+### Section 8: Occupational Health Domain Knowledge
+
+**Q: Walk me through how you'd approach AI prioritization across Concentra's service lines.**
+
+> I'd organize the portfolio into three waves by risk level and time-to-value. Wave one, targeting day 60 to 180, is operational AI with the fastest ROI and lowest clinical risk: documentation-to-coding accuracy across all service lines, DOT certification scheduling intelligence, OSHA recordability determination at point of care, drug testing chain of custody automation, and authorization tracking. These are measurable, low clinical risk, and fund the program. Wave two, day 180 to 365, is clinical support AI: return-to-work timeline prediction for workers' comp and PT, employer health analytics portal, and denial pattern analysis. Wave three, year two and beyond, is predictive and strategic: injury prevention analytics for employer clients, workers' comp fraud pattern detection, and workforce scheduling optimization across 520+ centers. The sequencing isn't arbitrary — wave one builds the data infrastructure, governance trust, and clinical credibility that wave two and three require.
+
+**Q: How does HIPAA apply differently in an occupational health context?**
+
+> Occupational health has HIPAA carve-outs that most healthcare settings don't. An employer can receive certain health information about their employee without explicit patient authorization — but only in specific circumstances: work-relatedness determinations, fitness-for-duty evaluations, FMLA certifications, and workers' comp injury reporting. Outside those carve-outs, the standard HIPAA restrictions apply. The AI governance challenge is that the system has to know, for every data field and every output, whether it falls inside or outside an applicable carve-out — and that determination changes based on the service type, the employer contract, and the jurisdiction. That's not a policy problem; it's a governance architecture problem. I've built deterministic compliance engines that enforce exactly this kind of context-dependent rule set, and I'd apply the same approach to the occupational health employer-patient data boundary.
+
+**Q: How would you approach AI for workers' compensation at Concentra?**
+
+> Workers' comp is a full-lifecycle AI opportunity. At intake, AI extracts injury data from clinical notes and verifies employer coverage — faster FNOL initiation. During treatment, authorization tracking AI prevents denied-service situations by flagging expiring authorizations before care is delivered. At billing, coding accuracy AI enforces state-specific fee schedule rules — 50 different state systems — and scrubs claims before submission. After payment, underpayment detection AI reconciles remittance against state fee schedules and flags appeals candidates. On the predictive side, return-to-work timeline models built on injury type, treatment protocol, and patient factors give employers planning visibility and reduce unnecessary claim extensions. The overall outcome: faster claims, fewer denials, appropriate claim durations, and measurable ROI that Concentra can show employer clients as a competitive differentiator.
+
+---
+
+### Section 9: Education — If Asked About the Master's Degree
+
+**Q: The job posting listed a master's degree as preferred. Can you speak to that?**
+
+> I don't have a master's degree — I want to be direct about that. What I chose instead was to build what a master's program teaches you to plan. The governance framework I'd bring to Concentra would be graduate curriculum content — and it's production-tested, not theoretical. I respect what the preference signals about analytical rigor, and my answer to that signal is the track record: 23 years, 13 builds, 6 regulated industries, published thought leadership, and an active clinical AI deployment. The rigor is there — it's been tested in production, not in a classroom.
+
+**Q (follow-up): Is there an HR requirement for the degree, or is it a preference?**
+
+> If it's an HR qualification gate, that's a real constraint and I respect it. If the preference is about analytical depth and the ability to operate at the strategic level this role requires, I'm confident the production record answers that question more directly than a transcript would. I'd rather we be clear on which it is.
+
+---
+
 ## Questions to Ask Concentra
 
-**For the CIO/CTO:**
+**For the CIO/CTO or Chief Data & AI Officer (Jason Cooper):**
+- How does the VP AI role interface with the Chief Data, Analytics, and AI function — is the expectation to build AI execution capacity under that strategic mandate, or to operate as a separate AI strategy function?
 - What does Concentra's current data infrastructure look like? Is there a unified data platform, or is data siloed across clinical, billing, and HR systems?
-- What AI initiatives are already in flight — either vendor-purchased or internally built — and where have you hit the most friction scaling them?
+- What AI initiatives are already in flight — vendor-purchased or internally built — and where have you hit the most friction scaling them?
 - What's the relationship between the AI function and the data governance organization?
 
 **For the CMO/Clinical Leadership:**
@@ -187,16 +234,20 @@
 
 ## Pre-Interview Checklist
 
-- [ ] Read Concentra's most recent news releases and press coverage
-- [ ] Review FDA 2021 AI/ML-Based Software as a Medical Device Action Plan (30-min read)
-- [ ] Research Concentra's executive leadership team (LinkedIn, Concentra website)
-- [ ] Review any recent healthcare AI governance developments (HIPAA enforcement actions, state AI laws)
+- [ ] Research Jason Cooper on LinkedIn — understand prior roles, stated leadership priorities, and his data governance philosophy before Round 2
+- [ ] Review Concentra's most recent news releases and press coverage (acquisitions, technology investments, AI announcements)
+- [ ] Read the full CONCENTRA_DOMAIN_BRIEF.md — EHR, RCM, occupational health domain, and healthcare data standards
+- [ ] Review FDA AI/ML-Based Software as a Medical Device guidance and 2025–2026 updates
+- [ ] Study OSHA 300/301 recordkeeping basics and DOT 49 CFR Part 40 drug testing framework (30-min read each)
+- [ ] Review Veradigm/TouchWorks — understand the SMART on FHIR authorization model and HL7 v2.x message types
+- [ ] Study Concentra's full executive leadership team (who will be in the room for each round)
 - [ ] Prepare 2–3 specific examples of measurable AI outcomes you can cite with numbers
 - [ ] Practice the one-page version of your HIPAA AI story (under 90 seconds)
-- [ ] Prepare 5 specific questions for each interview panel (from list above)
-- [ ] Have the 90-day plan ready to walk through if asked
-- [ ] Review the AIXaaS platform demos in case they ask for a live walkthrough
-- [ ] Confirm you can speak to SOX compliance work specifically (they called it out in qualifications)
+- [ ] Prepare 5 specific questions for each interview panel (from the Questions to Ask section above)
+- [ ] Have the 90-day plan (90_DAY_PLAN.md) ready to walk through if asked
+- [ ] Review the AIXaaS platform architecture in case they ask for a walkthrough
+- [ ] Confirm you can speak to SOX compliance work specifically (called out in qualifications)
+- [ ] Prepare the education offset response (Section 9 above) — have it ready, do not wait to be surprised
 
 ---
 

@@ -10,7 +10,7 @@
 | Requirement | Bryan's Credential | Assessment |
 |-------------|-------------------|------------|
 | Bachelor's in CS, IS, Data Science, or related field | Engineering & Business, University of Texas at Arlington | ✅ Meets requirement — Engineering & Business explicitly qualifies under "other related field" |
-| Master's degree preferred | 23 years production experience + executive track record + published thought leadership | ⚠️ Preferred, not required — fully offset by depth of practical expertise |
+| Master's degree preferred | 23 years production experience + executive track record + published thought leadership. Production equivalent mapped in CONCENTRA_DOMAIN_BRIEF.md Section 5: 13 capstone deployments, 6 regulated industries, published HIPAA AI guidance, 10-layer governance framework in production. | ⚠️ Preferred, not required — fully offset by depth of practical expertise. Direct response language prepared. |
 
 ---
 
@@ -25,7 +25,7 @@
 | Experience establishing AI governance frameworks and responsible AI practices | AIXaaS™ 10-layer governance architecture; deterministic 25+ framework compliance engine; ADR change control; bias prevention; human-in-the-loop gates; full audit trails | ✅ Core strength — this is the differentiator |
 | Experience partnering with data governance organizations | Partnered with data leadership at enterprise clients; built data governance into platform as structural requirement; governed RAG pipeline design requires data quality partnership | ✅ Matches — both as platform architect and as client-facing AI strategy partner |
 | Experience building and leading high-performing AI teams | Teams of up to 30 engineers and architects; built Inflexis AI team from zero; team structure includes data scientists, ML engineers, AI PMs | ✅ Demonstrated team leadership at scale |
-| Healthcare regulatory requirements (HIPAA, FDA AI/ML guidance, emerging AI legislation) | HIPAA: production platform + published guidance; NDA clinical deployment with SaMD posture analysis; FDA: actively monitored; state/federal AI legislation: weekly intelligence monitoring | ✅ HIPAA strong; FDA guidance: working knowledge with targeted study plan |
+| Healthcare regulatory requirements (HIPAA, FDA AI/ML guidance, emerging AI legislation) | HIPAA: production platform + published guidance; NDA clinical deployment with SaMD posture analysis; FDA: actively monitored; state/federal AI legislation: weekly intelligence monitoring | ✅ HIPAA strong; FDA guidance: working knowledge applied in active clinical deployment |
 | Organizational change management and AI adoption across technical and non-technical stakeholders | CoreSkills4AI 25+ module training platform; multi-district K-12 AI adoption program; enterprise operations adoption across multiple verticals | ✅ Demonstrated |
 
 ---
@@ -39,7 +39,7 @@
 | AI governance, ethics, responsible AI frameworks | ✅ Differentiator | 10-layer deterministic governance; ADR change control; bias prevention; HITL gates; patient safety as structural constraint |
 | Evaluate and recommend AI technologies and platforms | ✅ Strong | 6 LLM provider evaluations; vector database selection; cloud platform decisions; vendor management |
 | Generative AI, clinical decision support, predictive analytics, intelligent automation | ✅ Strong | MAO multi-agent platform; governed RAG (decision support); demand forecasting; workflow automation; active NDA clinical decision support deployment |
-| Drive AI adoption across clinical, operational, revenue cycle, workforce | ✅ Strong | Multi-vertical adoption experience; CoreSkills4AI; K-12 program; change management methodology |
+| Drive AI adoption across clinical, operational, revenue cycle, workforce | ✅ Strong | Multi-vertical adoption experience; CoreSkills4AI; K-12 program; RCM AI strategy developed with Inflexis CRO |
 | Partner with data organization | ✅ Strong | Data governance is baked into AIXaaS™ architecture; client data partnership is core engagement model |
 | AI literacy and change management programs | ✅ Strong | CoreSkills4AI platform; multi-district education AI adoption; enterprise AI literacy programs |
 | Monitor healthcare AI regulatory landscape | ✅ Active | Weekly AI intelligence monitoring; HIPAA production depth; FDA guidance tracking; state AI legislation |
@@ -53,17 +53,18 @@
 
 ## Technology Stack Alignment
 
-### Concentra's Likely AI Technology Environment
+### Concentra's AI Technology Environment
 
-| Category | Likely Concentra Stack | Bryan's Depth |
-|----------|----------------------|---------------|
-| Cloud Platform | Azure or AWS (healthcare enterprise standard) | ✅ Production-depth in both Azure and AWS |
+| Category | Concentra Stack (Confirmed/Likely) | Bryan's Depth |
+|----------|-----------------------------------|---------------|
+| Cloud Platform | AWS (confirmed) + possible Azure hybrid | ✅ Production-depth in both Azure and AWS |
+| EHR System | Veradigm TouchWorks (formerly Allscripts) — deployed across all 520+ centers | ✅ Mapped in detail; SMART on FHIR + HL7 v2.x integration plan developed; 60-day bridge plan in CONCENTRA_DOMAIN_BRIEF.md |
 | LLM / AI Services | Azure OpenAI, AWS Bedrock, or commercial AI platforms | ✅ Production deployments on both; 6-provider multi-LLM routing |
 | Data Platform | Enterprise data warehouse, likely Azure Synapse or Snowflake | ✅ Azure data platform expertise; governed data pipeline architecture |
 | Identity & Access | Azure Active Directory / Entra ID | ✅ Entra ID SSO, 8-role RBAC, zero-trust in production |
-| EHR Integration | Epic, Cerner, or occupational-health-specific EMR | ⚠️ Gap — no direct EHR integration experience; comparable depth in enterprise CMMS/CRM AI integration via governed RAG |
+| EHR Integration Standard | HL7 v2.x (operational) + FHIR R4 (new integrations) + SMART on FHIR (app auth) | ✅ Fully mapped; X12 EDI billing transactions mapped; occupational health–specific standards (OSHA, DOT, FMCSA) documented |
 | Analytics & BI | Power BI, Tableau, or similar | ✅ Power BI AI integration built into AIXaaS™ platform |
-| Compliance Infrastructure | HIPAA compliance tooling | ✅ Production deterministic HIPAA enforcement |
+| Compliance Infrastructure | HIPAA compliance tooling; state workers' comp systems | ✅ Production deterministic HIPAA enforcement; multi-jurisdiction compliance engine |
 | Vector / AI Search | Likely Azure AI Search or similar | ✅ Azure AI Search + Pinecone + pgvector in production |
 | MLOps | Azure ML or AWS SageMaker | ✅ CI/CD ML pipelines; model validation; GitHub Actions MLOps workflows |
 | Observability | Application Insights, Azure Monitor | ✅ Production deployment on Application Insights |
@@ -94,10 +95,10 @@
 | Team Leadership | 9/10 | Teams of 30+; built from zero; cross-functional delivery |
 | Executive Communication | 9/10 | C-suite delivery; board-ready communication style; published thought leader |
 | FDA AI/ML Software Guidance | 8.5/10 | SaMD posture analysis completed for active clinical deployment; targeted study plan |
-| EHR/Clinical Workflow Familiarity | 6/10 | Comparable CMMS/CRM depth; 30-day discovery plan with clinical leadership |
+| EHR/Clinical Workflow Familiarity | 7.5/10 | Veradigm TouchWorks identified as Concentra's actual system; CMMS/CRM integration patterns transfer directly; HL7 v2.x + FHIR R4 + X12 + occupational health standards fully mapped; 60-day bridge plan developed |
 | Technical Depth | 10/10 | Rare executive who personally builds what he governs |
 
-**Overall: 90/100 — Extremely strong alignment. EHR familiarity is the only remaining addressable gap.**
+**Overall: 92/100 — Exceptional alignment. EHR integration patterns are mapped and bridged. The remaining gap is hands-on clinical workflow time inside a healthcare organization — addressed through a clear 60-day discovery and integration plan.**
 
 ---
 
