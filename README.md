@@ -6,6 +6,8 @@
 
 **[1-Page Resume →](./resume/Bryan-Shaw-1Page-AzureAI.md) &nbsp;&nbsp;|&nbsp;&nbsp; [Full Resume →](./resume/Bryan-Shaw-Resume.md) &nbsp;&nbsp;|&nbsp;&nbsp; [Full Portfolio →](./PORTFOLIO.md)**
 
+[![Deploy](https://github.com/FlyguyTestRun/Portfolio/actions/workflows/azure-deploy.yml/badge.svg)](https://github.com/FlyguyTestRun/Portfolio/actions/workflows/azure-deploy.yml)
+
 ---
 
 ## Summary
@@ -21,7 +23,7 @@ Recognized for delivering enterprise AI platforms under compressed timelines whi
 ## Executive Impact
 
 - Delivered enterprise AI platforms across federal, cybersecurity, education, retail, and industrial sectors — **13 distinct builds across 6 industry verticals**
-- Reduced implementation timelines from **6–12 months to 4-12 weeks** via reusable, pre-governed architecture patterns
+- Reduced implementation timelines from **6–12 months to 4–12 weeks** via reusable, pre-governed architecture patterns
 - Drove **30–50% operational efficiency gains** and **60–70% faster time-to-value** across client engagements
 - Trusted advisor to C-suite, legal, and business leaders for AI strategy and execution
 - Led global, cross-functional teams of up to **30 engineers and architects**
@@ -38,6 +40,218 @@ Recognized for delivering enterprise AI platforms under compressed timelines whi
 | AI/ML Platform Engineering (Azure, AWS, GCP) | Infrastructure Engineering, IaC & DevSecOps |
 | Zero-Trust Security, IAM (RBAC/ABAC) | Human-in-the-Loop AI Systems |
 | AI Observability, Evaluation & Optimization | Product Architecture & Commercialization |
+
+---
+
+## Platform Architecture — Visual Overview
+
+### AIXaaS™ — Multi-Agent Orchestration Platform (10-Layer)
+
+```mermaid
+flowchart TD
+    subgraph INGESTION["Ingestion Layer"]
+        I1["📄 Documents"] 
+        I2["🔗 APIs"]
+        I3["📧 Streams"]
+    end
+
+    subgraph IDENTITY["Identity & Access (RBAC/ABAC)"]
+        ID["Entra ID · Zero Trust · Tenant Isolation"]
+    end
+
+    subgraph MAO["MAO Orchestrator — Agentic RAG"]
+        O["DAG Pipeline · Priority Queue · HITL Gate"]
+    end
+
+    subgraph AGENTS["Specialized Agent Layer"]
+        direction LR
+        A1["Research"] 
+        A2["Analysis"]
+        A3["Compliance"]
+        A4["Action"]
+        A5["Monitor"]
+    end
+
+    subgraph RETRIEVAL["3-Tier Hybrid RAG"]
+        R1["Pinecone (primary)"]
+        R2["pgvector (secondary)"]
+        R3["BM25 keyword (fallback)"]
+    end
+
+    subgraph COMPLIANCE["Compliance Engine"]
+        C["25+ Frameworks · HIPAA · GDPR · SOX · CMMC"]
+    end
+
+    subgraph DEPLOY["Azure Container Apps"]
+        D["Auto-scale · Key Vault · App Insights"]
+    end
+
+    I1 --> ID
+    I2 --> ID
+    I3 --> ID
+    ID --> MAO
+    MAO --> A1 & A2 & A3 & A4 & A5
+    A1 & A2 --> RETRIEVAL
+    A3 --> COMPLIANCE
+    RETRIEVAL --> MAO
+    COMPLIANCE --> MAO
+    A4 --> DEPLOY
+    A5 --> DEPLOY
+```
+
+---
+
+### Enterprise Facilities Management AI — Corrigo/BNSF Campus (5-Layer MAO DAG)
+
+```mermaid
+flowchart LR
+    subgraph IN["Input Sources"]
+        W["Work Orders"]
+        S["Sensors"]
+        P["PM Schedules"]
+        E["Email/Cal"]
+        B["Budget Data"]
+    end
+
+    O["MAO\nOrchestrator"]
+
+    subgraph AG["AI Agents"]
+        AG1["Work Order\nAgent"]
+        AG2["Asset\nAgent"]
+        AG3["Cost\nAgent"]
+        AG4["Compliance\nAgent"]
+        AG5["Reporting\nAgent"]
+    end
+
+    subgraph ACT["Action Layer"]
+        AC1["Auto Dispatch"]
+        AC2["PM Trigger"]
+        AC3["Vendor Alert"]
+        AC4["Budget Flag"]
+        AC5["Audit Log"]
+    end
+
+    subgraph OUT["Outcomes"]
+        O1["60% Faster Response"]
+        O2["99% PM Compliance"]
+        O3["30-40% Cost Reduction"]
+        O4["Full Audit Trail"]
+    end
+
+    W & S & P & E & B --> O
+    O --> AG1 & AG2 & AG3 & AG4 & AG5
+    AG1 --> AC1
+    AG2 --> AC2
+    AG3 --> AC4
+    AG4 --> AC5
+    AG5 --> AC4
+    AC1 --> O1
+    AC2 --> O2
+    AC3 & AC4 --> O3
+    AC5 --> O4
+```
+
+---
+
+### Inflexis Enterprise MLOps Platform — 11-Workstream Architecture
+
+```mermaid
+flowchart TD
+    subgraph CORE["Core Pipeline"]
+        WS1["WS1\nFeature Eng"] --> WS2["WS2\nModel Training"]
+        WS2 --> WS3["WS3\nInference"]
+        WS3 --> WS4["WS4\nMonitoring"]
+        WS4 -->|drift detected| WS5["WS5\nRetraining"]
+        WS5 --> WS2
+    end
+
+    subgraph PLATFORM["Platform Services"]
+        WS6["WS6 CI/CD"]
+        WS7["WS7 Multi-Tenant"]
+        WS8["WS8 RAG Knowledge"]
+        WS9["WS9 Agents+ABAC"]
+    end
+
+    subgraph OPS["Operations"]
+        WS10["WS10 Cost/Scaling"]
+        WS11["WS11 Portfolio"]
+    end
+
+    WS6 --> WS2 & WS3
+    WS7 --> WS3
+    WS8 --> WS3
+    WS9 --> WS3
+    WS10 --> WS3
+    WS11 --> WS10
+```
+
+---
+
+### Business Communication Intelligence Platform
+
+```mermaid
+flowchart LR
+    subgraph SRC["Sources"]
+        M1["📧 IMAP / Graph API\nCompany Email"]
+        M2["📅 Calendar/Meetings"]
+    end
+
+    subgraph PROC["Processing"]
+        P1["Email Router"]
+        P2["SPICED Scorer\nSituation·Pain·Impact\nCritical Event·Decision"]
+        P3["Agentic RAG\nContext Retrieval"]
+        P4["Pattern Recognition"]
+    end
+
+    subgraph OUT["Intelligence Output"]
+        O1["Deal Intelligence"]
+        O2["Risk Alerts"]
+        O3["Action Items"]
+        O4["Executive Dashboard"]
+    end
+
+    M1 --> P1
+    M2 --> P1
+    P1 --> P2
+    P2 --> P3
+    P3 --> P4
+    P4 --> O1 & O2 & O3
+    O1 & O2 & O3 --> O4
+```
+
+---
+
+### AI Intel — Weekly Agentic RAG Pipeline
+
+```mermaid
+flowchart TD
+    CRON["⏰ Weekly Cron Trigger"] --> FETCH
+
+    subgraph FETCH["Data Collection"]
+        F1["ArXiv Papers"]
+        F2["GitHub Releases"]
+        F3["Vendor Announcements"]
+        F4["Tech Blogs"]
+    end
+
+    FETCH --> AGENT
+
+    subgraph AGENT["Agentic RAG Loop"]
+        direction LR
+        Q["Query Plan"] --> R["Retrieve"]
+        R --> E["Evaluate Relevance"]
+        E -->|"need more"| Q
+        E -->|"sufficient"| S["Synthesize"]
+    end
+
+    S --> OUT
+
+    subgraph OUT["Outputs"]
+        O1["Weekly Digest Email"]
+        O2["Tech Stack Analyzer Update"]
+        O3["Portfolio Signal Alerts"]
+    end
+```
 
 ---
 
@@ -75,7 +289,7 @@ Lead architecture, engineering, and enterprise delivery of AIXaaS™ — a multi
 - **Enterprise Facilities Management** — Multi-agent orchestration over CMMS platform for Fortune-class rail and commercial client
 - **Retail AI Platform** — Inventory forecasting, competitive pricing intelligence, and POS integration across locations
 
-> [GitHub Org](https://github.com/Inflexis-ai) &nbsp;·&nbsp; [Platform Docs](https://github.com/Inflexis-ai/aixaas-docs) &nbsp;·&nbsp; [API Examples](https://github.com/Inflexis-ai/mao-examples) &nbsp;·&nbsp; [Full Portfolio →](./PORTFOLIO.md)
+> [GitHub Org](https://github.com/Inflexis-ai) &nbsp;·&nbsp; [Full Portfolio →](./PORTFOLIO.md)
 
 ---
 
@@ -104,7 +318,7 @@ Owned architecture and delivery of enterprise infrastructure, cloud, and securit
 ## Technical Expertise
 
 | Category | Technologies |
-|----------|-------------|
+|----------|--------------|
 | **AI & Agentic Systems** | Multi-agent orchestration, DAG pipelines, autonomous workflows, RAG (ingestion, embeddings, retrieval, reranking), human-in-the-loop, LLM orchestration, prompt engineering |
 | **Cloud & Platform** | Azure (Container Apps, Entra ID, Key Vault, App Insights, Azure SQL) · AWS (Bedrock, Lambda, Step Functions, S3, ECS/EKS) · GCP · Docker |
 | **Security & Governance** | IAM (RBAC/ABAC), Zero Trust, AI compliance (HIPAA, GDPR, SOX, CMMC, PCI-DSS, FedRAMP), observability, evaluation pipelines, air-gapped deployment |
@@ -115,7 +329,7 @@ Owned architecture and delivery of enterprise infrastructure, cloud, and securit
 
 ## Education
 
-**Bachelors — Engineering & Business** &nbsp;|&nbsp; University of Texas at Arlington &nbsp;|&nbsp; December 2010
+**Engineering & Business** &nbsp;|&nbsp; University of Texas at Arlington &nbsp;|&nbsp; December 2010
 
 ---
 
