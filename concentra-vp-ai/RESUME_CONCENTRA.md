@@ -113,7 +113,7 @@ Owned architecture and delivery of enterprise infrastructure, cloud, and securit
 
 **Leadership & Execution**
 - Served as primary technical advisor to executive stakeholders including law firm partners and C-suite leadership
-- Led cross-functional teams of up to 30 engineers, architects, and contractors
+- Led cross-functional teams of engineers, architects, and contractors
 - Owned end-to-end delivery: architecture, implementation, infrastructure, security, and support
 
 ---
