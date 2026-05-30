@@ -1,8 +1,6 @@
 # Bryan Shaw — Concentra VP, Artificial Intelligence
 ### Case Study & Interview Preparation Package | Job ID: 348092 | Addison, TX
 
-> **Private** — Do not share until interview secured.
-
 ---
 
 ## Package Navigation
