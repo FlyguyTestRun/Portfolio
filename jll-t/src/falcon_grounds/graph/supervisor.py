@@ -24,6 +24,10 @@ from falcon_grounds.rag.graph_retriever import FacilitiesGraphRetriever
 _graph_retriever = FacilitiesGraphRetriever()
 
 
+# ---------------------------------------------------------------------------
+# Node functions
+# ---------------------------------------------------------------------------
+
 def node_pre_router(state: AgentState) -> AgentState:
     """Layer 1: deterministic routing via regex pattern matching."""
     state = dict(state)
@@ -111,6 +115,10 @@ def node_record_cost(state: AgentState) -> AgentState:
     return state  # type: ignore[return-value]
 
 
+# ---------------------------------------------------------------------------
+# Routing functions
+# ---------------------------------------------------------------------------
+
 def route_after_pre_router(state: AgentState) -> str:
     if state.get("route") == "deterministic":
         return "record_cost"
@@ -128,10 +136,16 @@ def route_after_compliance(state: AgentState) -> str:
 def route_after_quality_guard(state: AgentState) -> str:
     if state.get("grounded"):
         return "record_cost"
-    if state.get("iteration", 0) < 3:
+    # Only retry retrieval if the previous pass returned chunks. Retrying against
+    # an empty retrieval store is a no-op and wastes per-call cost budget.
+    if state.get("iteration", 0) < 3 and state.get("retrieval_chunks"):
         return "retrieval"
     return "record_cost"
 
+
+# ---------------------------------------------------------------------------
+# Graph construction
+# ---------------------------------------------------------------------------
 
 def create_compiled_graph():  # type: ignore[return]
     """Build and compile the LangGraph StateGraph."""

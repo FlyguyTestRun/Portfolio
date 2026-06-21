@@ -13,7 +13,7 @@ from typing import Literal
 TASK_TIER_MAP: dict[str, str] = {
     "reasoning": "frontier",
     "compliance": "frontier",
-    "routing": "frontier",
+    "routing": "fast",      # Supervisor routing is classification, not reasoning.
     "extraction": "fast",
     "classification": "fast",
     "summarization": "fast",
