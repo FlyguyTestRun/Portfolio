@@ -36,7 +36,9 @@ class SemanticCache:
         return (tokens / 1000) * 0.00002
 
     def _cache_key(self, tenant_id: str, query_embedding: list[float]) -> str:
-        rounded = tuple(round(v, 3) for v in query_embedding)
+        # Round to 2 decimal places so near-duplicate embeddings (differing only
+        # at the 3rd decimal and beyond) map to the same bucket and cache key.
+        rounded = tuple(round(v, 2) for v in query_embedding)
         raw = f"{tenant_id}:{rounded}"
         digest = hashlib.sha256(raw.encode()).hexdigest()
         return f"sc:{digest}"
