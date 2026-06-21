@@ -1,0 +1,16 @@
+[
+  {
+    "id": "MAN-001",
+    "tenant_id": "meridian",
+    "asset_type": "chiller",
+    "title": "Carrier 30XA Series: High Head Pressure Diagnosis",
+    "content": "High condensing pressure (high head pressure) is typically caused by one or more of the following conditions: 1) Non-condensable gases in the refrigerant system, 2) Condenser coil fouling or blockage restricting airflow, 3) Overcharge of refrigerant, 4) Faulty condenser fan motor reducing airflow, 5) Ambient temperature exceeding design limits. Diagnostic procedure: First, check ambient temperature against design specifications (max 95 degrees F for standard units). Next, inspect condenser coil for fouling or debris. Measure subcooling at condenser outlet. Normal subcooling range for 30XA series: 10 to 15 degrees F. Elevated subcooling combined with high head pressure indicates overcharge or restricted flow. Reduced subcooling indicates refrigerant undercharge or non-condensable gases present."
+  },
+  {
+    "id": "MAN-002",
+    "tenant_id": "meridian",
+    "asset_type": "chiller",
+    "title": "Carrier 30XA Series: Maintenance Schedule",
+    "content": "Quarterly maintenance requirements: Inspect refrigerant charge, check operating pressures and temperatures against design specifications, inspect all electrical connections for tightness and corrosion, clean condenser coils if airflow is restricted by more than 10 percent. Annual maintenance requirements: Full refrigerant analysis, oil analysis and change if contaminated, complete leak check of all fittings and connections, calibrate pressure and temperature sensors, test all safety cutout switches. Warranty compliance note: Deferred maintenance invalidates warranty claims for failures that could reasonably have been prevented. Maintain complete service records for all warranty claim submissions. Records must include technician name, work performed, parts replaced, and operating readings before and after service."
+  }
+]

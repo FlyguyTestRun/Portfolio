@@ -1,0 +1,47 @@
+[
+  {
+    "id": "WO-2025-0891",
+    "tenant_id": "meridian",
+    "asset_id": "ASSET-CHI-3A",
+    "status": "closed",
+    "description": "Routine quarterly inspection. Found minor refrigerant leak at service valve. Repaired and recharged.",
+    "priority": "medium",
+    "metadata": {"technician": "J. Reyes", "completed_date": "2025-08-12"}
+  },
+  {
+    "id": "WO-2025-1102",
+    "tenant_id": "meridian",
+    "asset_id": "ASSET-CHI-3A",
+    "status": "closed",
+    "description": "High head pressure alarm investigated. Cleaned condenser coils. Pressure returned to normal operating range.",
+    "priority": "high",
+    "metadata": {"technician": "M. Okonkwo", "completed_date": "2025-10-30"}
+  },
+  {
+    "id": "WO-2026-0023",
+    "tenant_id": "meridian",
+    "asset_id": "ASSET-CHI-3A",
+    "status": "open",
+    "description": "Intermittent high head pressure alarms reported by BMS. Cause undetermined. Requires investigation and root cause analysis.",
+    "priority": "high",
+    "metadata": {"opened_by": "BMS Auto-Alert", "opened_date": "2026-06-18"}
+  },
+  {
+    "id": "WO-2025-0443",
+    "tenant_id": "meridian",
+    "asset_id": "ASSET-CHI-1A",
+    "status": "closed",
+    "description": "Annual inspection completed. No issues found. All operating pressures within specification.",
+    "priority": "low",
+    "metadata": {"technician": "J. Reyes", "completed_date": "2025-07-20"}
+  },
+  {
+    "id": "WO-2025-0712",
+    "tenant_id": "meridian",
+    "asset_id": "ASSET-AHU-4B",
+    "status": "closed",
+    "description": "Filter replacement and belt inspection. All filters replaced. Belt tension adjusted. Unit returned to service.",
+    "priority": "low",
+    "metadata": {"technician": "S. Petrov", "completed_date": "2025-09-15"}
+  }
+]

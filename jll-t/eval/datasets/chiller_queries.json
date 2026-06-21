@@ -1,0 +1,32 @@
+[
+  {
+    "id": "q1",
+    "query": "What is the work order history for Chiller 3 in Tower A?",
+    "expected_route": "agent",
+    "notes": "Retrieval-heavy. Should surface WO-2025-0891, WO-2025-1102, WO-2026-0023."
+  },
+  {
+    "id": "q2",
+    "query": "ASSET-ID: ASSET-CHI-3A status",
+    "expected_route": "deterministic",
+    "notes": "Should pre-route via asset_id pattern. Zero model cost."
+  },
+  {
+    "id": "q3",
+    "query": "Is there a warranty constraint on Chiller 3 compressor replacement?",
+    "expected_route": "agent",
+    "notes": "Compliance-heavy. Should surface POL-001 and MAN-002 warranty note."
+  },
+  {
+    "id": "q4",
+    "query": "Chiller 3 high head pressure. What is the likely cause and what work order should we open?",
+    "expected_route": "agent",
+    "notes": "Full pipeline. Retrieval, compliance, maintenance, and quality guard all run."
+  },
+  {
+    "id": "q5",
+    "query": "What is the open work order status for ASSET-CHI-3A?",
+    "expected_route": "agent",
+    "notes": "Should bypass cache (volatile TTL=0 for work_order_status). Asset ID in text triggers pre-router."
+  }
+]
