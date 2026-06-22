@@ -1,0 +1,44 @@
+[
+  {
+    "id": "ASSET-CHI-3A",
+    "tenant_id": "meridian",
+    "name": "Chiller 3",
+    "type": "chiller",
+    "location": "Tower A - Mechanical Room Level B1",
+    "metadata": {
+      "manufacturer": "Carrier",
+      "model": "30XA-162",
+      "install_date": "2019-03-15",
+      "warranty_expiry": "2029-03-15",
+      "last_service": "2025-11-20"
+    }
+  },
+  {
+    "id": "ASSET-CHI-1A",
+    "tenant_id": "meridian",
+    "name": "Chiller 1",
+    "type": "chiller",
+    "location": "Tower A - Mechanical Room Level B1",
+    "metadata": {
+      "manufacturer": "Carrier",
+      "model": "30XA-162",
+      "install_date": "2018-06-01",
+      "warranty_expiry": "2028-06-01",
+      "last_service": "2025-10-05"
+    }
+  },
+  {
+    "id": "ASSET-AHU-4B",
+    "tenant_id": "meridian",
+    "name": "Air Handler Unit 4",
+    "type": "air_handler",
+    "location": "Tower B - Roof Level 32",
+    "metadata": {
+      "manufacturer": "Trane",
+      "model": "M-Series",
+      "install_date": "2020-01-10",
+      "warranty_expiry": "2030-01-10",
+      "last_service": "2025-12-01"
+    }
+  }
+]

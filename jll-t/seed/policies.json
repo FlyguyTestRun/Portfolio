@@ -1,0 +1,16 @@
+[
+  {
+    "id": "POL-001",
+    "tenant_id": "meridian",
+    "name": "Warranty Claim Procedure",
+    "content": "All repairs to equipment under active manufacturer warranty must be reported to facilities management within 24 hours of the repair. Work orders must reference the warranty contract number. Third-party repair work performed without manufacturer authorization voids warranty coverage. Approved service providers are listed in the facilities management system under each asset record.",
+    "category": "warranty"
+  },
+  {
+    "id": "POL-002",
+    "tenant_id": "meridian",
+    "name": "High Priority Equipment Response",
+    "content": "Chiller units are classified as critical infrastructure for the Meridian Portfolio. Response time SLA: 2 hours for alarm acknowledgment, 4 hours for on-site diagnosis, 24 hours for repair initiation. After-hours escalation is required for high head pressure exceeding 15% above design operating pressure. Facilities director must be notified within 1 hour of any chiller alarm that cannot be resolved remotely.",
+    "category": "operations"
+  }
+]
