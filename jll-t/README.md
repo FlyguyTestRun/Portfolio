@@ -78,8 +78,9 @@ quality guard on every answer.
   │          │                                                                  │
   │          ▼                                                                  │
   │  ┌─────────────┐   LAYER 7: Cost Attribution                               │
-  │  │ Cost Record │   Per-layer cost logged to JSONL.                         │
+  │  │ Cost Record │   Per-request JSONL cost log.                              │
   │  └─────────────┘   'make costreport' aggregates and reports.               │
+  │                    Cost gate in CI fails build on regression.               │
   │                                                                             │
   │  DATA LAYER                                                                 │
   │  PostgreSQL (local) / Azure Database for PostgreSQL (cloud)                 │
@@ -101,7 +102,7 @@ quality guard on every answer.
 | 4: Prompt Caching | Stable prompts cached at provider | `llm/prompt_cache.py` | Up to 90% reduction on prompt token charges |
 | 5: Context Compression | Top-k truncation before model call | `rag/compress.py` | 30 to 60% input token reduction |
 | 6: Tool-Context Discipline | Step-specific tool loading only | `tools/tool_loader.py` | 70 to 80% reduction in tool-definition tokens |
-| 7: Cost Attribution | Per-request JSONL cost log | `observability/cost_attribution.py` | Empirical validation, CI gate, tenant billing |
+| 7: Cost Attribution | Per-request JSONL cost log, CI gate | `observability/cost_attribution.py` | Empirical validation, build fails on regression |
 
 Combined: 47 to 80% reduction in mean cost per request vs naive full-frontier baseline.
 
@@ -113,15 +114,19 @@ Combined: 47 to 80% reduction in mean cost per request vs naive full-frontier ba
 |-----------|----------|
 | LangGraph typed StateGraph with HITL | `graph/supervisor.py`, `graph/state.py` |
 | Seven-layer cost governance | All layer files + `observability/cost_attribution.py` |
+| Cost regression as a CI gate | `.github/workflows/falcon-grounds-ci.yml`, ADR 0012 |
 | Volatility-aware semantic cache | `rag/semantic_cache.py` |
 | Hybrid retrieval (keyword + vector) | `rag/hybrid_retriever.py`, `rag/reranker.py` |
+| Graph RAG via networkx | `rag/graph_retriever.py` |
 | Groundedness guard with retry loop | `governance/quality_guard.py` |
 | Confidence scoring | `governance/confidence.py` |
 | Three-mode runtime (local/hybrid/cloud) | `config.py`, `llm/clients.py`, `persistence/` |
+| LangSmith auto-instrumentation | `observability/langsmith_tracer.py` |
 | Non-privileged Docker container | `Dockerfile` |
 | FastAPI with lifespan and health endpoint | `api/main.py` |
-| ADR documentation (10 decisions) | `docs/adr/` |
-| Eval harness with cost gate | `eval/run_eval.py` |
+| ADR documentation (12 decisions) | `docs/adr/` |
+| Eval harness with cost gate | `eval/run_eval.py`, `eval/langsmith_eval.py` |
+| Prism/Falcon alignment | `docs/falcon-prism-alignment.md` |
 
 ---
 
@@ -141,6 +146,7 @@ Combined: 47 to 80% reduction in mean cost per request vs naive full-frontier ba
 | Language | Python 3.12 |
 | Container | Docker (python:3.12-slim, UID 10001) |
 | Orchestration | Docker Compose (local) / Azure Container Apps (cloud) |
+| Observability | LangSmith (auto-instrumented via LangGraph) |
 
 ---
 
@@ -188,7 +194,7 @@ Layer          Total Cost (USD)   Description
 retrieval      $0.00500           PostgreSQL keyword/vector search
 maintenance    $0.00400           Work order proposal generation
 compliance     $0.00000           LLM confidence and policy assessment
-supervisor     $0.00600           Model tier selection (routing call)
+supervisor     $0.00150           Model tier selection (fast tier)
 
 Requests by Model Tier
 Tier         Count
@@ -213,6 +219,8 @@ none         1
 | 0008 | Cost Attribution Governance | Without measurement, no optimization can be validated. Cost as CI gate. |
 | 0009 | HITL via Graph Interrupt and Webhook | Pause-and-resume for sensitive actions. Local console or cloud webhook. |
 | 0010 | Three-Mode Runtime Parity | Local, hybrid, cloud. Same graph, same code paths. Mode selection by env var. |
+| 0011 | LangChain Ecosystem Integration | LangChain retriever abstractions and LangSmith observability in one platform. |
+| 0012 | Cost Regression as a CI Gate | Build fails if mean cost per request exceeds threshold. Regressions caught before merge. |
 
 ---
 
@@ -227,6 +235,7 @@ none         1
 | `make seed` | Load fixture data into PostgreSQL. |
 | `make test` | Run the unit test suite. |
 | `make eval` | Run the eval harness against chiller_queries.json. |
+| `make langsmith-push-eval` | Run eval and push results to LangSmith dataset. |
 | `make reset` | Drop and recreate schema. Delete logs. |
 | `make logs` | Follow the API container logs. |
 
